@@ -1,0 +1,629 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="Assets/Localization/Loc Tables/UI_Strings_pt-BR.asset" source-language="en" datatype="plaintext" target-language="pt-BR">
+    <header>
+      <skl>
+        <external-file href="Assets/Localization/Loc Tables/UI_Strings_pt-BR.asset" uid="ccbc0e04ef6c95b46a8f9779758e4a60" />
+      </skl>
+    </header>
+    <body>
+      <group id="8da974c375ada7b46894d8709f5f84b6" resname="UI_Strings">
+        <trans-unit id="172488658944" xml:space="preserve" resname="button_enjoy">
+          <source>Engage!</source>
+        </trans-unit>
+        <trans-unit id="8999430787072" xml:space="preserve" resname="settings_language">
+          <source>Language</source>
+        </trans-unit>
+        <trans-unit id="949051585466368" xml:space="preserve" resname="main_tab_general">
+          <source>general options</source>
+        </trans-unit>
+        <trans-unit id="949249091047424" xml:space="preserve" resname="main_tab_customization">
+          <source>body customization</source>
+        </trans-unit>
+        <trans-unit id="949380095938560" xml:space="preserve" resname="main_tab_makeup">
+          <source>make up</source>
+        </trans-unit>
+        <trans-unit id="949473054298112" xml:space="preserve" resname="main_tab_underwear">
+          <source>underwear</source>
+        </trans-unit>
+        <trans-unit id="949600036851712" xml:space="preserve" resname="main_tab_basicwear">
+          <source>basic wear</source>
+        </trans-unit>
+        <trans-unit id="949719268331520" xml:space="preserve" resname="main_tab_accs">
+          <source>accessories</source>
+        </trans-unit>
+        <trans-unit id="949805339643904" xml:space="preserve" resname="main_tab_cosplay">
+          <source>cosplay</source>
+        </trans-unit>
+        <trans-unit id="949905503817728" xml:space="preserve" resname="main_tab_fetish">
+          <source>fetish wear</source>
+        </trans-unit>
+        <trans-unit id="949964530257920" xml:space="preserve" resname="main_tab_toggle">
+          <source>toggle panel</source>
+        </trans-unit>
+        <trans-unit id="950596091777024" xml:space="preserve" resname="main_arousal_f">
+          <source>her arousal</source>
+        </trans-unit>
+        <trans-unit id="950894784942080" xml:space="preserve" resname="main_arousal_m">
+          <source>his arousal</source>
+        </trans-unit>
+        <trans-unit id="951544549740544" xml:space="preserve" resname="main_tab_controls">
+          <source>toy controls</source>
+        </trans-unit>
+        <trans-unit id="951657414266880" xml:space="preserve" resname="main_tab_toys1">
+          <source>vanilla toys</source>
+        </trans-unit>
+        <trans-unit id="951769431543808" xml:space="preserve" resname="main_tab_toys2">
+          <source>SM toys</source>
+        </trans-unit>
+        <trans-unit id="951844064989184" xml:space="preserve" resname="main_tab_env">
+          <source>environment</source>
+        </trans-unit>
+        <trans-unit id="953083037224960" xml:space="preserve" resname="insertioncontrol_btn_start">
+          <source>start</source>
+        </trans-unit>
+        <trans-unit id="953670327865344" xml:space="preserve" resname="insertioncontrol_btn_stop">
+          <source>stop</source>
+        </trans-unit>
+        <trans-unit id="953909579354112" xml:space="preserve" resname="insertioncontrol_btn_eject">
+          <source>remove</source>
+        </trans-unit>
+        <trans-unit id="954082414039040" xml:space="preserve" resname="insertioncontrol_slider_speed">
+          <source>speed</source>
+        </trans-unit>
+        <trans-unit id="954266229411840" xml:space="preserve" resname="insertioncontrol_slider_depth">
+          <source>depth</source>
+        </trans-unit>
+        <trans-unit id="955959100837888" xml:space="preserve" resname="main_button_sandbox">
+          <source>Sandbox
+--
+Allows you to totally customize your partner 
+and do whatever you want. 
+Also includes the 'Sex Doll' option, 
+completely devoid of human weaknesses.</source>
+        </trans-unit>
+        <trans-unit id="956188508295168" xml:space="preserve" resname="main_button_jazz">
+          <source>Jazz
+--
+Meet randomized partners in our brand new dating app.
+Build your relationships from 0 and try to 'fix' them. 
+But first prove you're worthy.</source>
+        </trans-unit>
+        <trans-unit id="956535146549248" xml:space="preserve" resname="main_button_debugsession">
+          <source>Rug doll
+--
+Default character, used by Kit to test things ;-)</source>
+        </trans-unit>
+        <trans-unit id="961572824420352" xml:space="preserve" resname="main_btn_save1">
+          <source>add to the album</source>
+        </trans-unit>
+        <trans-unit id="961781864337408" xml:space="preserve" resname="main_btn_save2">
+          <source>update in album</source>
+        </trans-unit>
+        <trans-unit id="961922792951808" xml:space="preserve" resname="main_btn_saving">
+          <source>making memories...</source>
+        </trans-unit>
+        <trans-unit id="962461807153152" xml:space="preserve" resname="main_btn_saveno">
+          <source>no empty slots available</source>
+        </trans-unit>
+        <trans-unit id="963201451692032" xml:space="preserve" resname="main_btn_patreon">
+          <source>Further development depends on your support!
+
+Patron tiers also feature:
+- Exclusive bonus content
+- Voting rights for upcoming features
+- Early access to updates</source>
+        </trans-unit>
+        <trans-unit id="963618868826112" xml:space="preserve" resname="main_btn_album">
+          <source>album</source>
+        </trans-unit>
+        <trans-unit id="963916337254400" xml:space="preserve" resname="main_btn_settings">
+          <source>settings</source>
+        </trans-unit>
+        <trans-unit id="964084734365696" xml:space="preserve" resname="main_btn_help">
+          <source>show hints</source>
+        </trans-unit>
+        <trans-unit id="964360774094848" xml:space="preserve" resname="main_btn_unequip">
+          <source>unequip</source>
+        </trans-unit>
+        <trans-unit id="965771612131328" xml:space="preserve" resname="main_trustmeter">
+          <source>Trust Points</source>
+        </trans-unit>
+        <trans-unit id="966345963343872" xml:space="preserve" resname="main_badmeter">
+          <source>annoyance</source>
+        </trans-unit>
+        <trans-unit id="967510868365312" xml:space="preserve" resname="main_btn_confirm">
+          <source>confirm</source>
+        </trans-unit>
+        <trans-unit id="967757719932928" xml:space="preserve" resname="main_btn_cancel">
+          <source>cancel</source>
+        </trans-unit>
+        <trans-unit id="968957831942144" xml:space="preserve" resname="inputpopup_placeholder">
+          <source>Enter text...</source>
+        </trans-unit>
+        <trans-unit id="969504811126784" xml:space="preserve" resname="main_btn_roll">
+          <source>try your luck</source>
+        </trans-unit>
+        <trans-unit id="970123974283264" xml:space="preserve" resname="main_btn_exit">
+          <source>Good Bye!</source>
+        </trans-unit>
+        <trans-unit id="977079321497600" xml:space="preserve" resname="main_btn_cock">
+          <source>toggle cock</source>
+        </trans-unit>
+        <trans-unit id="977280392237056" xml:space="preserve" resname="main_btn_mouth">
+          <source>toggle mouth</source>
+        </trans-unit>
+        <trans-unit id="977544549502976" xml:space="preserve" resname="main_btn_cum">
+          <source>cum!</source>
+        </trans-unit>
+        <trans-unit id="978275180482560" xml:space="preserve" resname="vibrocontrol_intensity">
+          <source>intensity</source>
+        </trans-unit>
+        <trans-unit id="1008318312198144" xml:space="preserve" resname="main_btn_close">
+          <source>close</source>
+        </trans-unit>
+        <trans-unit id="1009068341833728" xml:space="preserve" resname="settings_censorship">
+          <source>Enable censorship</source>
+        </trans-unit>
+        <trans-unit id="1009245341462528" xml:space="preserve" resname="settings_censorship_hint">
+          <source>Just because you can</source>
+        </trans-unit>
+        <trans-unit id="1009590926946304" xml:space="preserve" resname="settings_cumscreen">
+          <source>Blink screen on cumming</source>
+        </trans-unit>
+        <trans-unit id="1009741326299136" xml:space="preserve" resname="settings_cumscreen_hint">
+          <source>kinda genre tradition, however some people may prefer not to</source>
+        </trans-unit>
+        <trans-unit id="1010076585406464" xml:space="preserve" resname="settings_badmood">
+          <source>Show annoyance indication</source>
+        </trans-unit>
+        <trans-unit id="1010193589710848" xml:space="preserve" resname="settings_badmood_hint">
+          <source>Turn off the indication and totally rely on girl's behavior. Like in real life (Hard mode)</source>
+        </trans-unit>
+        <trans-unit id="1010544988499968" xml:space="preserve" resname="settings_showstats">
+          <source>Show detailed stats</source>
+        </trans-unit>
+        <trans-unit id="1010701436039168" xml:space="preserve" resname="settings_showstats_hint">
+          <source>Think of it as an extrasensory perception (Easy mode)</source>
+        </trans-unit>
+        <trans-unit id="1011072711634944" xml:space="preserve" resname="settings_showzones">
+          <source>Highlight interactive zones</source>
+        </trans-unit>
+        <trans-unit id="1011176193503232" xml:space="preserve" resname="settings_showzones_hint">
+          <source>Breaks the immersion, but may be useful in the first sessions</source>
+        </trans-unit>
+        <trans-unit id="1011502619406336" xml:space="preserve" resname="settings_showholes">
+          <source>Highlight penetration zones</source>
+        </trans-unit>
+        <trans-unit id="1011714750525440" xml:space="preserve" resname="settings_showholes_hints">
+          <source>Helps to see the edge between front and back holes</source>
+        </trans-unit>
+        <trans-unit id="1012005407404032" xml:space="preserve" resname="settings_buffs">
+          <source>Show buffs from toys and accessories</source>
+        </trans-unit>
+        <trans-unit id="1012122621423616" xml:space="preserve" resname="settings_buffs_hint">
+          <source>Show current sensitivity buffs in RPG-like style</source>
+        </trans-unit>
+        <trans-unit id="1012396601749504" xml:space="preserve" resname="settings_filtercost">
+          <source>Hide unobtainable items frrom list</source>
+        </trans-unit>
+        <trans-unit id="1012509101371392" xml:space="preserve" resname="settings_filtercost_hint">
+          <source>Show only wardrobe items matching your balance</source>
+        </trans-unit>
+        <trans-unit id="1012948131753984" xml:space="preserve" resname="settings_account">
+          <source>Signed in as</source>
+        </trans-unit>
+        <trans-unit id="1013216332328960" xml:space="preserve" resname="main_btn_signout">
+          <source>sign out</source>
+        </trans-unit>
+        <trans-unit id="1013483366887424" xml:space="preserve" resname="settings_quality">
+          <source>Image quality</source>
+        </trans-unit>
+        <trans-unit id="1015020889681920" xml:space="preserve" resname="settings_resolution">
+          <source>Screen resolution</source>
+        </trans-unit>
+        <trans-unit id="1015224376340480" xml:space="preserve" resname="settings_fullscreen">
+          <source>Full screen</source>
+        </trans-unit>
+        <trans-unit id="1015488420360192" xml:space="preserve" resname="settings_voicevol">
+          <source>Voice effects volume</source>
+        </trans-unit>
+        <trans-unit id="1015714522705920" xml:space="preserve" resname="settings_effectvol">
+          <source>Actions volume</source>
+        </trans-unit>
+        <trans-unit id="1015958153048064" xml:space="preserve" resname="settings_toolvol">
+          <source>Tools volume</source>
+        </trans-unit>
+        <trans-unit id="1016296742432768" xml:space="preserve" resname="settings_mute">
+          <source>Enable sound effects</source>
+        </trans-unit>
+        <trans-unit id="1016380934696960" xml:space="preserve" resname="settings_mute_hint">
+          <source>To mute them all</source>
+        </trans-unit>
+        <trans-unit id="1019279714660352" xml:space="preserve" resname="main_update_itch">
+          <source>get from itch.io</source>
+        </trans-unit>
+        <trans-unit id="1019834532999168" xml:space="preserve" resname="New Entry">
+          <source />
+        </trans-unit>
+        <trans-unit id="1024145849692160" xml:space="preserve" resname="album_slotscounter">
+          <source>occupied slots</source>
+        </trans-unit>
+        <trans-unit id="1024500520038400" xml:space="preserve" resname="album_synccounter">
+          <source>synced slots</source>
+        </trans-unit>
+        <trans-unit id="1025084216160256" xml:space="preserve" resname="album_btn_syncall">
+          <source>sync saves</source>
+        </trans-unit>
+        <trans-unit id="1026164429795328" xml:space="preserve" resname="album_signintosync">
+          <source>requires to sign in to sync saves</source>
+        </trans-unit>
+        <trans-unit id="1026923611402240" xml:space="preserve" resname="album_cloudslot">
+          <source>cloud slot</source>
+        </trans-unit>
+        <trans-unit id="1027245205467136" xml:space="preserve" resname="album_btn_call">
+          <source>meet up</source>
+        </trans-unit>
+        <trans-unit id="1027479117606912" xml:space="preserve" resname="album_btn_note">
+          <source>make a note</source>
+        </trans-unit>
+        <trans-unit id="1027623368110080" xml:space="preserve" resname="album_btn_profile">
+          <source>GF profile</source>
+        </trans-unit>
+        <trans-unit id="1027806852132864" xml:space="preserve" resname="album_btn_delete">
+          <source>remove from album</source>
+        </trans-unit>
+        <trans-unit id="1028008484909056" xml:space="preserve" resname="album_btn_clone">
+          <source>get a twin</source>
+        </trans-unit>
+        <trans-unit id="1028211392753664" xml:space="preserve" resname="album_btn_noclone">
+          <source>no empty slots available</source>
+        </trans-unit>
+        <trans-unit id="1028444453449728" xml:space="preserve" resname="album_btn_sync">
+          <source>enable cloud sync</source>
+        </trans-unit>
+        <trans-unit id="1028689203671040" xml:space="preserve" resname="album_btn_nosync">
+          <source>no more cloud slots available</source>
+        </trans-unit>
+        <trans-unit id="1028827183689728" xml:space="preserve" resname="album_btn_unsync">
+          <source>disable cloud sync</source>
+        </trans-unit>
+        <trans-unit id="1030000821252096" xml:space="preserve" resname="main_btn_reset">
+          <source>reset</source>
+        </trans-unit>
+        <trans-unit id="1031991869943808" xml:space="preserve" resname="wizard_title_personality">
+          <source>Personality</source>
+        </trans-unit>
+        <trans-unit id="1032287505461248" xml:space="preserve" resname="wizard_title_sex">
+          <source>Sex prefs</source>
+        </trans-unit>
+        <trans-unit id="1032464437981184" xml:space="preserve" resname="wizard_title_sensitivity">
+          <source>Sensitivity</source>
+        </trans-unit>
+        <trans-unit id="1032606750715904" xml:space="preserve" resname="wizard_title_perks">
+          <source>Perks</source>
+        </trans-unit>
+        <trans-unit id="1032795699916800" xml:space="preserve" resname="wizard_difficulty_easy">
+          <source>easy</source>
+        </trans-unit>
+        <trans-unit id="1033094476967936" xml:space="preserve" resname="wizard_difficulty_hard">
+          <source>hard</source>
+        </trans-unit>
+        <trans-unit id="1040704387264512" xml:space="preserve" resname="main_btn_apply">
+          <source>apply</source>
+        </trans-unit>
+        <trans-unit id="1040979311308800" xml:space="preserve" resname="codegen_btn_generate">
+          <source>generate code</source>
+        </trans-unit>
+        <trans-unit id="1041404148166656" xml:space="preserve" resname="codegen_btn_reset">
+          <source>reset look</source>
+        </trans-unit>
+        <trans-unit id="1041715109670912" xml:space="preserve" resname="codegen_btn_apply">
+          <source>apply code</source>
+        </trans-unit>
+        <trans-unit id="1041994156716032" xml:space="preserve" resname="codegen_placeholder">
+          <source>Copy code here...</source>
+        </trans-unit>
+        <trans-unit id="1042214076657664" xml:space="preserve" resname="codegen_filter_body">
+          <source>Include body customization</source>
+        </trans-unit>
+        <trans-unit id="1042306254876672" xml:space="preserve" resname="codegen_filter_body_hint">
+          <source>includes body options, hair style and makeup</source>
+        </trans-unit>
+        <trans-unit id="1042557816647680" xml:space="preserve" resname="codegen_filter_accs">
+          <source>Include accessories</source>
+        </trans-unit>
+        <trans-unit id="1042844346331136" xml:space="preserve" resname="codegen_filter_underwear">
+          <source>Include lingery</source>
+        </trans-unit>
+        <trans-unit id="1043051964379136" xml:space="preserve" resname="codegen_filter_clothes">
+          <source>Include clothes</source>
+        </trans-unit>
+        <trans-unit id="1043329119793152" xml:space="preserve" resname="codegen_filter_fetish">
+          <source>Include fetish accessories</source>
+        </trans-unit>
+        <trans-unit id="1044050506526720" xml:space="preserve" resname="jazzapp_btn_like">
+          <source>Like!</source>
+        </trans-unit>
+        <trans-unit id="1044287182712832" xml:space="preserve" resname="jazzapp_btn_retry">
+          <source>Try once again</source>
+        </trans-unit>
+        <trans-unit id="1044646458404864" xml:space="preserve" resname="jazzapp_btn_chat">
+          <source>chat</source>
+        </trans-unit>
+        <trans-unit id="1044879238082560" xml:space="preserve" resname="jazzapp_compatibility">
+          <source>matching rate</source>
+        </trans-unit>
+        <trans-unit id="1045470899187712" xml:space="preserve" resname="jazzapp_filter_age">
+          <source>age</source>
+        </trans-unit>
+        <trans-unit id="1046251610157056" xml:space="preserve" resname="jazzapp_loading">
+          <source>searching...</source>
+        </trans-unit>
+        <trans-unit id="1046542409641984" xml:space="preserve" resname="jazzapp_empty">
+          <source>nothing
+found</source>
+        </trans-unit>
+        <trans-unit id="1046920056385536" xml:space="preserve" resname="popup_nogirl">
+          <source>Don't call me!</source>
+        </trans-unit>
+        <trans-unit id="1047919315759104" xml:space="preserve" resname="popup_unlock_unlock">
+          <source>unlock</source>
+        </trans-unit>
+        <trans-unit id="1048629407232000" xml:space="preserve" resname="popup_unlock_buytrait">
+          <source>change trait</source>
+        </trans-unit>
+        <trans-unit id="1049235417051136" xml:space="preserve" resname="traitshop_header">
+          <source>How about?..</source>
+        </trans-unit>
+        <trans-unit id="1049532612849664" xml:space="preserve" resname="traitshop_notenough">
+          <source>not enough trust</source>
+        </trans-unit>
+        <trans-unit id="1051562672762880" xml:space="preserve" resname="report_empty">
+          <source>No records found</source>
+        </trans-unit>
+        <trans-unit id="1051772492820480" xml:space="preserve" resname="report_inprogress">
+          <source>Dating...</source>
+        </trans-unit>
+        <trans-unit id="1052860893736960" xml:space="preserve" resname="report_field_name">
+          <source>Name:</source>
+        </trans-unit>
+        <trans-unit id="1053066620153856" xml:space="preserve" resname="report_field_birthday">
+          <source>Birthday:</source>
+        </trans-unit>
+        <trans-unit id="1053254059405312" xml:space="preserve" resname="report_field_1date">
+          <source>1st Date:</source>
+        </trans-unit>
+        <trans-unit id="1053522356449280" xml:space="preserve" resname="report_field_note">
+          <source>Note:</source>
+        </trans-unit>
+        <trans-unit id="1053682893434880" xml:space="preserve" resname="report_field_trust">
+          <source>Trust:</source>
+        </trans-unit>
+        <trans-unit id="1054377323376640" xml:space="preserve" resname="report_trustgained">
+          <source>Trust gained</source>
+        </trans-unit>
+        <trans-unit id="1054999347048448" xml:space="preserve" resname="reporrt_newlevel">
+          <source>&lt;size=50%&gt;new&lt;/size&gt; trust &lt;size=50%&gt;level&lt;/size&gt;</source>
+        </trans-unit>
+        <trans-unit id="1055370840748032" xml:space="preserve" resname="report_noprogress">
+          <source>no significant progress achieved last date</source>
+        </trans-unit>
+        <trans-unit id="1055995808821248" xml:space="preserve" resname="report_field_climaxes">
+          <source>Climaxes</source>
+        </trans-unit>
+        <trans-unit id="1056435359297536" xml:space="preserve" resname="report_field_mod">
+          <source>Modifier</source>
+        </trans-unit>
+        <trans-unit id="1056695318065152" xml:space="preserve" resname="report_balancewarning">
+          <source>(affects your current balance)</source>
+        </trans-unit>
+        <trans-unit id="1056953221623808" xml:space="preserve" resname="report_unssync_warning">
+          <source>The detailed list below uses current game rates, so might not match the recorded total</source>
+        </trans-unit>
+        <trans-unit id="1438011198930944" xml:space="preserve" resname="jazzapp_filter_body_any">
+          <source>any body type</source>
+        </trans-unit>
+        <trans-unit id="1438067733954560" xml:space="preserve" resname="jazzapp_filter_body_sport">
+          <source>athletic body</source>
+        </trans-unit>
+        <trans-unit id="1438108569698304" xml:space="preserve" resname="jazzapp_filter_body_curvy">
+          <source>curvy forms</source>
+        </trans-unit>
+        <trans-unit id="1438155608817664" xml:space="preserve" resname="jazzapp_filter_body_chubby">
+          <source>chubby type</source>
+        </trans-unit>
+        <trans-unit id="1438192988454912" xml:space="preserve" resname="jazzapp_filter_body_model">
+          <source>model figure</source>
+        </trans-unit>
+        <trans-unit id="1438232825954304" xml:space="preserve" resname="jazzapp_filter_type_any">
+          <source>any ethnicity</source>
+        </trans-unit>
+        <trans-unit id="1438267957444608" xml:space="preserve" resname="jazzapp_filter_type_sakha">
+          <source>sakha</source>
+        </trans-unit>
+        <trans-unit id="1438307518119936" xml:space="preserve" resname="jazzapp_filter_type_slavic">
+          <source>slavic</source>
+        </trans-unit>
+        <trans-unit id="1438345027780608" xml:space="preserve" resname="jazzapp_filter_type_nordic">
+          <source>nordic</source>
+        </trans-unit>
+        <trans-unit id="1438382042513408" xml:space="preserve" resname="jazzapp_filter_type_celtic">
+          <source>celtic</source>
+        </trans-unit>
+        <trans-unit id="1438417274667008" xml:space="preserve" resname="jazzapp_filter_type_persian">
+          <source>persian</source>
+        </trans-unit>
+        <trans-unit id="1438471465074688" xml:space="preserve" resname="jazzapp_filter_type_ipanema">
+          <source>ipanema</source>
+        </trans-unit>
+        <trans-unit id="1438492067495936" xml:space="preserve" resname="jazzapp_filter_type_aryan">
+          <source>aryan</source>
+        </trans-unit>
+        <trans-unit id="1438522572668928" xml:space="preserve" resname="jazzapp_filter_type_moroccan">
+          <source>moroccan</source>
+        </trans-unit>
+        <trans-unit id="1438562137538560" xml:space="preserve" resname="jazzapp_filter_type_austronesian">
+          <source>austronesian</source>
+        </trans-unit>
+        <trans-unit id="1438595419340800" xml:space="preserve" resname="jazzapp_filter_type_caribbean">
+          <source>caribbean</source>
+        </trans-unit>
+        <trans-unit id="1438627870670848" xml:space="preserve" resname="jazzapp_filter_type_amerindian">
+          <source>amerindian</source>
+        </trans-unit>
+        <trans-unit id="1438662461095936" xml:space="preserve" resname="jazzapp_filter_type_latina">
+          <source>latina</source>
+        </trans-unit>
+        <trans-unit id="1438729813229568" xml:space="preserve" resname="jazzapp_filter_type_amhara">
+          <source>amhara</source>
+        </trans-unit>
+        <trans-unit id="1438764403654656" xml:space="preserve" resname="jazzapp_filter_type_bantu">
+          <source>bantu</source>
+        </trans-unit>
+        <trans-unit id="1438800411754496" xml:space="preserve" resname="jazzapp_filter_type_nilotic">
+          <source>nilotic</source>
+        </trans-unit>
+        <trans-unit id="1438836482768896" xml:space="preserve" resname="jazzapp_filter_hair_any">
+          <source>any hair color</source>
+        </trans-unit>
+        <trans-unit id="1438878962679808" xml:space="preserve" resname="jazzapp_filter_hair_natural">
+          <source>natural hair</source>
+        </trans-unit>
+        <trans-unit id="1438928044425216" xml:space="preserve" resname="jazzapp_filter_hair_blonde">
+          <source>blonde haired</source>
+        </trans-unit>
+        <trans-unit id="1438970201374720" xml:space="preserve" resname="jazzapp_filter_hair_brown">
+          <source>brown haired</source>
+        </trans-unit>
+        <trans-unit id="1438993257463808" xml:space="preserve" resname="jazzapp_filter_hair_black">
+          <source>black haired</source>
+        </trans-unit>
+        <trans-unit id="1439029060042752" xml:space="preserve" resname="jazzapp_filter_hair_red">
+          <source>red haired</source>
+        </trans-unit>
+        <trans-unit id="1439063314923520" xml:space="preserve" resname="jazzapp_filter_hair_anime">
+          <source>bright haired</source>
+        </trans-unit>
+        <trans-unit id="1439097712410624" xml:space="preserve" resname="jazzapp_filter_exp_any">
+          <source>any experience</source>
+        </trans-unit>
+        <trans-unit id="1439157623848960" xml:space="preserve" resname="jazzapp_filter_exp_min">
+          <source>dating amateur</source>
+        </trans-unit>
+        <trans-unit id="1439181300695040" xml:space="preserve" resname="jazzapp_filter_exp_mid">
+          <source>dating hobbyist</source>
+        </trans-unit>
+        <trans-unit id="1439225454133248" xml:space="preserve" resname="jazzapp_filter_exp_max">
+          <source>dating expert</source>
+        </trans-unit>
+        <trans-unit id="1439260187164672" xml:space="preserve" resname="jazzapp_filter_anal_any">
+          <source>any anal prefs</source>
+        </trans-unit>
+        <trans-unit id="1439305678585856" xml:space="preserve" resname="jazzapp_filter_anal_ok">
+          <source>anal OK</source>
+        </trans-unit>
+        <trans-unit id="1439326692048896" xml:space="preserve" resname="jazzapp_filter_anal_advanced">
+          <source>anal advanced</source>
+        </trans-unit>
+        <trans-unit id="1439360921763840" xml:space="preserve" resname="jazzapp_filter_bdsm_any">
+          <source>any BDSM prefs</source>
+        </trans-unit>
+        <trans-unit id="1439398733414400" xml:space="preserve" resname="jazzapp_filter_bdsm_ok">
+          <source>BDSM OK</source>
+        </trans-unit>
+        <trans-unit id="1439446523314176" xml:space="preserve" resname="jazzapp_filter_bdsm_advanced">
+          <source>BDSM advanced</source>
+        </trans-unit>
+        <trans-unit id="1453039033647104" xml:space="preserve" resname="loading_line1">
+          <source>Lolly is doing makeup</source>
+        </trans-unit>
+        <trans-unit id="1453106859737088" xml:space="preserve" resname="loading_line2">
+          <source>Lolly is waxing</source>
+        </trans-unit>
+        <trans-unit id="1453155916316672" xml:space="preserve" resname="loading_line3">
+          <source>Lolly is inspecting her wardrobe</source>
+        </trans-unit>
+        <trans-unit id="1453195015618560" xml:space="preserve" resname="loading_line4">
+          <source>Lolly is trying to fit into her skinny jeans</source>
+        </trans-unit>
+        <trans-unit id="1453249872920576" xml:space="preserve" resname="loading_line5">
+          <source>Lolly is brushing her teeth</source>
+        </trans-unit>
+        <trans-unit id="1453267623215104" xml:space="preserve" resname="loading_line6">
+          <source>Lolly is making her nails</source>
+        </trans-unit>
+        <trans-unit id="1453314901409792" xml:space="preserve" resname="loading_line7">
+          <source>Lolly is looking for her lucky charm</source>
+        </trans-unit>
+        <trans-unit id="1453351341522944" xml:space="preserve" resname="loading_line8">
+          <source>Lolly is packing her purse</source>
+        </trans-unit>
+        <trans-unit id="1453399391469568" xml:space="preserve" resname="loading_line9">
+          <source>Lolly is looking for a matching sock</source>
+        </trans-unit>
+        <trans-unit id="1453439560318976" xml:space="preserve" resname="loading_line10">
+          <source>Lolly is choosing a teasing lingerie</source>
+        </trans-unit>
+        <trans-unit id="1453461135818752" xml:space="preserve" resname="loading_line11">
+          <source>Lolly is preparing a surprise for you</source>
+        </trans-unit>
+        <trans-unit id="1453474356264960" xml:space="preserve" resname="loading_line12">
+          <source>Lolly is making a haircut</source>
+        </trans-unit>
+        <trans-unit id="1453872093724672" xml:space="preserve" resname="disclaimer_title">
+          <source>Disclaimer</source>
+        </trans-unit>
+        <trans-unit id="1454194727976960" xml:space="preserve" resname="disclaimer_text">
+          <source>This indie art project contains nudity, explicit sounds and depictions of various fetishes, including BDSM. It’s designed for an adult audience and relies heavily on the player's &lt;nobr&gt;real-life&lt;/nobr&gt; experience, without which the gameplay may feel confusing.
+Everything you’ll see here is a work of fiction. &lt;nobr&gt;In our lore all characters are 18+ and participate with full consent.&lt;/nobr&gt;
+If you are underage or uncomfortable with such content, &lt;nobr&gt;please leave to avoid any misunderstanding&lt;/nobr&gt;.
+</source>
+        </trans-unit>
+        <trans-unit id="1454427465711616" xml:space="preserve" resname="disclaimer_btn_yes">
+          <source>YES</source>
+        </trans-unit>
+        <trans-unit id="1454686073913344" xml:space="preserve" resname="disclaimer_btn_yes+">
+          <source>I'm adult</source>
+        </trans-unit>
+        <trans-unit id="1454879020285952" xml:space="preserve" resname="disclaimer_btn_no">
+          <source>NO</source>
+        </trans-unit>
+        <trans-unit id="1455062068101120" xml:space="preserve" resname="disclaimer_btn_no+">
+          <source>Take me \vaway</source>
+        </trans-unit>
+        <trans-unit id="1455307065786368" xml:space="preserve" resname="disclaimer_ps">
+          <source>Note, the game is still in development.</source>
+        </trans-unit>
+        <trans-unit id="1455716106895360" xml:space="preserve" resname="auth_password_placeholder">
+          <source>strong password</source>
+        </trans-unit>
+        <trans-unit id="1455994659012608" xml:space="preserve" resname="auth_password_restore">
+          <source>Oops, I forgot my password</source>
+        </trans-unit>
+        <trans-unit id="1456869322391552" xml:space="preserve" resname="auth_btn_signinup">
+          <source>Sign in/up</source>
+        </trans-unit>
+        <trans-unit id="1457189775605760" xml:space="preserve" resname="auth_guest_notice">
+          <source>MyJLC can be played 
+completely offline 
+and without registration.
+
+Still it's recommend to create 
+an account, so all your data 
+could be safely stored in cloud.</source>
+        </trans-unit>
+        <trans-unit id="1457447628832768" xml:space="preserve" resname="auth_btn_guest">
+          <source>Be my Guest</source>
+        </trans-unit>
+        <trans-unit id="1457634128560128" xml:space="preserve" resname="auth_safari_notice">
+          <source>Note that Safari browser 
+has known issues with saving local data</source>
+        </trans-unit>
+        <trans-unit id="1457996193464320" xml:space="preserve" resname="auth_pinging">
+          <source>Checking the Internet connection...</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

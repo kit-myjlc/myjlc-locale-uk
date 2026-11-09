@@ -1,0 +1,1912 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="Assets/Localization/Loc Tables/Trait_Strings_uk.asset" source-language="en" datatype="plaintext" target-language="uk">
+    <header>
+      <skl>
+        <external-file href="Assets/Localization/Loc Tables/Trait_Strings_uk.asset" uid="01c1ba5691fdf5a429107148cf658a56" />
+      </skl>
+    </header>
+    <body>
+      <group id="73eb4b0f76b43374c872d32a1b4defd6" resname="Trait_Strings">
+        <trans-unit id="12442999881728" xml:space="preserve" resname="trait_name__default_">
+          <source>default</source>
+          <target>default</target>
+        </trans-unit>
+        <trans-unit id="12443096350720" xml:space="preserve" resname="trait_descr__default_">
+          <source>basic stats
+{0.progress}</source>
+          <target>basic stats
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443104739328" xml:space="preserve" resname="trait_name_anal-a1-virgin">
+          <source>unclaimed</source>
+          <target>unclaimed</target>
+        </trans-unit>
+        <trans-unit id="12443129905152" xml:space="preserve" resname="trait_descr_anal-a1-virgin">
+          <source>Anal virgin
+Pure newbie, requires a delicate approach
+--
+-50% tolerance buffer
+proper preparation needed
+faster attitude change [Jazz]
+trust level 2 is required to progress [Jazz]
+{0.progress}</source>
+          <target>Anal virgin
+Pure newbie, requires a delicate approach
+--
+-50% tolerance buffer
+proper preparation needed
+faster attitude change [Jazz]
+trust level 2 is required to progress [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443138293760" xml:space="preserve" resname="trait_name_anal-a2-inexp">
+          <source>rookie</source>
+          <target>rookie</target>
+        </trans-unit>
+        <trans-unit id="12443138293761" xml:space="preserve" resname="trait_descr_anal-a2-inexp">
+          <source>Anal beginner
+She tried backdoor and it wasn't so bad
+--
+-25% tolerance buffer
+more preparation needed
+trust level 2 is required to progress [Jazz]
+{0.progress}</source>
+          <target>Anal beginner
+She tried backdoor and it wasn't so bad
+--
+-25% tolerance buffer
+more preparation needed
+trust level 2 is required to progress [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443142488064" xml:space="preserve" resname="trait_name_anal-a3-exp">
+          <source>stretched out</source>
+          <target>stretched out</target>
+        </trans-unit>
+        <trans-unit id="12443146682368" xml:space="preserve" resname="trait_descr_anal-a3-exp">
+          <source>Anal experienced
+You may be pleasantly surprised
+--
++25% tolerance buffer
+less preparation needed
+{0.progress}</source>
+          <target>Anal experienced
+You may be pleasantly surprised
+--
++25% tolerance buffer
+less preparation needed
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443150876672" xml:space="preserve" resname="trait_name_anal-a4-lover">
+          <source>catcher</source>
+          <target>catcher</target>
+        </trans-unit>
+        <trans-unit id="12443150876673" xml:space="preserve" resname="trait_descr_anal-a4-lover">
+          <source>Anal skilled
+Easy in - easy out
+--
++50% tolerance buffer
+less preparation needed
+slower attitude change [Jazz]
+{0.progress}</source>
+          <target>Anal skilled
+Easy in - easy out
+--
++50% tolerance buffer
+less preparation needed
+slower attitude change [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443155070976" xml:space="preserve" resname="trait_name_anal-a5-ultimate">
+          <source>anal legend</source>
+          <target>anal legend</target>
+        </trans-unit>
+        <trans-unit id="12443159265280" xml:space="preserve" resname="trait_descr_anal-a5-ultimate">
+          <source>Anal expert
+Literally a human nutcracker
+--
++100% tolerance buffer
+minimal preparation needed
+hard attitude change [Jazz]
+{0.progress}</source>
+          <target>Anal expert
+Literally a human nutcracker
+--
++100% tolerance buffer
+minimal preparation needed
+hard attitude change [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443163459584" xml:space="preserve" resname="trait_name_anal-default">
+          <source>trotter</source>
+          <target>trotter</target>
+        </trans-unit>
+        <trans-unit id="12443163459585" xml:space="preserve" resname="trait_descr_anal-default">
+          <source>Anal explorer
+Not only endures, but enjoys
+--
+basic option
+trust level 2 is required to progress [Jazz]
+{0.progress}</source>
+          <target>Anal explorer
+Not only endures, but enjoys
+--
+basic option
+trust level 2 is required to progress [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443167653888" xml:space="preserve" resname="trait_name_anal+">
+          <source>glass passage</source>
+          <target>glass passage</target>
+        </trans-unit>
+        <trans-unit id="12443171848192" xml:space="preserve" resname="trait_descr_anal+">
+          <source>Sensitive anus
+Soft and sensitive, it stretches more slowly, requiring a skilled partner
+--
+-25% tolerance
++25% pleasure &amp; annoyance
+{0.progress}</source>
+          <target>Sensitive anus
+Soft and sensitive, it stretches more slowly, requiring a skilled partner
+--
+-25% tolerance
++25% pleasure &amp; annoyance
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443176042496" xml:space="preserve" resname="trait_name_anal++">
+          <source>dreamy rangoon</source>
+          <target>dreamy rangoon</target>
+        </trans-unit>
+        <trans-unit id="12443176042497" xml:space="preserve" resname="trait_descr_anal++">
+          <source>Delicate anus
+Hyper-aware and highly responsive, it reacts intensely to every gentle caress
+--
+-50% tolerance
++50% pleasure &amp; annoyance
+{0.progress}</source>
+          <target>Delicate anus
+Hyper-aware and highly responsive, it reacts intensely to every gentle caress
+--
+-50% tolerance
++50% pleasure &amp; annoyance
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443180236800" xml:space="preserve" resname="trait_name_anal-">
+          <source>sturdy back door</source>
+          <target>sturdy back door</target>
+        </trans-unit>
+        <trans-unit id="12443180236801" xml:space="preserve" resname="trait_descr_anal-">
+          <source>Dulled anus
+It might accept wider stimulation range, but with the cost of sensitivity
+--
++25% tolerance
+-25% pleasure &amp; annoyance
+{0.progress}</source>
+          <target>Dulled anus
+It might accept wider stimulation range, but with the cost of sensitivity
+--
++25% tolerance
+-25% pleasure &amp; annoyance
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443184431104" xml:space="preserve" resname="trait_name_anal--">
+          <source>marble gate</source>
+          <target>marble gate</target>
+        </trans-unit>
+        <trans-unit id="12443188625408" xml:space="preserve" resname="trait_descr_anal--">
+          <source>Stoic anus
+A good fit for a rough ride
+--
++50% tolerance
+-50% pleasure &amp; annoyance
+{0.progress}</source>
+          <target>Stoic anus
+A good fit for a rough ride
+--
++50% tolerance
+-50% pleasure &amp; annoyance
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443188625409" xml:space="preserve" resname="trait_name_anal-afraid">
+          <source>afraid of anal</source>
+          <target>afraid of anal</target>
+        </trans-unit>
+        <trans-unit id="12443192819712" xml:space="preserve" resname="trait_descr_anal-afraid">
+          <source>She claims it's too delicate, you see it as a dare
+--
+-75% pleasure
++100% suffering
+no progression [Jazz]
+{0.progress}</source>
+          <target>She claims it's too delicate, you see it as a dare
+--
+-75% pleasure
++100% suffering
+no progression [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443197014016" xml:space="preserve" resname="trait_name_anal-duty">
+          <source>anal duty</source>
+          <target>anal duty</target>
+        </trans-unit>
+        <trans-unit id="12443197014017" xml:space="preserve" resname="trait_descr_anal-duty">
+          <source>"It's not my game, but I'll take it"
+--
+low pleasure
+increased tolerance buffer
+slower progression [Jazz]
+{0.progress}</source>
+          <target>"It's not my game, but I'll take it"
+--
+low pleasure
+increased tolerance buffer
+slower progression [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443201208320" xml:space="preserve" resname="trait_name_anal-excited">
+          <source>anal enthusiast</source>
+          <target>anal enthusiast</target>
+        </trans-unit>
+        <trans-unit id="12443201208321" xml:space="preserve" resname="trait_descr_anal-excited">
+          <source>Favorite size, favorite color
+--
++100% pleasure
+{0.progress}</source>
+          <target>Favorite size, favorite color
+--
++100% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443205402624" xml:space="preserve" resname="trait_name_anal-interested">
+          <source>curious about anal</source>
+          <target>curious about anal</target>
+        </trans-unit>
+        <trans-unit id="12443209596928" xml:space="preserve" resname="trait_descr_anal-interested">
+          <source>Testing the limits of curiosity
+--
++50% pleasure
+{0.progress}</source>
+          <target>Testing the limits of curiosity
+--
++50% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443209596929" xml:space="preserve" resname="trait_name_anal-never">
+          <source>anal refusal</source>
+          <target>anal refusal</target>
+        </trans-unit>
+        <trans-unit id="12443213791232" xml:space="preserve" resname="trait_descr_anal-never">
+          <source>Lady already said 'no', don't make things worse now
+--
+zero pleasure
+no progression [Jazz]
+{0.progress}</source>
+          <target>Lady already said 'no', don't make things worse now
+--
+zero pleasure
+no progression [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443217985536" xml:space="preserve" resname="trait_name_anal-ok">
+          <source>anal ok</source>
+          <target>anal ok</target>
+        </trans-unit>
+        <trans-unit id="12443217985537" xml:space="preserve" resname="trait_descr_anal-ok">
+          <source>It's.. fine
+--
+basic option
+{0.progress}</source>
+          <target>It's.. fine
+--
+basic option
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443222179840" xml:space="preserve" resname="trait_name_anal-only">
+          <source>anal obsessed</source>
+          <target>anal obsessed</target>
+        </trans-unit>
+        <trans-unit id="12443226374144" xml:space="preserve" resname="trait_descr_anal-only">
+          <source>Ruined and ravenous
+--
++200% pleasure
+-75% pleasure for other activities
+incompatible: low experience, high attitude for other activities
+{0.progress}</source>
+          <target>Ruined and ravenous
+--
++200% pleasure
+-75% pleasure for other activities
+incompatible: low experience, high attitude for other activities
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443226374145" xml:space="preserve" resname="trait_name_anal0">
+          <source>pinky hole</source>
+          <target>pinky hole</target>
+        </trans-unit>
+        <trans-unit id="12443230568448" xml:space="preserve" resname="trait_descr_anal0">
+          <source>Normal anus
+It responds steadily to touch, providing a satisfying balance of resilience and sensation
+--
+basic option
+{0.progress}</source>
+          <target>Normal anus
+It responds steadily to touch, providing a satisfying balance of resilience and sensation
+--
+basic option
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443234762752" xml:space="preserve" resname="trait_name_anal-latent">
+          <source>sleeping starfish</source>
+          <target>sleeping starfish</target>
+        </trans-unit>
+        <trans-unit id="12443234762753" xml:space="preserve" resname="trait_descr_anal-latent">
+          <source>Latent backdoor-player
+Predisposed, but unaware
+--
++100% pleasure in low mind state
+x2 progression speed [Jazz]
+{0.progress}</source>
+          <target>Latent backdoor-player
+Predisposed, but unaware
+--
++100% pleasure in low mind state
+x2 progression speed [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443238957056" xml:space="preserve" resname="trait_name_climax-lover">
+          <source>deep diver</source>
+          <target>deep diver</target>
+        </trans-unit>
+        <trans-unit id="12443243151360" xml:space="preserve" resname="trait_descr_climax-lover">
+          <source>Focuses on her feelings, making each climax a unique and uncomparable pleasure
+--
+slightly faster mind &amp; stamina loss on climax
+less arousal loss on climax
+{0.progress}</source>
+          <target>Focuses on her feelings, making each climax a unique and uncomparable pleasure
+--
+slightly faster mind &amp; stamina loss on climax
+less arousal loss on climax
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443247345664" xml:space="preserve" resname="trait_name_cum-lover">
+          <source>cum lover</source>
+          <target>cum lover</target>
+        </trans-unit>
+        <trans-unit id="12443247345665" xml:space="preserve" resname="trait_descr_cum-lover">
+          <source>Loves feeling your cum inside
+--
+more pleasure from creampies
+incompatible: virgin
+{0.progress}</source>
+          <target>Loves feeling your cum inside
+--
+more pleasure from creampies
+incompatible: virgin
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443251539968" xml:space="preserve" resname="trait_name_hyperactive">
+          <source>butterfly</source>
+          <target>butterfly</target>
+        </trans-unit>
+        <trans-unit id="12443251539969" xml:space="preserve" resname="trait_descr_hyperactive">
+          <source>It's difficult to focus on one thing for a long time for her. 
+Needs to be entertained and gets bored faster.
+--
+faster stats loss &amp; gain
+{0.progress}</source>
+          <target>It's difficult to focus on one thing for a long time for her. 
+Needs to be entertained and gets bored faster.
+--
+faster stats loss &amp; gain
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443255734272" xml:space="preserve" resname="trait_name_kegel">
+          <source>kegel training</source>
+          <target>kegel training</target>
+        </trans-unit>
+        <trans-unit id="12443259928576" xml:space="preserve" resname="trait_descr_kegel">
+          <source>A healthy sex in a healthy body
+Everyday exercises help to keep a tone
+--
+x2 penetration resistance
+slightly more pleasure from penetration
+{0.progress}</source>
+          <target>A healthy sex in a healthy body
+Everyday exercises help to keep a tone
+--
+x2 penetration resistance
+slightly more pleasure from penetration
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443259928577" xml:space="preserve" resname="trait_name_mentally-weak">
+          <source>freefaller</source>
+          <target>freefaller</target>
+        </trans-unit>
+        <trans-unit id="12443264122880" xml:space="preserve" resname="trait_descr_mentally-weak">
+          <source>Some people are just.. different.
+Watch her fall, but stay to help her land.
+--
+faster mind loss &amp; slower regeneration
+2x faster stamina loss &amp; regeneration
+{0.progress}</source>
+          <target>Some people are just.. different.
+Watch her fall, but stay to help her land.
+--
+faster mind loss &amp; slower regeneration
+2x faster stamina loss &amp; regeneration
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443268317184" xml:space="preserve" resname="trait_name_patient">
+          <source>patient</source>
+          <target>patient</target>
+        </trans-unit>
+        <trans-unit id="12443268317185" xml:space="preserve" resname="trait_descr_patient">
+          <source>She is more tolerant for your fails
+--
+less annoyance &amp; boredom gain
+increased tolerance buffer
+{0.progress}</source>
+          <target>She is more tolerant for your fails
+--
+less annoyance &amp; boredom gain
+increased tolerance buffer
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443272511488" xml:space="preserve" resname="trait_name_pornstar">
+          <source>pornstar</source>
+          <target>pornstar</target>
+        </trans-unit>
+        <trans-unit id="12443276705792" xml:space="preserve" resname="trait_descr_pornstar">
+          <source>Cause we all just wanna be big rockstars
+And live in hilltop houses driving fifteen cars...
+--
++25% all tolerance
+less mind loss
+incompatible: low experience
+{0.progress}</source>
+          <target>Cause we all just wanna be big rockstars
+And live in hilltop houses driving fifteen cars...
+--
++25% all tolerance
+less mind loss
+incompatible: low experience
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443280900096" xml:space="preserve" resname="trait_name_simulant">
+          <source>simulant</source>
+          <target>simulant</target>
+        </trans-unit>
+        <trans-unit id="12443280900097" xml:space="preserve" resname="trait_descr_simulant">
+          <source>Supportive girlfriend appreciates your efforts
+--
+unlocks fake orgasms
+{0.progress}</source>
+          <target>Supportive girlfriend appreciates your efforts
+--
+unlocks fake orgasms
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443285094400" xml:space="preserve" resname="trait_name_slutty">
+          <source>slutty</source>
+          <target>slutty</target>
+        </trans-unit>
+        <trans-unit id="12443285094401" xml:space="preserve" resname="trait_descr_slutty">
+          <source>Likes all kinds of sex and knows how to get the most from it
+--
+more pleasure
+less foreplay needed
+incompatible: low experience
+{0.progress}</source>
+          <target>Likes all kinds of sex and knows how to get the most from it
+--
+more pleasure
+less foreplay needed
+incompatible: low experience
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443289288704" xml:space="preserve" resname="trait_name_weak-heart">
+          <source>weak heart</source>
+          <target>weak heart</target>
+        </trans-unit>
+        <trans-unit id="12443293483008" xml:space="preserve" resname="trait_descr_weak-heart">
+          <source>Heart conditions require to be double careful with electric toys
+--
+lower heart attack treshold
+faster stamina loss and slower regeneration
+{0.progress}</source>
+          <target>Heart conditions require to be double careful with electric toys
+--
+lower heart attack treshold
+faster stamina loss and slower regeneration
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443293483009" xml:space="preserve" resname="trait_name_wm-active">
+          <source>pushing</source>
+          <target>pushing</target>
+        </trans-unit>
+        <trans-unit id="12443297677312" xml:space="preserve" resname="trait_descr_wm-active">
+          <source>Some ladies prefer to take the initiative theirselves
+--
+More requests
+{0.progress}</source>
+          <target>Some ladies prefer to take the initiative theirselves
+--
+More requests
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443301871616" xml:space="preserve" resname="trait_name_wm-hyperactive">
+          <source>hyperactive</source>
+          <target>hyperactive</target>
+        </trans-unit>
+        <trans-unit id="12443301871617" xml:space="preserve" resname="trait_descr_wm-hyperactive">
+          <source>Fountain of desire.
+Would you like to become a slave to her will?
+--
+Often requests
+{0.progress}</source>
+          <target>Fountain of desire.
+Would you like to become a slave to her will?
+--
+Often requests
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443306065920" xml:space="preserve" resname="trait_name_wm-log">
+          <source>log style</source>
+          <target>log style</target>
+        </trans-unit>
+        <trans-unit id="12443310260224" xml:space="preserve" resname="trait_descr_wm-log">
+          <source>Do what you wish.
+One creative person is enough in the bed.
+--
+No requests
+{0.progress}</source>
+          <target>Do what you wish.
+One creative person is enough in the bed.
+--
+No requests
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443314454528" xml:space="preserve" resname="trait_name_wm-normal">
+          <source>sex-positive</source>
+          <target>sex-positive</target>
+        </trans-unit>
+        <trans-unit id="12443314454529" xml:space="preserve" resname="trait_descr_wm-normal">
+          <source>Feeling sexy and confident,
+means she knows what she wants.
+--
+Moderate requests
+{0.progress}</source>
+          <target>Feeling sexy and confident,
+means she knows what she wants.
+--
+Moderate requests
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443318648832" xml:space="preserve" resname="trait_name_wm-passive">
+          <source>pillow princess</source>
+          <target>pillow princess</target>
+        </trans-unit>
+        <trans-unit id="12443318648833" xml:space="preserve" resname="trait_descr_wm-passive">
+          <source>Sometimes may ask you for a favor,
+but try to impress her yourself!
+--
+Rare requests
+{0.progress}</source>
+          <target>Sometimes may ask you for a favor,
+but try to impress her yourself!
+--
+Rare requests
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443322843136" xml:space="preserve" resname="trait_name_mood-annoyed">
+          <source>&lt;annoyed&gt;</source>
+          <target>&lt;annoyed&gt;</target>
+        </trans-unit>
+        <trans-unit id="12443327037440" xml:space="preserve" resname="trait_descr_mood-annoyed">
+          <source>She probably had a bad day
+--
+less tolerance
+more reaction on your fails
+{0.progress}</source>
+          <target>She probably had a bad day
+--
+less tolerance
+more reaction on your fails
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443331231744" xml:space="preserve" resname="trait_name_mood-distracted">
+          <source>&lt;distracted&gt;</source>
+          <target>&lt;distracted&gt;</target>
+        </trans-unit>
+        <trans-unit id="12443331231745" xml:space="preserve" resname="trait_descr_mood-distracted">
+          <source>You won't get a 100% of her focus today
+--
+less pleasure
+less reactions on your fails
+{0.progress}</source>
+          <target>You won't get a 100% of her focus today
+--
+less pleasure
+less reactions on your fails
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443335426048" xml:space="preserve" resname="trait_name_mood-flirty">
+          <source>&lt;flirty&gt;</source>
+          <target>&lt;flirty&gt;</target>
+        </trans-unit>
+        <trans-unit id="12443335426049" xml:space="preserve" resname="trait_descr_mood-flirty">
+          <source>She has a playfull mood and expects to get the most from it
+--
+more tolerance
+more boredom
+{0.progress}</source>
+          <target>She has a playfull mood and expects to get the most from it
+--
+more tolerance
+more boredom
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443339620352" xml:space="preserve" resname="trait_name_mood-horny">
+          <source>&lt;horny&gt;</source>
+          <target>&lt;horny&gt;</target>
+        </trans-unit>
+        <trans-unit id="12443343814656" xml:space="preserve" resname="trait_descr_mood-horny">
+          <source>She wants you and almoust nothing will stop her
+--
+more pleasure
+more tolerance
+less annoyance
+{0.progress}</source>
+          <target>She wants you and almoust nothing will stop her
+--
+more pleasure
+more tolerance
+less annoyance
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443348008960" xml:space="preserve" resname="trait_name_pain-default">
+          <source>fresh meat</source>
+          <target>fresh meat</target>
+        </trans-unit>
+        <trans-unit id="12443348008961" xml:space="preserve" resname="trait_descr_pain-default">
+          <source>SM amateur
+A beginner in BDSM practice
+--
+basic option
+trust level 4 is required to progress [Jazz]
+{0.progress}</source>
+          <target>SM amateur
+A beginner in BDSM practice
+--
+basic option
+trust level 4 is required to progress [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443352203264" xml:space="preserve" resname="trait_name_pain-sm1-inexp">
+          <source>clean slate</source>
+          <target>clean slate</target>
+        </trans-unit>
+        <trans-unit id="12443352203265" xml:space="preserve" resname="trait_descr_pain-sm1-inexp">
+          <source>Uninitiated
+Didn't taste this forbidden fruit of SM yet
+--
+-50% tolerance buffer
+faster attitude change [Jazz]
+trust level 3 is required to progress [Jazz]
+{0.progress}</source>
+          <target>Uninitiated
+Didn't taste this forbidden fruit of SM yet
+--
+-50% tolerance buffer
+faster attitude change [Jazz]
+trust level 3 is required to progress [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443356397568" xml:space="preserve" resname="trait_name_pain-sm2-novice">
+          <source>sub-in-training</source>
+          <target>sub-in-training</target>
+        </trans-unit>
+        <trans-unit id="12443360591872" xml:space="preserve" resname="trait_descr_pain-sm2-novice">
+          <source>SM practitioner
+Actively learning their role
+--
++50% tolerance buffer
+trust level 5 is required to progress [Jazz]
+{0.progress}</source>
+          <target>SM practitioner
+Actively learning their role
+--
++50% tolerance buffer
+trust level 5 is required to progress [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443364786176" xml:space="preserve" resname="trait_name_pain-sm3-exp">
+          <source>well-trained slave</source>
+          <target>well-trained slave</target>
+        </trans-unit>
+        <trans-unit id="12443364786177" xml:space="preserve" resname="trait_descr_pain-sm3-exp">
+          <source>Experienced sub
+Highly receptive and enjoys submissive role
+--
++100% tolerance buffer
+bonus sex progression speed [Jazz]
+slower SM attitude change [Jazz]
+trust level 6 is required to progress [Jazz]
+{0.progress}</source>
+          <target>Experienced sub
+Highly receptive and enjoys submissive role
+--
++100% tolerance buffer
+bonus sex progression speed [Jazz]
+slower SM attitude change [Jazz]
+trust level 6 is required to progress [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443368980480" xml:space="preserve" resname="trait_name_pain-sm4-lover">
+          <source>service bottom</source>
+          <target>service bottom</target>
+        </trans-unit>
+        <trans-unit id="12443368980481" xml:space="preserve" resname="trait_descr_pain-sm4-lover">
+          <source>Perfect pet
+Bound by discipline, ruled by obedience
+--
++150% tolerance buffer
+bonus sex progression speed [Jazz]
+hard SM attitude change [Jazz]
+{0.progress}</source>
+          <target>Perfect pet
+Bound by discipline, ruled by obedience
+--
++150% tolerance buffer
+bonus sex progression speed [Jazz]
+hard SM attitude change [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443373174784" xml:space="preserve" resname="trait_name_pain-afraid">
+          <source>afraid of pain</source>
+          <target>afraid of pain</target>
+        </trans-unit>
+        <trans-unit id="12443373174785" xml:space="preserve" resname="trait_descr_pain-afraid">
+          <source>Requires a Master who masters the mind, not skin
+--
+-75% pleasure
++100% suffering
+no progression [Jazz]
+{0.progress}</source>
+          <target>Requires a Master who masters the mind, not skin
+--
+-75% pleasure
++100% suffering
+no progression [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443381563392" xml:space="preserve" resname="trait_name_pain-duty">
+          <source>descended</source>
+          <target>descended</target>
+        </trans-unit>
+        <trans-unit id="12443381563393" xml:space="preserve" resname="trait_descr_pain-duty">
+          <source>"You can try that.. once"
+--
+low pleasure
+increased tolerance buffer
+slower progression [Jazz]
+{0.progress}</source>
+          <target>"You can try that.. once"
+--
+low pleasure
+increased tolerance buffer
+slower progression [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443385757696" xml:space="preserve" resname="trait_name_pain-excited">
+          <source>masochist</source>
+          <target>masochist</target>
+        </trans-unit>
+        <trans-unit id="12443385757697" xml:space="preserve" resname="trait_descr_pain-excited">
+          <source>She loves it harder!
+--
++150% pleasure
+{0.progress}</source>
+          <target>She loves it harder!
+--
++150% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443389952000" xml:space="preserve" resname="trait_name_pain-interested">
+          <source>sensation player</source>
+          <target>sensation player</target>
+        </trans-unit>
+        <trans-unit id="12443394146304" xml:space="preserve" resname="trait_descr_pain-interested">
+          <source>Enjoys exploring a wide range of physical sensations, though she has her limits
+--
++50% pleasure
+{0.progress}</source>
+          <target>Enjoys exploring a wide range of physical sensations, though she has her limits
+--
++50% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443394146305" xml:space="preserve" resname="trait_name_pain-likes">
+          <source>loves it rough</source>
+          <target>loves it rough</target>
+        </trans-unit>
+        <trans-unit id="12443398340608" xml:space="preserve" resname="trait_descr_pain-likes">
+          <source>She *is* into SM games
+--
++100% pleasure
+{0.progress}</source>
+          <target>She *is* into SM games
+--
++100% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443402534912" xml:space="preserve" resname="trait_name_pain-never">
+          <source>touch-me-not</source>
+          <target>touch-me-not</target>
+        </trans-unit>
+        <trans-unit id="12443402534913" xml:space="preserve" resname="trait_descr_pain-never">
+          <source>'No' is 'no' - in BDSM nothing matters more than consent
+--
+zero pleasure
+no progression [Jazz]
+{0.progress}</source>
+          <target>'No' is 'no' - in BDSM nothing matters more than consent
+--
+zero pleasure
+no progression [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443406729216" xml:space="preserve" resname="trait_name_pain-ok">
+          <source>vanilla person</source>
+          <target>vanilla person</target>
+        </trans-unit>
+        <trans-unit id="12443406729217" xml:space="preserve" resname="trait_descr_pain-ok">
+          <source>Prefers non-kink or conventional sexual activities
+--
+basic option
+{0.progress}</source>
+          <target>Prefers non-kink or conventional sexual activities
+--
+basic option
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443410923520" xml:space="preserve" resname="trait_name_pain-only">
+          <source>no pain, no gain</source>
+          <target>no pain, no gain</target>
+        </trans-unit>
+        <trans-unit id="12443415117824" xml:space="preserve" resname="trait_descr_pain-only">
+          <source>If you're not suffering, then you never existed
+--
++200% pleasure
+pleasure from overstimulation
+incompatible: low experience
+{0.progress}</source>
+          <target>If you're not suffering, then you never existed
+--
++200% pleasure
+pleasure from overstimulation
+incompatible: low experience
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443415117825" xml:space="preserve" resname="trait_name_pain-latent">
+          <source>veiled submissive</source>
+          <target>veiled submissive</target>
+        </trans-unit>
+        <trans-unit id="12443419312128" xml:space="preserve" resname="trait_descr_pain-latent">
+          <source>Latent submissive
+The body craves what the mind fears
+--
++100% pleasure in low mind state
+x2 progression speed [Jazz]
+{0.progress}</source>
+          <target>Latent submissive
+The body craves what the mind fears
+--
++100% pleasure in low mind state
+x2 progression speed [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443423506432" xml:space="preserve" resname="trait_name_chatty">
+          <source>chatty</source>
+          <target>chatty</target>
+        </trans-unit>
+        <trans-unit id="12443423506433" xml:space="preserve" resname="trait_descr_chatty">
+          <source>talks a lot
+{0.progress}</source>
+          <target>talks a lot
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443427700736" xml:space="preserve" resname="trait_name_radiogirl">
+          <source>radio girl</source>
+          <target>radio girl</target>
+        </trans-unit>
+        <trans-unit id="12443427700737" xml:space="preserve" resname="trait_descr_radiogirl">
+          <source>never shuts up
+{0.progress}</source>
+          <target>never shuts up
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443431895040" xml:space="preserve" resname="trait_name_silentgirl">
+          <source>silent</source>
+          <target>silent</target>
+        </trans-unit>
+        <trans-unit id="12443431895041" xml:space="preserve" resname="trait_descr_silentgirl">
+          <source>won't talk unless it's needed 
+{0.progress}</source>
+          <target>won't talk unless it's needed 
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443436089344" xml:space="preserve" resname="trait_name_talk-default">
+          <source>talkative</source>
+          <target>talkative</target>
+        </trans-unit>
+        <trans-unit id="12443440283648" xml:space="preserve" resname="trait_descr_talk-default">
+          <source>likes to talk
+{0.progress}</source>
+          <target>likes to talk
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443440283649" xml:space="preserve" resname="trait_name_talk-less">
+          <source>quiet</source>
+          <target>quiet</target>
+        </trans-unit>
+        <trans-unit id="12443444477952" xml:space="preserve" resname="trait_descr_talk-less">
+          <source>talks less
+{0.progress}</source>
+          <target>talks less
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443448672256" xml:space="preserve" resname="trait_name_lolly1">
+          <source>Lolly</source>
+          <target>Lolly</target>
+        </trans-unit>
+        <trans-unit id="12443448672257" xml:space="preserve" resname="trait_descr_lolly1">
+          <source>Your first GF
+--
+She'll be in your heart forever. But honestly she's a bit weird. 
+That's because of her lines were written by a horny programmer.
+{0.progress}</source>
+          <target>Your first GF
+--
+She'll be in your heart forever. But honestly she's a bit weird. 
+That's because of her lines were written by a horny programmer.
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443452866560" xml:space="preserve" resname="trait_name_quickie">
+          <source>chatgirl</source>
+          <target>chatgirl</target>
+        </trans-unit>
+        <trans-unit id="12443452866561" xml:space="preserve" resname="trait_descr_quickie">
+          <source>Internet girl
+--
+What if a vulnerable heart is hidden behind the jokes?
+Bruh, no way! Gonna lit dude, YOLO!
+{0.progress}</source>
+          <target>Internet girl
+--
+What if a vulnerable heart is hidden behind the jokes?
+Bruh, no way! Gonna lit dude, YOLO!
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443457060864" xml:space="preserve" resname="trait_name_straight">
+          <source>tomboy</source>
+          <target>tomboy</target>
+        </trans-unit>
+        <trans-unit id="12443457060865" xml:space="preserve" resname="trait_descr_straight">
+          <source>Direct, unapologetic, and crystally honest
+--
+No place for flowers and candies. If I said fuck me, then do it. 
+Just don't be an asshole, bro.
+{0.progress}</source>
+          <target>Direct, unapologetic, and crystally honest
+--
+No place for flowers and candies. If I said fuck me, then do it. 
+Just don't be an asshole, bro.
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443461255168" xml:space="preserve" resname="trait_name_yandere">
+          <source>yandere</source>
+          <target>yandere</target>
+        </trans-unit>
+        <trans-unit id="12443465449472" xml:space="preserve" resname="trait_descr_yandere">
+          <source>Obsessive personality with maniacal notes, totally focused on partner
+--
+I'll sacrifice my everything if it is what trully makes you happy. For us to be together, in life.. or death.
+Just tell me who's that 'Lolly' in your phonebook.
+{0.progress}</source>
+          <target>Obsessive personality with maniacal notes, totally focused on partner
+--
+I'll sacrifice my everything if it is what trully makes you happy. For us to be together, in life.. or death.
+Just tell me who's that 'Lolly' in your phonebook.
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443465449473" xml:space="preserve" resname="trait_name_sexdoll">
+          <source>sex doll</source>
+          <target>sex doll</target>
+        </trans-unit>
+        <trans-unit id="12443469643776" xml:space="preserve" resname="trait_descr_sexdoll">
+          <source>The unique digital companion
+--
+Joyful Life Cybernetics presents a future of intimacy.
+No emotional strings. No complications. Just pure, consistent pleasure.
+Stay connected, stay satisfied!
+{0.progress}</source>
+          <target>The unique digital companion
+--
+Joyful Life Cybernetics presents a future of intimacy.
+No emotional strings. No complications. Just pure, consistent pleasure.
+Stay connected, stay satisfied!
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443473838080" xml:space="preserve" resname="trait_name_radiodebug">
+          <source>radio girl (dev)</source>
+          <target>radio girl (dev)</target>
+        </trans-unit>
+        <trans-unit id="12443473838081" xml:space="preserve" resname="trait_descr_radiodebug">
+          <source>never shuts up
+{0.progress}</source>
+          <target>never shuts up
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443478032384" xml:space="preserve" resname="trait_name_touch-breasts+">
+          <source>perky nipples</source>
+          <target>perky nipples</target>
+        </trans-unit>
+        <trans-unit id="12443482226688" xml:space="preserve" resname="trait_descr_touch-breasts+">
+          <source>More sensitive
+--
++25% sensitivity
++50% pleasure
+{0.progress}</source>
+          <target>More sensitive
+--
++25% sensitivity
++50% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443482226689" xml:space="preserve" resname="trait_name_touch-breasts++">
+          <source>lusty nipples</source>
+          <target>lusty nipples</target>
+        </trans-unit>
+        <trans-unit id="12443486420992" xml:space="preserve" resname="trait_descr_touch-breasts++">
+          <source>Extra sensitive
+--
++50% sensitivity
++100% pleasure
+{0.progress}</source>
+          <target>Extra sensitive
+--
++50% sensitivity
++100% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443490615296" xml:space="preserve" resname="trait_name_touch-breasts-">
+          <source>cold nipples</source>
+          <target>cold nipples</target>
+        </trans-unit>
+        <trans-unit id="12443490615297" xml:space="preserve" resname="trait_descr_touch-breasts-">
+          <source>Insensitive
+--
+-40% sensitivity
+{0.progress}</source>
+          <target>Insensitive
+--
+-40% sensitivity
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443494809600" xml:space="preserve" resname="trait_name_touch-breasts--">
+          <source>numb nipples</source>
+          <target>numb nipples</target>
+        </trans-unit>
+        <trans-unit id="12443494809601" xml:space="preserve" resname="trait_descr_touch-breasts--">
+          <source>Extra insensitive
+--
+-80% sensitivity
+{0.progress}</source>
+          <target>Extra insensitive
+--
+-80% sensitivity
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443499003904" xml:space="preserve" resname="trait_name_touch-breasts0">
+          <source>normal nipples</source>
+          <target>normal nipples</target>
+        </trans-unit>
+        <trans-unit id="12443503198208" xml:space="preserve" resname="trait_descr_touch-breasts0">
+          <source>Medically approved
+--
+basic option
+{0.progress}</source>
+          <target>Medically approved
+--
+basic option
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443507392512" xml:space="preserve" resname="trait_name_touch-butt+">
+          <source>silky butt</source>
+          <target>silky butt</target>
+        </trans-unit>
+        <trans-unit id="12443507392513" xml:space="preserve" resname="trait_descr_touch-butt+">
+          <source>More sensitive
+--
++25% sensitivity
++50% pleasure
+{0.progress}</source>
+          <target>More sensitive
+--
++25% sensitivity
++50% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443511586816" xml:space="preserve" resname="trait_name_touch-butt++">
+          <source>playful butt</source>
+          <target>playful butt</target>
+        </trans-unit>
+        <trans-unit id="12443511586817" xml:space="preserve" resname="trait_descr_touch-butt++">
+          <source>Extra sensitive
+--
++50% sensitivity
++100% pleasure
+{0.progress}</source>
+          <target>Extra sensitive
+--
++50% sensitivity
++100% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443515781120" xml:space="preserve" resname="trait_name_touch-butt-">
+          <source>cold butt</source>
+          <target>cold butt</target>
+        </trans-unit>
+        <trans-unit id="12443515781121" xml:space="preserve" resname="trait_descr_touch-butt-">
+          <source>Insensitive
+--
+-40% sensitivity
+{0.progress}</source>
+          <target>Insensitive
+--
+-40% sensitivity
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443519975424" xml:space="preserve" resname="trait_name_touch-butt--">
+          <source>numb butt</source>
+          <target>numb butt</target>
+        </trans-unit>
+        <trans-unit id="12443524169728" xml:space="preserve" resname="trait_descr_touch-butt--">
+          <source>Extra insensitive
+--
+-80% sensitivity
+{0.progress}</source>
+          <target>Extra insensitive
+--
+-80% sensitivity
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443524169729" xml:space="preserve" resname="trait_name_touch-butt0">
+          <source>normal butt</source>
+          <target>normal butt</target>
+        </trans-unit>
+        <trans-unit id="12443528364032" xml:space="preserve" resname="trait_descr_touch-butt0">
+          <source>Medically approved
+--
+basic option
+{0.progress}</source>
+          <target>Medically approved
+--
+basic option
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443532558336" xml:space="preserve" resname="trait_name_touch-clit+">
+          <source>perky clit</source>
+          <target>perky clit</target>
+        </trans-unit>
+        <trans-unit id="12443532558337" xml:space="preserve" resname="trait_descr_touch-clit+">
+          <source>More sensitive
+--
++25% sensitivity
++50% pleasure
+{0.progress}</source>
+          <target>More sensitive
+--
++25% sensitivity
++50% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443536752640" xml:space="preserve" resname="trait_name_touch-clit++">
+          <source>lusty clit</source>
+          <target>lusty clit</target>
+        </trans-unit>
+        <trans-unit id="12443540946944" xml:space="preserve" resname="trait_descr_touch-clit++">
+          <source>Extra sensitive
+--
++50% sensitivity
++100% pleasure
+{0.progress}</source>
+          <target>Extra sensitive
+--
++50% sensitivity
++100% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443540946945" xml:space="preserve" resname="trait_name_touch-clit-">
+          <source>cold clit</source>
+          <target>cold clit</target>
+        </trans-unit>
+        <trans-unit id="12443545141248" xml:space="preserve" resname="trait_descr_touch-clit-">
+          <source>Insensitive
+--
+-40% sensitivity
+{0.progress}</source>
+          <target>Insensitive
+--
+-40% sensitivity
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443549335552" xml:space="preserve" resname="trait_name_touch-clit--">
+          <source>numb clit</source>
+          <target>numb clit</target>
+        </trans-unit>
+        <trans-unit id="12443549335553" xml:space="preserve" resname="trait_descr_touch-clit--">
+          <source>Extra insensitive
+--
+-80% sensitivity
+{0.progress}</source>
+          <target>Extra insensitive
+--
+-80% sensitivity
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443553529856" xml:space="preserve" resname="trait_name_touch-clit0">
+          <source>normal clit</source>
+          <target>normal clit</target>
+        </trans-unit>
+        <trans-unit id="12443557724160" xml:space="preserve" resname="trait_descr_touch-clit0">
+          <source>Medically approved
+--
+basic option
+{0.progress}</source>
+          <target>Medically approved
+--
+basic option
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443557724161" xml:space="preserve" resname="trait_name_touch-feet+">
+          <source>silky feet</source>
+          <target>silky feet</target>
+        </trans-unit>
+        <trans-unit id="12443561918464" xml:space="preserve" resname="trait_descr_touch-feet+">
+          <source>More sensitive
+--
++25% sensitivity
++50% pleasure
+{0.progress}</source>
+          <target>More sensitive
+--
++25% sensitivity
++50% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443566112768" xml:space="preserve" resname="trait_name_touch-feet++">
+          <source>playful feet</source>
+          <target>playful feet</target>
+        </trans-unit>
+        <trans-unit id="12443566112769" xml:space="preserve" resname="trait_descr_touch-feet++">
+          <source>Extra sensitive
+--
++50% sensitivity
++100% pleasure
+{0.progress}</source>
+          <target>Extra sensitive
+--
++50% sensitivity
++100% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443570307072" xml:space="preserve" resname="trait_name_touch-feet-">
+          <source>cold feet</source>
+          <target>cold feet</target>
+        </trans-unit>
+        <trans-unit id="12443574501376" xml:space="preserve" resname="trait_descr_touch-feet-">
+          <source>Insensitive
+--
+-40% sensitivity
+{0.progress}</source>
+          <target>Insensitive
+--
+-40% sensitivity
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443574501377" xml:space="preserve" resname="trait_name_touch-feet--">
+          <source>numb feet</source>
+          <target>numb feet</target>
+        </trans-unit>
+        <trans-unit id="12443578695680" xml:space="preserve" resname="trait_descr_touch-feet--">
+          <source>Extra insensitive
+--
+-80% sensitivity
+{0.progress}</source>
+          <target>Extra insensitive
+--
+-80% sensitivity
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443582889984" xml:space="preserve" resname="trait_name_touch-feet0">
+          <source>normal feet</source>
+          <target>normal feet</target>
+        </trans-unit>
+        <trans-unit id="12443582889985" xml:space="preserve" resname="trait_descr_touch-feet0">
+          <source>Medically approved
+--
+basic option
+{0.progress}</source>
+          <target>Medically approved
+--
+basic option
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443587084288" xml:space="preserve" resname="trait_name_touch-lips+">
+          <source>feather-like lips</source>
+          <target>feather-like lips</target>
+        </trans-unit>
+        <trans-unit id="12443587084289" xml:space="preserve" resname="trait_descr_touch-lips+">
+          <source>More sensitive
+--
++25% sensitivity
++50% pleasure
+{0.progress}</source>
+          <target>More sensitive
+--
++25% sensitivity
++50% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443591278592" xml:space="preserve" resname="trait_name_touch-lips-">
+          <source>cold lips</source>
+          <target>cold lips</target>
+        </trans-unit>
+        <trans-unit id="12443595472896" xml:space="preserve" resname="trait_descr_touch-lips-">
+          <source>Insensitive
+--
+-40% sensitivity
+{0.progress}</source>
+          <target>Insensitive
+--
+-40% sensitivity
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443599667200" xml:space="preserve" resname="trait_name_touch-lips0">
+          <source>normal lips</source>
+          <target>normal lips</target>
+        </trans-unit>
+        <trans-unit id="12443599667201" xml:space="preserve" resname="trait_descr_touch-lips0">
+          <source>Medically approved
+--
+basic option
+{0.progress}</source>
+          <target>Medically approved
+--
+basic option
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443603861504" xml:space="preserve" resname="trait_name_touch-skin+">
+          <source>velvet fire</source>
+          <target>velvet fire</target>
+        </trans-unit>
+        <trans-unit id="12443603861505" xml:space="preserve" resname="trait_descr_touch-skin+">
+          <source>Higher skin sensitivity
+Did you know the lightest touch can burn as thousands suns?
+--
+-25% tolerance (touch/pain)
++40% sensitivity
++25% pleasure
+{0.progress}</source>
+          <target>Higher skin sensitivity
+Did you know the lightest touch can burn as thousands suns?
+--
+-25% tolerance (touch/pain)
++40% sensitivity
++25% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443608055808" xml:space="preserve" resname="trait_name_touch-skin++">
+          <source>trembling canvas</source>
+          <target>trembling canvas</target>
+        </trans-unit>
+        <trans-unit id="12443612250112" xml:space="preserve" resname="trait_descr_touch-skin++">
+          <source>Extra sensitive skin 
+A living surface that echoes every touch
+--
+-50% tolerance (touch/pain)
++80% sensitivity
++50% pleasure
+{0.progress}</source>
+          <target>Extra sensitive skin 
+A living surface that echoes every touch
+--
+-50% tolerance (touch/pain)
++80% sensitivity
++50% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443616444416" xml:space="preserve" resname="trait_name_touch-skin-">
+          <source>serpent hide</source>
+          <target>serpent hide</target>
+        </trans-unit>
+        <trans-unit id="12443616444417" xml:space="preserve" resname="trait_descr_touch-skin-">
+          <source>Lower skin sensitivity
+Just imagine all the exciting experiments you can perform
+--
++25% tolerance (touch/pain)
+-40% sensitivity
+-25% pleasure
+{0.progress}</source>
+          <target>Lower skin sensitivity
+Just imagine all the exciting experiments you can perform
+--
++25% tolerance (touch/pain)
+-40% sensitivity
+-25% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443620638720" xml:space="preserve" resname="trait_name_touch-skin--">
+          <source>ice queen</source>
+          <target>ice queen</target>
+        </trans-unit>
+        <trans-unit id="12443620638721" xml:space="preserve" resname="trait_descr_touch-skin--">
+          <source>Insensitive skin
+Cold-blooded and hardy, still there are other options to impress your lady
+--
++50% tolerance (touch/pain)
+-80% sensitivity
+-50% pleasure
+{0.progress}</source>
+          <target>Insensitive skin
+Cold-blooded and hardy, still there are other options to impress your lady
+--
++50% tolerance (touch/pain)
+-80% sensitivity
+-50% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443624833024" xml:space="preserve" resname="trait_name_touch-skin0">
+          <source>peachy skin</source>
+          <target>peachy skin</target>
+        </trans-unit>
+        <trans-unit id="12443629027328" xml:space="preserve" resname="trait_descr_touch-skin0">
+          <source>Normal skin sensitivity
+Light sensation preferred, but adding some spice might do even better 
+--
+basic option
+{0.progress}</source>
+          <target>Normal skin sensitivity
+Light sensation preferred, but adding some spice might do even better 
+--
+basic option
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443629027329" xml:space="preserve" resname="trait_name_vaginal-default">
+          <source>comfy cupcake</source>
+          <target>домашній пиріжечок</target>
+        </trans-unit>
+        <trans-unit id="12443633221632" xml:space="preserve" resname="trait_descr_vaginal-default">
+          <source>Experienced pussy
+Has developed some skills
+--
+basic option
+{0.progress}</source>
+          <target>Experienced pussy
+Has developed some skills
+--
+basic option
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443637415936" xml:space="preserve" resname="trait_name_vaginal-v1-virgin">
+          <source>cherry pie</source>
+          <target>cherry pie</target>
+        </trans-unit>
+        <trans-unit id="12443637415937" xml:space="preserve" resname="trait_descr_vaginal-v1-virgin">
+          <source>Virgin pussy
+Near zero experience, 'It's all in your hands'
+--
+-50% tolerance buffer
+proper foreplay needed
+faster attitude change [Jazz]
+{0.progress}</source>
+          <target>Virgin pussy
+Near zero experience, 'It's all in your hands'
+--
+-50% tolerance buffer
+proper foreplay needed
+faster attitude change [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443641610240" xml:space="preserve" resname="trait_name_vaginal-v2-inexp">
+          <source>tight as hell</source>
+          <target>tight as hell</target>
+        </trans-unit>
+        <trans-unit id="12443641610241" xml:space="preserve" resname="trait_descr_vaginal-v2-inexp">
+          <source>Novice pussy
+Started exploring the guilty pleasures world
+--
+-25% tolerance buffer
+more foreplay needed
+{0.progress}</source>
+          <target>Novice pussy
+Started exploring the guilty pleasures world
+--
+-25% tolerance buffer
+more foreplay needed
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443645804544" xml:space="preserve" resname="trait_name_vaginal-v3-exp">
+          <source>seasoned pussy</source>
+          <target>бувала киця</target>
+        </trans-unit>
+        <trans-unit id="12443645804545" xml:space="preserve" resname="trait_descr_vaginal-v3-exp">
+          <source>Skilled pussy
+Can teach you a few new tricks
+--
++25% tolerance buffer
+less foreplay needed
+{0.progress}</source>
+          <target>Досвічена киця
+Може і тебе навчити кількох нових штучок-дрючок
+--
++25% буфер терпимості
+потребує менше підготовки
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443649998848" xml:space="preserve" resname="trait_name_vaginal-v4-lover">
+          <source>big mama</source>
+          <target>big mama</target>
+        </trans-unit>
+        <trans-unit id="12443654193152" xml:space="preserve" resname="trait_descr_vaginal-v4-lover">
+          <source>Expert pussy
+Have you ever heard of ping-pong shows?
+--
++50% tolerance buffer
+minimal foreplay needed
+slower attitude change [Jazz]
+{0.progress}</source>
+          <target>Expert pussy
+Have you ever heard of ping-pong shows?
+--
++50% tolerance buffer
+minimal foreplay needed
+slower attitude change [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443654193153" xml:space="preserve" resname="trait_name_vaginal+">
+          <source>satin core</source>
+          <target>satin core</target>
+        </trans-unit>
+        <trans-unit id="12443658387456" xml:space="preserve" resname="trait_descr_vaginal+">
+          <source>Sensitive pussy
+It's delicate and vulnerable, and should be handled with care
+--
+-25% tolerance
++25% pleasure &amp; annoyance
+{0.progress}</source>
+          <target>Sensitive pussy
+It's delicate and vulnerable, and should be handled with care
+--
+-25% tolerance
++25% pleasure &amp; annoyance
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443662581760" xml:space="preserve" resname="trait_name_vaginal++">
+          <source>capricious rose</source>
+          <target>capricious rose</target>
+        </trans-unit>
+        <trans-unit id="12443662581761" xml:space="preserve" resname="trait_descr_vaginal++">
+          <source>Delicate pussy
+These fragile petals will tremble on the lightest touch
+--
+-50% tolerance
++50% pleasure &amp; annoyance
+{0.progress}</source>
+          <target>Delicate pussy
+These fragile petals will tremble on the lightest touch
+--
+-50% tolerance
++50% pleasure &amp; annoyance
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443666776064" xml:space="preserve" resname="trait_name_vaginal-">
+          <source>jewel cavern</source>
+          <target>jewel cavern</target>
+        </trans-unit>
+        <trans-unit id="12443670970368" xml:space="preserve" resname="trait_descr_vaginal-">
+          <source>Dulled pussy
+You'll have to work harder for her pleasure. Ready to become the reachest man in the world?
+--
++25% tolerance
+-25% pleasure &amp; annoyance
+{0.progress}</source>
+          <target>Dulled pussy
+You'll have to work harder for her pleasure. Ready to become the reachest man in the world?
+--
++25% tolerance
+-25% pleasure &amp; annoyance
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443670970369" xml:space="preserve" resname="trait_name_vaginal--">
+          <source>solid lock</source>
+          <target>замочок</target>
+        </trans-unit>
+        <trans-unit id="12443675164672" xml:space="preserve" resname="trait_descr_vaginal--">
+          <source>Cold pussy
+Not every key will fit her. But wouldn't you love unpuzzling it?
+--
++50% tolerance
+-50% pleasure &amp; annoyance
+{0.progress}</source>
+          <target>Cold pussy
+Not every key will fit her. But wouldn't you love unpuzzling it?
+--
++50% tolerance
+-50% pleasure &amp; annoyance
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443679358976" xml:space="preserve" resname="trait_name_vaginal-afraid">
+          <source>vaginal uncomfortable</source>
+          <target>а може не нада?</target>
+        </trans-unit>
+        <trans-unit id="12443679358977" xml:space="preserve" resname="trait_descr_vaginal-afraid">
+          <source>Not comfortable with it, but it's up to you to show her how good it might be
+--
+-75% pleasure
++100% suffering
+no progression [Jazz]
+{0.progress}</source>
+          <target>Not comfortable with it, but it's up to you to show her how good it might be
+--
+-75% pleasure
++100% suffering
+no progression [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443683553280" xml:space="preserve" resname="trait_name_vaginal-duty">
+          <source>vaginal duty</source>
+          <target>подружнє зобов'язання</target>
+        </trans-unit>
+        <trans-unit id="12443683553281" xml:space="preserve" resname="trait_descr_vaginal-duty">
+          <source>For the greater good
+--
+low pleasure
+increased tolerance buffer
+slower progression [Jazz]
+{0.progress}</source>
+          <target>For the greater good
+--
+low pleasure
+increased tolerance buffer
+slower progression [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443687747584" xml:space="preserve" resname="trait_name_vaginal-excited">
+          <source>vaginal excited</source>
+          <target>розпусниця</target>
+        </trans-unit>
+        <trans-unit id="12443691941888" xml:space="preserve" resname="trait_descr_vaginal-excited">
+          <source>"I thought you'd never ask"
+--
++100% pleasure
+{0.progress}</source>
+          <target>"I thought you'd never ask"
+--
++100% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443691941889" xml:space="preserve" resname="trait_name_vaginal-interested">
+          <source>vaginal eager</source>
+          <target>спрагла до сексу</target>
+        </trans-unit>
+        <trans-unit id="12443696136192" xml:space="preserve" resname="trait_descr_vaginal-interested">
+          <source>Curious about new experiences
+--
++50% pleasure
+{0.progress}</source>
+          <target>Curious about new experiences
+--
++50% pleasure
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443696136193" xml:space="preserve" resname="trait_name_vaginal-never">
+          <source>vaginal restricted</source>
+          <target>без дозволу</target>
+        </trans-unit>
+        <trans-unit id="12443700330496" xml:space="preserve" resname="trait_descr_vaginal-never">
+          <source>'No' means 'NO', she might have reasons
+--
+zero pleasure
+no progression [Jazz]
+{0.progress}</source>
+          <target>'No' means 'NO', she might have reasons
+--
+zero pleasure
+no progression [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443704524800" xml:space="preserve" resname="trait_name_vaginal-ok">
+          <source>vaginal ok</source>
+          <target>"як у всіх"</target>
+        </trans-unit>
+        <trans-unit id="12443704524801" xml:space="preserve" resname="trait_descr_vaginal-ok">
+          <source>Not at all against a good sex
+--
+basic option
+{0.progress}</source>
+          <target>Not at all against a good sex
+--
+basic option
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443708719104" xml:space="preserve" resname="trait_name_vaginal-only">
+          <source>vaginal obsessed</source>
+          <target>одержима сексом</target>
+        </trans-unit>
+        <trans-unit id="12443708719105" xml:space="preserve" resname="trait_descr_vaginal-only">
+          <source>OH! MY! GOD!
+--
++200% pleasure
+-75% pleasure for other activities
+incompatible: low experience, high attitude for other activities
+{0.progress}</source>
+          <target>OH! MY! GOD!
+--
++200% pleasure
+-75% pleasure for other activities
+incompatible: low experience, high attitude for other activities
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443712913408" xml:space="preserve" resname="trait_name_vaginal0">
+          <source>honey pot</source>
+          <target>горщичек з медом</target>
+        </trans-unit>
+        <trans-unit id="12443712913409" xml:space="preserve" resname="trait_descr_vaginal0">
+          <source>Natural pussy
+Delicious and naturally sensitive, like a sweet honey pot waiting to be explored
+--
+basic option
+{0.progress}</source>
+          <target>Natural pussy
+Delicious and naturally sensitive, like a sweet honey pot waiting to be explored
+--
+basic option
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="12443717107712" xml:space="preserve" resname="trait_name_vaginal-latent">
+          <source>dormant bloom</source>
+          <target>спляча красуня</target>
+        </trans-unit>
+        <trans-unit id="12443721302016" xml:space="preserve" resname="trait_descr_vaginal-latent">
+          <source>Latent front-player
+Has a hidden potential
+--
++100% pleasure in low mind state
+x2 progression speed [Jazz]
+{0.progress}</source>
+          <target>Латентна розпусниця
+Має прихований потенціал
+--
++100% задоволення після розслаблення
+x2 швидкість прогресії [Jazz]
+{0.progress}</target>
+        </trans-unit>
+        <trans-unit id="284945495994368" xml:space="preserve" resname="trait_doll_name_anal-a1-virgin">
+          <source>ASS06-XXS (trainer)</source>
+          <target>ASS06-XXS (trainer)</target>
+        </trans-unit>
+        <trans-unit id="284945579880448" xml:space="preserve" resname="trait_doll_descr_anal-a1-virgin">
+          <source>extra-tight module,
+challenge yourself every day</source>
+          <target>extra-tight module,
+challenge yourself every day</target>
+        </trans-unit>
+        <trans-unit id="284945584074752" xml:space="preserve" resname="trait_doll_name_anal-a2-inexp">
+          <source>ASS04-XS (tight)</source>
+          <target>ASS04-XS (tight)</target>
+        </trans-unit>
+        <trans-unit id="284945584074753" xml:space="preserve" resname="trait_doll_descr_anal-a2-inexp">
+          <source>tight module,
+for customers looking for more</source>
+          <target>tight module,
+for customers looking for more</target>
+        </trans-unit>
+        <trans-unit id="284945588269056" xml:space="preserve" resname="trait_doll_name_anal-a3-exp">
+          <source>ASS02-L (wide)</source>
+          <target>ASS02-L (wide)</target>
+        </trans-unit>
+        <trans-unit id="284945592463360" xml:space="preserve" resname="trait_doll_descr_anal-a3-exp">
+          <source>extended module,
+for customers looking for comfort</source>
+          <target>extended module,
+for customers looking for comfort</target>
+        </trans-unit>
+        <trans-unit id="284945596657664" xml:space="preserve" resname="trait_doll_name_anal-a4-lover">
+          <source>ASS05-XL (loose)</source>
+          <target>ASS05-XL (loose)</target>
+        </trans-unit>
+        <trans-unit id="284945596657665" xml:space="preserve" resname="trait_doll_descr_anal-a4-lover">
+          <source>extra-loose module,
+you won't stretch a real GF like this</source>
+          <target>extra-loose module,
+you won't stretch a real GF like this</target>
+        </trans-unit>
+        <trans-unit id="284945600851968" xml:space="preserve" resname="trait_doll_name_anal-a5-ultimate">
+          <source>ASS07-XXL (refurbished)</source>
+          <target>ASS07-XXL (refurbished)</target>
+        </trans-unit>
+        <trans-unit id="284945600851969" xml:space="preserve" resname="trait_doll_descr_anal-a5-ultimate">
+          <source>a bit loose but 25% off,
+perfect for sharing with a friend</source>
+          <target>a bit loose but 25% off,
+perfect for sharing with a friend</target>
+        </trans-unit>
+        <trans-unit id="284945609240576" xml:space="preserve" resname="trait_doll_name_anal-default">
+          <source>ASS01-M</source>
+          <target>ASS01-M</target>
+        </trans-unit>
+        <trans-unit id="284945609240577" xml:space="preserve" resname="trait_doll_descr_anal-default">
+          <source>default module,
+fits 83% of our customers</source>
+          <target>default module,
+fits 83% of our customers</target>
+        </trans-unit>
+        <trans-unit id="284945902841856" xml:space="preserve" resname="trait_doll_name_vaginal-default">
+          <source>PUS01-M</source>
+          <target>PUS01-M</target>
+        </trans-unit>
+        <trans-unit id="284945902841857" xml:space="preserve" resname="trait_doll_descr_vaginal-default">
+          <source>default module,
+as good as a real one and never has a headache</source>
+          <target>default module,
+as good as a real one and never has a headache</target>
+        </trans-unit>
+        <trans-unit id="284945907036160" xml:space="preserve" resname="trait_doll_name_vaginal-v1-virgin">
+          <source>PUS04-XS (virgin)</source>
+          <target>PUS04-XS (virgin)</target>
+        </trans-unit>
+        <trans-unit id="284945907036161" xml:space="preserve" resname="trait_doll_descr_vaginal-v1-virgin">
+          <source>premium extra-tight module,
+make each time as a first one</source>
+          <target>premium extra-tight module,
+make each time as a first one</target>
+        </trans-unit>
+        <trans-unit id="284945915424768" xml:space="preserve" resname="trait_doll_name_vaginal-v2-inexp">
+          <source>PUS02-S (small)</source>
+          <target>PUS02-S (small)</target>
+        </trans-unit>
+        <trans-unit id="284945915424769" xml:space="preserve" resname="trait_doll_descr_vaginal-v2-inexp">
+          <source>small-sized module,
+for customers who know their limits</source>
+          <target>small-sized module,
+for customers who know their limits</target>
+        </trans-unit>
+        <trans-unit id="284945919619072" xml:space="preserve" resname="trait_doll_name_vaginal-v3-exp">
+          <source>PUS05-M</source>
+          <target>PUS05-M</target>
+        </trans-unit>
+        <trans-unit id="284945919619073" xml:space="preserve" resname="trait_doll_descr_vaginal-v3-exp">
+          <source>module v2.0,
+now with a patented whirling texture in the ending section</source>
+          <target>module v2.0,
+now with a patented whirling texture in the ending section</target>
+        </trans-unit>
+        <trans-unit id="284945923813376" xml:space="preserve" resname="trait_doll_name_vaginal-v4-lover">
+          <source>PUS06-L (extended)</source>
+          <target>PUS06-L (extended)</target>
+        </trans-unit>
+        <trans-unit id="284945928007680" xml:space="preserve" resname="trait_doll_descr_vaginal-v4-lover">
+          <source>extra-sized module,
+for customers with special needs</source>
+          <target>extra-sized module,
+for customers with special needs</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

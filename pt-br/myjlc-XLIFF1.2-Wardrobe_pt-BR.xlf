@@ -1,0 +1,1610 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="Assets/Localization/Loc Tables/Wardrobe_Strings_pt-BR.asset" source-language="en" datatype="plaintext" target-language="pt-BR">
+    <header>
+      <skl>
+        <external-file href="Assets/Localization/Loc Tables/Wardrobe_Strings_pt-BR.asset" uid="9bbc2c8cf3ca0774786c1dccdf3d344e" />
+      </skl>
+    </header>
+    <body>
+      <group id="72d455279186166498a42c7a10c8745e" resname="Wardrobe_Strings">
+        <trans-unit id="37116148350976" xml:space="preserve" resname="group__service">
+          <source>-</source>
+        </trans-unit>
+        <trans-unit id="37116240625664" xml:space="preserve" resname="group_p00 succubus">
+          <source>lil' succubus (concept by Kaot)</source>
+        </trans-unit>
+        <trans-unit id="37116253208577" xml:space="preserve" resname="group_a01 hair_accs">
+          <source>hair accessories</source>
+        </trans-unit>
+        <trans-unit id="37116257402880" xml:space="preserve" resname="group_m02 eyes">
+          <source>eyes makeup</source>
+        </trans-unit>
+        <trans-unit id="37116257402883" xml:space="preserve" resname="group_m04 lipstick">
+          <source>lipstick</source>
+        </trans-unit>
+        <trans-unit id="37116261597184" xml:space="preserve" resname="group_m05 manicure">
+          <source>manicure</source>
+        </trans-unit>
+        <trans-unit id="37116265791489" xml:space="preserve" resname="group_u1 panties">
+          <source>panties</source>
+        </trans-unit>
+        <trans-unit id="37116269985792" xml:space="preserve" resname="group_w2 clothes bottom">
+          <source>bottom pieces</source>
+        </trans-unit>
+        <trans-unit id="37116274180097" xml:space="preserve" resname="group_w5 outwear accs">
+          <source>outwear accessories</source>
+        </trans-unit>
+        <trans-unit id="37116282568704" xml:space="preserve" resname="group_u4 socks-n-gloves">
+          <source>socks &amp; gloves</source>
+        </trans-unit>
+        <trans-unit id="37116286763008" xml:space="preserve" resname="group_m29 tattoo-misc">
+          <source>misc tattoos</source>
+        </trans-unit>
+        <trans-unit id="37116286763009" xml:space="preserve" resname="group_a04 necklaces">
+          <source>necklaces</source>
+        </trans-unit>
+        <trans-unit id="37116286763010" xml:space="preserve" resname="group_a05 misc">
+          <source>miscellaneous</source>
+        </trans-unit>
+        <trans-unit id="37116295151616" xml:space="preserve" resname="group_a03 earrings">
+          <source>earrings</source>
+        </trans-unit>
+        <trans-unit id="37116295151617" xml:space="preserve" resname="group_a02 face_accs">
+          <source>face accessories</source>
+        </trans-unit>
+        <trans-unit id="37116299345920" xml:space="preserve" resname="group_w6 footwear">
+          <source>footwear</source>
+        </trans-unit>
+        <trans-unit id="37116299345921" xml:space="preserve" resname="group_w4 outer clothes">
+          <source>outer clothes</source>
+        </trans-unit>
+        <trans-unit id="37116303540226" xml:space="preserve" resname="group_w1 clothes top">
+          <source>top pieces</source>
+        </trans-unit>
+        <trans-unit id="37116307734529" xml:space="preserve" resname="group_w3 clothes full">
+          <source>full body</source>
+        </trans-unit>
+        <trans-unit id="37116311928833" xml:space="preserve" resname="group_p04 cyberpunk2025">
+          <source>sex doll</source>
+        </trans-unit>
+        <trans-unit id="37116316123137" xml:space="preserve" resname="group_f05 fetish_wear">
+          <source>fetish wear</source>
+        </trans-unit>
+        <trans-unit id="37116320317440" xml:space="preserve" resname="group_m00 body">
+          <source>body paint</source>
+        </trans-unit>
+        <trans-unit id="37116332900352" xml:space="preserve" resname="group_c10 bodyhair_pubic">
+          <source>pubic hair</source>
+        </trans-unit>
+        <trans-unit id="37116332900354" xml:space="preserve" resname="group_c12 bodyhair_armpits">
+          <source>armpits hair</source>
+        </trans-unit>
+        <trans-unit id="37116332900355" xml:space="preserve" resname="group_c01 general">
+          <source>general</source>
+        </trans-unit>
+        <trans-unit id="37116341288960" xml:space="preserve" resname="group_c06 intimate">
+          <source>intimate</source>
+        </trans-unit>
+        <trans-unit id="37116349677568" xml:space="preserve" resname="group_c02 haircut">
+          <source>hair style</source>
+        </trans-unit>
+        <trans-unit id="37116358066177" xml:space="preserve" resname="group_c15 skin_marks">
+          <source>skin marks</source>
+        </trans-unit>
+        <trans-unit id="37116362260480" xml:space="preserve" resname="group_c02- implants">
+          <source>breast implants</source>
+        </trans-unit>
+        <trans-unit id="37116366454784" xml:space="preserve" resname="group_bondage-arms3">
+          <source>arms bondage</source>
+        </trans-unit>
+        <trans-unit id="37116366454785" xml:space="preserve" resname="group_bondage-legs2">
+          <source>leegs bondage</source>
+        </trans-unit>
+        <trans-unit id="37116374843392" xml:space="preserve" resname="group_bondage-arms1">
+          <source>arms bondage</source>
+        </trans-unit>
+        <trans-unit id="37116374843393" xml:space="preserve" resname="group_bondage-arms2">
+          <source>arms bondage</source>
+        </trans-unit>
+        <trans-unit id="37116374843394" xml:space="preserve" resname="group_bondage-poses (hidden)">
+          <source>bondage pose</source>
+        </trans-unit>
+        <trans-unit id="37116379037696" xml:space="preserve" resname="group_bondage-legs1">
+          <source>leegs bondage</source>
+        </trans-unit>
+        <trans-unit id="37116383232000" xml:space="preserve" resname="group_f11 face_accs">
+          <source>face accessories</source>
+        </trans-unit>
+        <trans-unit id="37116383232001" xml:space="preserve" resname="group_f12 misc_accs">
+          <source>miscellaneous</source>
+        </trans-unit>
+        <trans-unit id="37116387426304" xml:space="preserve" resname="group_u3 legwear">
+          <source>stockings &amp; pantyhose</source>
+        </trans-unit>
+        <trans-unit id="37116391620608" xml:space="preserve" resname="group_c05 brows">
+          <source>eye brows shape</source>
+        </trans-unit>
+        <trans-unit id="37116391620609" xml:space="preserve" resname="group_m01 cheeks">
+          <source>face tone</source>
+        </trans-unit>
+        <trans-unit id="37116400009216" xml:space="preserve" resname="group_a11 face piercing">
+          <source>facial piercing</source>
+        </trans-unit>
+        <trans-unit id="37116400009218" xml:space="preserve" resname="group_a13 genital piercing">
+          <source>genital piercing</source>
+        </trans-unit>
+        <trans-unit id="37116400009220" xml:space="preserve" resname="group_a10 navel piercing">
+          <source>navel piercing</source>
+        </trans-unit>
+        <trans-unit id="37116404203520" xml:space="preserve" resname="group_a12 nipples piercing">
+          <source>nipples piercing</source>
+        </trans-unit>
+        <trans-unit id="37116404203521" xml:space="preserve" resname="group_m23 tattoo-rock">
+          <source>rock tattoos series</source>
+        </trans-unit>
+        <trans-unit id="37116412592128" xml:space="preserve" resname="group_m21 tattoo-tantric">
+          <source>tantric tattoos series</source>
+        </trans-unit>
+        <trans-unit id="37116412592130" xml:space="preserve" resname="group_m22 tattoo-tribal">
+          <source>tribal tattoos series</source>
+        </trans-unit>
+        <trans-unit id="37116416786432" xml:space="preserve" resname="group_u2 erotic sets">
+          <source>erotic sets</source>
+        </trans-unit>
+        <trans-unit id="37116420980736" xml:space="preserve" resname="group_set-art1">
+          <source>painted set</source>
+        </trans-unit>
+        <trans-unit id="37116420980737" xml:space="preserve" resname="group_u1 bra sets">
+          <source>bra sets</source>
+        </trans-unit>
+        <trans-unit id="37116420980738" xml:space="preserve" resname="group_set-bra4">
+          <source>striped set</source>
+        </trans-unit>
+        <trans-unit id="37116420980739" xml:space="preserve" resname="group_set-bra5">
+          <source>ladyboss set</source>
+        </trans-unit>
+        <trans-unit id="37116425175040" xml:space="preserve" resname="group_set-bra6">
+          <source>gothic set</source>
+        </trans-unit>
+        <trans-unit id="37116425175041" xml:space="preserve" resname="group_u2 swimsuits">
+          <source>swimsuits</source>
+        </trans-unit>
+        <trans-unit id="37116429369344" xml:space="preserve" resname="group_set-bikini3">
+          <source>bikini set</source>
+        </trans-unit>
+        <trans-unit id="37116429369345" xml:space="preserve" resname="group_set-bra1">
+          <source>daisy set</source>
+        </trans-unit>
+        <trans-unit id="37116433563648" xml:space="preserve" resname="group_set-bra2">
+          <source>moonlight set</source>
+        </trans-unit>
+        <trans-unit id="37116433563649" xml:space="preserve" resname="group_set-bra3">
+          <source>sport set</source>
+        </trans-unit>
+        <trans-unit id="37116437757952" xml:space="preserve" resname="group_set-bikini1">
+          <source>bikini set</source>
+        </trans-unit>
+        <trans-unit id="37116437757953" xml:space="preserve" resname="group_p01 bunnygirl">
+          <source>bunny girl</source>
+        </trans-unit>
+        <trans-unit id="37116441952257" xml:space="preserve" resname="group_p02 polardancer">
+          <source>Christmas dancer</source>
+        </trans-unit>
+        <trans-unit id="37116450340864" xml:space="preserve" resname="group_p03 zombienurse">
+          <source>zombie nurse</source>
+        </trans-unit>
+        <trans-unit id="37116450340865" xml:space="preserve" resname="group_set-ero1">
+          <source>ribbon wrapping</source>
+        </trans-unit>
+        <trans-unit id="37116450340866" xml:space="preserve" resname="group_set-bikini2">
+          <source>bikini set</source>
+        </trans-unit>
+        <trans-unit id="37116450340867" xml:space="preserve" resname="group_set-bikini4">
+          <source>micro bikini set</source>
+        </trans-unit>
+        <trans-unit id="37116454535168" xml:space="preserve" resname="group_toy-anal0">
+          <source>basic anal toys</source>
+        </trans-unit>
+        <trans-unit id="37116454535169" xml:space="preserve" resname="group_toy-anal0-bunny">
+          <source>bunny tail plug</source>
+        </trans-unit>
+        <trans-unit id="37116454535170" xml:space="preserve" resname="group_toy-anal0-rose">
+          <source>rose plug</source>
+        </trans-unit>
+        <trans-unit id="37116454535171" xml:space="preserve" resname="group_sm-tally">
+          <source>tally marks</source>
+        </trans-unit>
+        <trans-unit id="37116454535172" xml:space="preserve" resname="group_toy-dildo0">
+          <source>basic dildos</source>
+        </trans-unit>
+        <trans-unit id="37116458729472" xml:space="preserve" resname="group_toy-smearing0">
+          <source>smearing toys</source>
+        </trans-unit>
+        <trans-unit id="37116458729473" xml:space="preserve" resname="group_toy-dildo1">
+          <source>advanced dildos</source>
+        </trans-unit>
+        <trans-unit id="37116458729474" xml:space="preserve" resname="group_toy-pain1">
+          <source>advanced paddles</source>
+        </trans-unit>
+        <trans-unit id="37116458729475" xml:space="preserve" resname="group_toy-basic">
+          <source>foreplay toys</source>
+        </trans-unit>
+        <trans-unit id="37116462923776" xml:space="preserve" resname="group_toy-vibro0">
+          <source>basic vibrators</source>
+        </trans-unit>
+        <trans-unit id="37116462923777" xml:space="preserve" resname="group_toy-fetish0">
+          <source>basic fetish toys</source>
+        </trans-unit>
+        <trans-unit id="37116462923778" xml:space="preserve" resname="group_toy-pain0">
+          <source>basic paddles</source>
+        </trans-unit>
+        <trans-unit id="37116462923779" xml:space="preserve" resname="group_toy-anal0-gem">
+          <source>gem plug</source>
+        </trans-unit>
+        <trans-unit id="37116467118080" xml:space="preserve" resname="group_toy-machine">
+          <source>sex machines</source>
+        </trans-unit>
+        <trans-unit id="37116467118081" xml:space="preserve" resname="unlock_body">
+          <source>body customization</source>
+        </trans-unit>
+        <trans-unit id="37116467118082" xml:space="preserve" resname="unlock_service">
+          <source>-</source>
+        </trans-unit>
+        <trans-unit id="37116467118083" xml:space="preserve" resname="unlock_accs-clothes">
+          <source>accessories</source>
+        </trans-unit>
+        <trans-unit id="37116471312384" xml:space="preserve" resname="unlock_accs-jewelry">
+          <source>jewelry</source>
+        </trans-unit>
+        <trans-unit id="37116471312385" xml:space="preserve" resname="unlock_eyes">
+          <source>eye lenses</source>
+        </trans-unit>
+        <trans-unit id="37116471312386" xml:space="preserve" resname="unlock_bodyhair">
+          <source>bodyhair</source>
+        </trans-unit>
+        <trans-unit id="37116475506688" xml:space="preserve" resname="unlock_haircuts">
+          <source>haircuts</source>
+        </trans-unit>
+        <trans-unit id="37116475506689" xml:space="preserve" resname="unlock_set-arm1-bondage">
+          <source>arms bondage</source>
+        </trans-unit>
+        <trans-unit id="37116475506690" xml:space="preserve" resname="unlock_set-arm2-bondage">
+          <source>arms bondage</source>
+        </trans-unit>
+        <trans-unit id="37116475506691" xml:space="preserve" resname="unlock_set-arm3-bondage">
+          <source>arms bondage</source>
+        </trans-unit>
+        <trans-unit id="37116479700992" xml:space="preserve" resname="unlock_set-leg1-bondage">
+          <source>leegs bondage</source>
+        </trans-unit>
+        <trans-unit id="37116479700993" xml:space="preserve" resname="unlock_set-leg2-bondage">
+          <source>leegs bondage</source>
+        </trans-unit>
+        <trans-unit id="37116479700994" xml:space="preserve" resname="unlock_set-pose-bondage">
+          <source>bondage pose</source>
+        </trans-unit>
+        <trans-unit id="37116479700995" xml:space="preserve" resname="unlock_cosplay-android">
+          <source>android cosplay</source>
+        </trans-unit>
+        <trans-unit id="37116483895296" xml:space="preserve" resname="unlock_cosplay-bunny">
+          <source>bunnygirl cosplay</source>
+        </trans-unit>
+        <trans-unit id="37116483895297" xml:space="preserve" resname="unlock_cosplay-polardancer">
+          <source>polar dancer cosplay</source>
+        </trans-unit>
+        <trans-unit id="37116483895298" xml:space="preserve" resname="unlock_cosplay-nurse">
+          <source>zombie nurse cosplay</source>
+        </trans-unit>
+        <trans-unit id="37116483895299" xml:space="preserve" resname="unlock_cosplay-succubus1">
+          <source>succubus cosplay</source>
+        </trans-unit>
+        <trans-unit id="37116488089600" xml:space="preserve" resname="unlock_set-artset1">
+          <source>painted set</source>
+        </trans-unit>
+        <trans-unit id="37116488089601" xml:space="preserve" resname="unlock_set-bikini1">
+          <source>bikini set</source>
+        </trans-unit>
+        <trans-unit id="37116488089602" xml:space="preserve" resname="unlock_set-bikini2">
+          <source>bikini set</source>
+        </trans-unit>
+        <trans-unit id="37116488089603" xml:space="preserve" resname="unlock_set-bikini3">
+          <source>bikini set</source>
+        </trans-unit>
+        <trans-unit id="37116488089604" xml:space="preserve" resname="unlock_set-bikini4">
+          <source>micro bikini set</source>
+        </trans-unit>
+        <trans-unit id="37116492283904" xml:space="preserve" resname="unlock_set-braset1">
+          <source>daisy set</source>
+        </trans-unit>
+        <trans-unit id="37116492283905" xml:space="preserve" resname="unlock_set-braset2">
+          <source>moonlight set</source>
+        </trans-unit>
+        <trans-unit id="37116492283906" xml:space="preserve" resname="unlock_set-braset3">
+          <source>sport set</source>
+        </trans-unit>
+        <trans-unit id="37116492283907" xml:space="preserve" resname="unlock_set-braset4">
+          <source>striped set</source>
+        </trans-unit>
+        <trans-unit id="37116496478208" xml:space="preserve" resname="unlock_set-braset5">
+          <source>ladyboss set</source>
+        </trans-unit>
+        <trans-unit id="37116496478209" xml:space="preserve" resname="unlock_set-braset6">
+          <source>gothic set</source>
+        </trans-unit>
+        <trans-unit id="37116496478210" xml:space="preserve" resname="unlock_set-braset-ribbon">
+          <source>ribbon wrapping</source>
+        </trans-unit>
+        <trans-unit id="37116496478211" xml:space="preserve" resname="unlock_set-tally">
+          <source>tally marks</source>
+        </trans-unit>
+        <trans-unit id="37116500672512" xml:space="preserve" resname="unlock_cosplay">
+          <source>cosplay</source>
+        </trans-unit>
+        <trans-unit id="37116500672513" xml:space="preserve" resname="unlock_fetish-hard">
+          <source>BDSM accessories</source>
+        </trans-unit>
+        <trans-unit id="37116500672514" xml:space="preserve" resname="unlock_fetish-light">
+          <source>fetish accessories</source>
+        </trans-unit>
+        <trans-unit id="37116500672515" xml:space="preserve" resname="unlock_lingerie">
+          <source>lingerie</source>
+        </trans-unit>
+        <trans-unit id="37116504866816" xml:space="preserve" resname="unlock_lingerie-comfy">
+          <source>cozy lingerie</source>
+        </trans-unit>
+        <trans-unit id="37116504866817" xml:space="preserve" resname="unlock_lingerie-ero">
+          <source>erotic lingerie</source>
+        </trans-unit>
+        <trans-unit id="37116504866818" xml:space="preserve" resname="unlock_lingerie-nice">
+          <source>dating lingerie</source>
+        </trans-unit>
+        <trans-unit id="37116504866819" xml:space="preserve" resname="unlock_lingerie-swim">
+          <source>swimsuits</source>
+        </trans-unit>
+        <trans-unit id="37116509061120" xml:space="preserve" resname="unlock_makeup">
+          <source>makeup</source>
+        </trans-unit>
+        <trans-unit id="37116509061121" xml:space="preserve" resname="unlock_makeup-alt">
+          <source>alternative makeup</source>
+        </trans-unit>
+        <trans-unit id="37116509061122" xml:space="preserve" resname="unlock_outerwear">
+          <source>outer wear</source>
+        </trans-unit>
+        <trans-unit id="37116509061123" xml:space="preserve" resname="unlock_outerwear-casual">
+          <source>casual wear</source>
+        </trans-unit>
+        <trans-unit id="37116509061124" xml:space="preserve" resname="unlock_outerwear-home">
+          <source>homewear</source>
+        </trans-unit>
+        <trans-unit id="37116513255424" xml:space="preserve" resname="unlock_outerwear-hot">
+          <source>hot outwear</source>
+        </trans-unit>
+        <trans-unit id="37116513255425" xml:space="preserve" resname="unlock_outerwear-punk">
+          <source>punk wear</source>
+        </trans-unit>
+        <trans-unit id="37116513255426" xml:space="preserve" resname="unlock_piercing">
+          <source>piercing</source>
+        </trans-unit>
+        <trans-unit id="37116513255427" xml:space="preserve" resname="unlock_piercing-casual">
+          <source>casual piercing</source>
+        </trans-unit>
+        <trans-unit id="37116517449728" xml:space="preserve" resname="unlock_piercing-intimate">
+          <source>intimate piercing</source>
+        </trans-unit>
+        <trans-unit id="37116517449729" xml:space="preserve" resname="unlock_piercing-punk">
+          <source>punk piercing</source>
+        </trans-unit>
+        <trans-unit id="37116517449730" xml:space="preserve" resname="unlock_tattoo">
+          <source>tattoos</source>
+        </trans-unit>
+        <trans-unit id="37116521644032" xml:space="preserve" resname="unlock_tattoo-misc">
+          <source>miscellanous tattoos</source>
+        </trans-unit>
+        <trans-unit id="37116521644033" xml:space="preserve" resname="unlock_tattoo-rock">
+          <source>rock tattoo series</source>
+        </trans-unit>
+        <trans-unit id="37116521644034" xml:space="preserve" resname="unlock_tattoo-tantric">
+          <source>tantric tattoo series</source>
+        </trans-unit>
+        <trans-unit id="37116521644035" xml:space="preserve" resname="unlock_tattoo-tribal">
+          <source>tribal tattoos</source>
+        </trans-unit>
+        <trans-unit id="37116525838336" xml:space="preserve" resname="unlock_toys-anal0">
+          <source>basic anal toys</source>
+        </trans-unit>
+        <trans-unit id="37116525838337" xml:space="preserve" resname="unlock_toys-anal0-bunny">
+          <source>bunny tail plug</source>
+        </trans-unit>
+        <trans-unit id="37116525838338" xml:space="preserve" resname="unlock_toys-anal0-gem">
+          <source>gem plug</source>
+        </trans-unit>
+        <trans-unit id="37116525838339" xml:space="preserve" resname="unlock_toys-anal0-params">
+          <source>plug params</source>
+        </trans-unit>
+        <trans-unit id="37116530032640" xml:space="preserve" resname="unlock_toys-anal0-rose">
+          <source>rose plug</source>
+        </trans-unit>
+        <trans-unit id="37116530032641" xml:space="preserve" resname="unlock_toys-basic">
+          <source>foreplay toys</source>
+        </trans-unit>
+        <trans-unit id="37116530032642" xml:space="preserve" resname="unlock_toys-dildo0">
+          <source>basic dildos</source>
+        </trans-unit>
+        <trans-unit id="37116530032643" xml:space="preserve" resname="unlock_toys-dildo1">
+          <source>advanced dildos</source>
+        </trans-unit>
+        <trans-unit id="37116534226944" xml:space="preserve" resname="unlock_toys-fetish0">
+          <source>basic fetish toys</source>
+        </trans-unit>
+        <trans-unit id="37116534226945" xml:space="preserve" resname="unlock_toys-machine">
+          <source>sex machines</source>
+        </trans-unit>
+        <trans-unit id="37116534226946" xml:space="preserve" resname="unlock_toys-pain0">
+          <source>basic paddles</source>
+        </trans-unit>
+        <trans-unit id="37116534226947" xml:space="preserve" resname="unlock_toys-pain1">
+          <source>advanced paddles</source>
+        </trans-unit>
+        <trans-unit id="37116538421248" xml:space="preserve" resname="unlock_toys-smearing0">
+          <source>smearing toys</source>
+        </trans-unit>
+        <trans-unit id="37116538421249" xml:space="preserve" resname="unlock_toys-vibro0">
+          <source>basic vibrators</source>
+        </trans-unit>
+        <trans-unit id="37116542615552" xml:space="preserve" resname="item_roll-outwear">
+          <source>reroll outwear</source>
+        </trans-unit>
+        <trans-unit id="37116542615553" xml:space="preserve" resname="item_roll-lingerie">
+          <source>reroll lingerie</source>
+        </trans-unit>
+        <trans-unit id="37116542615554" xml:space="preserve" resname="item_roll-body">
+          <source>reroll body and accessories</source>
+        </trans-unit>
+        <trans-unit id="37116542615555" xml:space="preserve" resname="item_no-clothes">
+          <source>remove clothes</source>
+        </trans-unit>
+        <trans-unit id="37116546809856" xml:space="preserve" resname="item_no-lingerie">
+          <source>remove lingerie</source>
+        </trans-unit>
+        <trans-unit id="37116546809857" xml:space="preserve" resname="item_roll-all">
+          <source>reroll all</source>
+        </trans-unit>
+        <trans-unit id="37116563587072" xml:space="preserve" resname="item_empty">
+          <source>nothing here</source>
+        </trans-unit>
+        <trans-unit id="37116588752896" xml:space="preserve" resname="item_preset-hair-natural-plus">
+          <source>natural = OR options</source>
+        </trans-unit>
+        <trans-unit id="37116613918720" xml:space="preserve" resname="item_roll-succubus1">
+          <source>lil succubus set (concept by Kaot)</source>
+        </trans-unit>
+        <trans-unit id="37116634890240" xml:space="preserve" resname="item_acc-hairclip-spooky">
+          <source>spooky hairclips set</source>
+        </trans-unit>
+        <trans-unit id="37116634890241" xml:space="preserve" resname="item_acc-hairclip-spooky-unbundled">
+          <source>spooky hairclips set</source>
+        </trans-unit>
+        <trans-unit id="37116634890242" xml:space="preserve" resname="item_acc-horns-imp">
+          <source>junior demon horns</source>
+        </trans-unit>
+        <trans-unit id="37116639084544" xml:space="preserve" resname="item_mk-eyelashes3">
+          <source>curly</source>
+        </trans-unit>
+        <trans-unit id="37116639084545" xml:space="preserve" resname="item_mk-lipstick6">
+          <source>rave</source>
+        </trans-unit>
+        <trans-unit id="37116639084546" xml:space="preserve" resname="item_mk-manicure2">
+          <source>manicure claws</source>
+        </trans-unit>
+        <trans-unit id="37116643278848" xml:space="preserve" resname="item_panties4-succ">
+          <source>strip panties</source>
+        </trans-unit>
+        <trans-unit id="37116643278849" xml:space="preserve" resname="item_panties4-succ-unbundled">
+          <source>strip panties</source>
+        </trans-unit>
+        <trans-unit id="37116643278850" xml:space="preserve" resname="item_penta-top">
+          <source>strappy pentagram bra</source>
+        </trans-unit>
+        <trans-unit id="37116647473152" xml:space="preserve" resname="item_btm-skirt4">
+          <source>layered skirt</source>
+        </trans-unit>
+        <trans-unit id="37116647473153" xml:space="preserve" resname="item_btm-skirt4-unbundled">
+          <source>layered skirt</source>
+        </trans-unit>
+        <trans-unit id="37116647473154" xml:space="preserve" resname="item_succ-stockings1">
+          <source>asymmetrical sexy cutie set</source>
+        </trans-unit>
+        <trans-unit id="37116664250368" xml:space="preserve" resname="item_sleeves3-succy">
+          <source>succuby sleeves</source>
+        </trans-unit>
+        <trans-unit id="37116668444672" xml:space="preserve" resname="item_top-succubus1">
+          <source>sexy corsage top</source>
+        </trans-unit>
+        <trans-unit id="37116668444673" xml:space="preserve" resname="item_wrists-succy">
+          <source>succuby wrists</source>
+        </trans-unit>
+        <trans-unit id="37116668444674" xml:space="preserve" resname="item_tattoo-pubic-succ1">
+          <source>succuby tattoo A - pubic area</source>
+        </trans-unit>
+        <trans-unit id="37116668444675" xml:space="preserve" resname="item_tattoo-pubic-succ1-unbundled">
+          <source>succuby tattoo A - pubic area</source>
+        </trans-unit>
+        <trans-unit id="37116672638976" xml:space="preserve" resname="item_tattoo-pubic-succ2">
+          <source>succuby tattoo B - pubic area</source>
+        </trans-unit>
+        <trans-unit id="37116672638977" xml:space="preserve" resname="item_tattoo-pubic-succ2-unbundled">
+          <source>succuby tattoo B - pubic area</source>
+        </trans-unit>
+        <trans-unit id="37116672638978" xml:space="preserve" resname="item_tattoo-pubic-succ3">
+          <source>succuby tattoo C - pubic area</source>
+        </trans-unit>
+        <trans-unit id="37116672638979" xml:space="preserve" resname="item_tattoo-pubic-succ3-unbundled">
+          <source>succuby tattoo C - pubic area</source>
+        </trans-unit>
+        <trans-unit id="37116676833280" xml:space="preserve" resname="item_acc-wings">
+          <source>bat wings</source>
+        </trans-unit>
+        <trans-unit id="37116676833281" xml:space="preserve" resname="item_acc-necklace4">
+          <source>pearl necklace</source>
+        </trans-unit>
+        <trans-unit id="37116676833282" xml:space="preserve" resname="item_acc-necklace5">
+          <source>dog tag</source>
+        </trans-unit>
+        <trans-unit id="37116676833283" xml:space="preserve" resname="item_acc-wrists3">
+          <source>spiky wrists</source>
+        </trans-unit>
+        <trans-unit id="37116681027584" xml:space="preserve" resname="item_acc-wrists2">
+          <source>pearl bracelets</source>
+        </trans-unit>
+        <trans-unit id="37116681027585" xml:space="preserve" resname="item_acc-necklace6">
+          <source>summer keepsake</source>
+        </trans-unit>
+        <trans-unit id="37116681027586" xml:space="preserve" resname="item_belt3">
+          <source>bodychain belt</source>
+        </trans-unit>
+        <trans-unit id="37116681027587" xml:space="preserve" resname="item_acc-wreath1">
+          <source>wreath of wildflowers</source>
+        </trans-unit>
+        <trans-unit id="37116681027588" xml:space="preserve" resname="item_acc-anklets1">
+          <source>anklet chain bracelets</source>
+        </trans-unit>
+        <trans-unit id="37116685221888" xml:space="preserve" resname="item_acc-forearms1">
+          <source>forearm spiral bracelets</source>
+        </trans-unit>
+        <trans-unit id="37116685221889" xml:space="preserve" resname="item_acc-wrists1">
+          <source>ring bracelets</source>
+        </trans-unit>
+        <trans-unit id="37116685221890" xml:space="preserve" resname="item_acc-ears-cat">
+          <source>cat ears</source>
+        </trans-unit>
+        <trans-unit id="37116685221891" xml:space="preserve" resname="item_acc-earrings2">
+          <source>beaded earrings</source>
+        </trans-unit>
+        <trans-unit id="37116689416192" xml:space="preserve" resname="item_acc-earrings3">
+          <source>bead threaded earrings</source>
+        </trans-unit>
+        <trans-unit id="37116689416193" xml:space="preserve" resname="item_acc-earrings1">
+          <source>rings</source>
+        </trans-unit>
+        <trans-unit id="37116689416194" xml:space="preserve" resname="item_acc-glasses1">
+          <source>oval glasses</source>
+        </trans-unit>
+        <trans-unit id="37116689416195" xml:space="preserve" resname="item_acc-glasses2">
+          <source>rectangle glasses</source>
+        </trans-unit>
+        <trans-unit id="37116693610496" xml:space="preserve" resname="item_acc-hairband1">
+          <source>simple hairband</source>
+        </trans-unit>
+        <trans-unit id="37116693610497" xml:space="preserve" resname="item_acc-hairbands1">
+          <source>bell hair bands</source>
+        </trans-unit>
+        <trans-unit id="37116693610498" xml:space="preserve" resname="item_acc-hairclip-1L">
+          <source>heart hairclip (L)</source>
+        </trans-unit>
+        <trans-unit id="37116693610499" xml:space="preserve" resname="item_acc-hairclip-1R">
+          <source>heart hairclip (R)</source>
+        </trans-unit>
+        <trans-unit id="37116697804800" xml:space="preserve" resname="item_acc-hairclip-3L">
+          <source>star hairclip (L)</source>
+        </trans-unit>
+        <trans-unit id="37116697804801" xml:space="preserve" resname="item_acc-hairclip-3R">
+          <source>star hairclip (R)</source>
+        </trans-unit>
+        <trans-unit id="37116701999104" xml:space="preserve" resname="item_acc-hairclip-4L">
+          <source>crosses hairclip (L)</source>
+        </trans-unit>
+        <trans-unit id="37116701999105" xml:space="preserve" resname="item_acc-hairclip-4R">
+          <source>crosses hairclip (R)</source>
+        </trans-unit>
+        <trans-unit id="37116701999106" xml:space="preserve" resname="item_acc-mask1">
+          <source>medical mask</source>
+        </trans-unit>
+        <trans-unit id="37116701999107" xml:space="preserve" resname="item_acc-necklace1">
+          <source>heart on chain</source>
+        </trans-unit>
+        <trans-unit id="37116706193408" xml:space="preserve" resname="item_acc-necklace2">
+          <source>key on a chain</source>
+        </trans-unit>
+        <trans-unit id="37116706193409" xml:space="preserve" resname="item_acc-necklace3">
+          <source>peace sign on a chain</source>
+        </trans-unit>
+        <trans-unit id="37116710387712" xml:space="preserve" resname="item_boots2-steel">
+          <source>high boots</source>
+        </trans-unit>
+        <trans-unit id="37116718776320" xml:space="preserve" resname="item_jacket1-rock">
+          <source>biker vest</source>
+        </trans-unit>
+        <trans-unit id="37116718776321" xml:space="preserve" resname="item_btm-shorts2">
+          <source>denim shorts</source>
+        </trans-unit>
+        <trans-unit id="37116718776322" xml:space="preserve" resname="item_btm-skirt2">
+          <source>pleated skirt</source>
+        </trans-unit>
+        <trans-unit id="37116718776323" xml:space="preserve" resname="item_acc-tie1-sriped">
+          <source>necktie</source>
+        </trans-unit>
+        <trans-unit id="37116722970624" xml:space="preserve" resname="item_top-blouse1">
+          <source>blouse</source>
+        </trans-unit>
+        <trans-unit id="37116722970625" xml:space="preserve" resname="item_top-tank1">
+          <source>punk tank shirt</source>
+        </trans-unit>
+        <trans-unit id="37116722970626" xml:space="preserve" resname="item_belt1">
+          <source>belt with rivets and chain</source>
+        </trans-unit>
+        <trans-unit id="37116722970627" xml:space="preserve" resname="item_belt2">
+          <source>belt with buckle</source>
+        </trans-unit>
+        <trans-unit id="37116731359232" xml:space="preserve" resname="item_sandals1">
+          <source>sandals</source>
+        </trans-unit>
+        <trans-unit id="37116735553536" xml:space="preserve" resname="item_acc-glasses3">
+          <source>aviator glasses</source>
+        </trans-unit>
+        <trans-unit id="37116735553537" xml:space="preserve" resname="item_hat1-straw">
+          <source>straw hat</source>
+        </trans-unit>
+        <trans-unit id="37116739747840" xml:space="preserve" resname="item_sundress1">
+          <source>sundress</source>
+        </trans-unit>
+        <trans-unit id="37116748136448" xml:space="preserve" resname="item_hat2-santa">
+          <source>Christmas hat</source>
+        </trans-unit>
+        <trans-unit id="37116748136449" xml:space="preserve" resname="item_legwarmers1">
+          <source>leg warmers</source>
+        </trans-unit>
+        <trans-unit id="37116760719360" xml:space="preserve" resname="item_acc-tie2-bow">
+          <source>festive bow tie</source>
+        </trans-unit>
+        <trans-unit id="37116760719361" xml:space="preserve" resname="item_socks2-tabi">
+          <source>tabi socks</source>
+        </trans-unit>
+        <trans-unit id="37116769107968" xml:space="preserve" resname="item_gloves2-winterfur">
+          <source>lady's winter gloves</source>
+        </trans-unit>
+        <trans-unit id="37116769107969" xml:space="preserve" resname="item_sweater1-vk">
+          <source>sweater ;-)</source>
+        </trans-unit>
+        <trans-unit id="37116773302272" xml:space="preserve" resname="item_preset-sexdoll">
+          <source>Dolly v1.0</source>
+        </trans-unit>
+        <trans-unit id="37116785885184" xml:space="preserve" resname="item_doll1-seams">
+          <source>cyber seams</source>
+        </trans-unit>
+        <trans-unit id="37116798468096" xml:space="preserve" resname="item_btm-cyber1">
+          <source>trim mini</source>
+        </trans-unit>
+        <trans-unit id="37116798468097" xml:space="preserve" resname="item_crotch-sticker1">
+          <source>quality control seal</source>
+        </trans-unit>
+        <trans-unit id="37116811051009" xml:space="preserve" resname="item_top-cyber1">
+          <source>polywrap band</source>
+        </trans-unit>
+        <trans-unit id="37116815245312" xml:space="preserve" resname="item_sandals2-roman">
+          <source>roman sandals</source>
+        </trans-unit>
+        <trans-unit id="37116819439616" xml:space="preserve" resname="item_pareo1">
+          <source>pareo / sarong</source>
+        </trans-unit>
+        <trans-unit id="37116823633920" xml:space="preserve" resname="item_top-frilled1">
+          <source>frilled summer top</source>
+        </trans-unit>
+        <trans-unit id="37116823633921" xml:space="preserve" resname="item_btm-shorts1">
+          <source>dolphin shorts</source>
+        </trans-unit>
+        <trans-unit id="37116823633922" xml:space="preserve" resname="item_btm-skirt1">
+          <source>denim mini skirt</source>
+        </trans-unit>
+        <trans-unit id="37116827828224" xml:space="preserve" resname="item_top-camisole1">
+          <source>camisole</source>
+        </trans-unit>
+        <trans-unit id="37116827828225" xml:space="preserve" resname="item_top-crop1">
+          <source>crop top</source>
+        </trans-unit>
+        <trans-unit id="37116827828226" xml:space="preserve" resname="item_top-tshirt1">
+          <source>loose t-shirt</source>
+        </trans-unit>
+        <trans-unit id="37116827828227" xml:space="preserve" resname="item_skincolor-fantasy">
+          <source>skin paint (fantasy palette)</source>
+        </trans-unit>
+        <trans-unit id="37116832022528" xml:space="preserve" resname="item_face-expression">
+          <source>facial expression</source>
+        </trans-unit>
+        <trans-unit id="37116840411136" xml:space="preserve" resname="item_pose-arms">
+          <source>place arms</source>
+        </trans-unit>
+        <trans-unit id="37116848799744" xml:space="preserve" resname="item_pose-legs">
+          <source>place legs</source>
+        </trans-unit>
+        <trans-unit id="37116861382656" xml:space="preserve" resname="item_pubichair-aftershave">
+          <source>shaved</source>
+        </trans-unit>
+        <trans-unit id="37116865576960" xml:space="preserve" resname="item_pubichair-xs">
+          <source>tiny</source>
+        </trans-unit>
+        <trans-unit id="37116865576961" xml:space="preserve" resname="item_pubichair-m">
+          <source>narrow</source>
+        </trans-unit>
+        <trans-unit id="37116865576962" xml:space="preserve" resname="item_pubichair-l">
+          <source>hairy narrow</source>
+        </trans-unit>
+        <trans-unit id="37116865576963" xml:space="preserve" resname="item_pubichair-xl">
+          <source>hairy</source>
+        </trans-unit>
+        <trans-unit id="37116869771264" xml:space="preserve" resname="item_armpitshair-s">
+          <source>S</source>
+        </trans-unit>
+        <trans-unit id="37116869771265" xml:space="preserve" resname="item_armpitshair-m">
+          <source>M</source>
+        </trans-unit>
+        <trans-unit id="37116869771266" xml:space="preserve" resname="item_armpitshair-l">
+          <source>L</source>
+        </trans-unit>
+        <trans-unit id="37116869771267" xml:space="preserve" resname="item_pubichair-triangle1">
+          <source>triangle</source>
+        </trans-unit>
+        <trans-unit id="37116869771268" xml:space="preserve" resname="item_pubichair-line1l">
+          <source>line</source>
+        </trans-unit>
+        <trans-unit id="37116873965568" xml:space="preserve" resname="item_pubichair-line1s">
+          <source>line S</source>
+        </trans-unit>
+        <trans-unit id="37116873965569" xml:space="preserve" resname="item_pubichair-heart1">
+          <source>heart</source>
+        </trans-unit>
+        <trans-unit id="37116873965570" xml:space="preserve" resname="item_bodytype">
+          <source>body type</source>
+        </trans-unit>
+        <trans-unit id="37116873965571" xml:space="preserve" resname="item_bodytype-slender">
+          <source>slender</source>
+        </trans-unit>
+        <trans-unit id="37116878159872" xml:space="preserve" resname="item_bodytype-default">
+          <source>default</source>
+        </trans-unit>
+        <trans-unit id="37116878159873" xml:space="preserve" resname="item_bodytype-chubby">
+          <source>chubby</source>
+        </trans-unit>
+        <trans-unit id="37116878159874" xml:space="preserve" resname="item_breastpushup">
+          <source>breast lift</source>
+        </trans-unit>
+        <trans-unit id="37116878159875" xml:space="preserve" resname="item_breastsize">
+          <source>breasts size</source>
+        </trans-unit>
+        <trans-unit id="37116886548480" xml:space="preserve" resname="item_belly">
+          <source>belly</source>
+        </trans-unit>
+        <trans-unit id="37116894937088" xml:space="preserve" resname="item_areolas">
+          <source>areolas</source>
+        </trans-unit>
+        <trans-unit id="37116894937089" xml:space="preserve" resname="item_nipples">
+          <source>nipples</source>
+        </trans-unit>
+        <trans-unit id="37116899131392" xml:space="preserve" resname="item_pussylips">
+          <source>lips shape</source>
+        </trans-unit>
+        <trans-unit id="37116899131393" xml:space="preserve" resname="item_pussyclit">
+          <source>clitoris shape</source>
+        </trans-unit>
+        <trans-unit id="37116903325696" xml:space="preserve" resname="item_haircut-lolly">
+          <source>short twintails</source>
+        </trans-unit>
+        <trans-unit id="37116907520000" xml:space="preserve" resname="item_haircut-sarashina">
+          <source>short hair</source>
+        </trans-unit>
+        <trans-unit id="37116911714304" xml:space="preserve" resname="item_haircut-raphtalia">
+          <source>long hair</source>
+        </trans-unit>
+        <trans-unit id="37116915908608" xml:space="preserve" resname="item_haircut-kitagawa">
+          <source>long straight hair</source>
+        </trans-unit>
+        <trans-unit id="37116920102912" xml:space="preserve" resname="item_haircut-yoruichi">
+          <source>large ponytail</source>
+        </trans-unit>
+        <trans-unit id="37116924297216" xml:space="preserve" resname="item_haircut-frieren">
+          <source>long twintails</source>
+        </trans-unit>
+        <trans-unit id="37116928491520" xml:space="preserve" resname="item_haircut-lupusregina">
+          <source>twin braids</source>
+        </trans-unit>
+        <trans-unit id="37116928491521" xml:space="preserve" resname="item_haircut-makima">
+          <source>braid</source>
+        </trans-unit>
+        <trans-unit id="37116932685824" xml:space="preserve" resname="item_haircut-curlybob">
+          <source>curly bob</source>
+        </trans-unit>
+        <trans-unit id="37116936880128" xml:space="preserve" resname="item_skincolor">
+          <source>tender skin palette</source>
+        </trans-unit>
+        <trans-unit id="37116941074432" xml:space="preserve" resname="item_haircolor-natural">
+          <source>natural hair palette</source>
+        </trans-unit>
+        <trans-unit id="37116941074433" xml:space="preserve" resname="item_haircolor-colorful">
+          <source>vibrant hair palette</source>
+        </trans-unit>
+        <trans-unit id="37116941074434" xml:space="preserve" resname="item_eyecolor-brown">
+          <source>volcanic eye palette</source>
+        </trans-unit>
+        <trans-unit id="37116941074435" xml:space="preserve" resname="item_eyecolor-greenblue">
+          <source>oceanic eye palette</source>
+        </trans-unit>
+        <trans-unit id="37116945268736" xml:space="preserve" resname="item_genitalscolor-pink">
+          <source>rosebud intimate palette</source>
+        </trans-unit>
+        <trans-unit id="37116945268737" xml:space="preserve" resname="item_genitalscolor-brown">
+          <source>earthborn intimate palette</source>
+        </trans-unit>
+        <trans-unit id="37116945268738" xml:space="preserve" resname="item_bodyhaircolor-natural">
+          <source>natural body hair palette</source>
+        </trans-unit>
+        <trans-unit id="37116945268739" xml:space="preserve" resname="item_bodyhaircolor-colorful">
+          <source>vibrant body hair palette</source>
+        </trans-unit>
+        <trans-unit id="37117024960512" xml:space="preserve" resname="item_skin-freckles1">
+          <source>freckles</source>
+        </trans-unit>
+        <trans-unit id="37117024960513" xml:space="preserve" resname="item_skin-mole-eye-l-in">
+          <source>mole eye inner left</source>
+        </trans-unit>
+        <trans-unit id="37117029154816" xml:space="preserve" resname="item_skin-mole-eye-l-out">
+          <source>mole eye outer left</source>
+        </trans-unit>
+        <trans-unit id="37117029154817" xml:space="preserve" resname="item_skin-mole-eye-r-in">
+          <source>mole eye inner right</source>
+        </trans-unit>
+        <trans-unit id="37117029154818" xml:space="preserve" resname="item_skin-mole-eye-r-out">
+          <source>mole eye outer right</source>
+        </trans-unit>
+        <trans-unit id="37117029154819" xml:space="preserve" resname="item_skin-mole-mouth-lb">
+          <source>mole lips below left</source>
+        </trans-unit>
+        <trans-unit id="37117033349120" xml:space="preserve" resname="item_skin-mole-mouth-lt">
+          <source>mole lips above left</source>
+        </trans-unit>
+        <trans-unit id="37117033349121" xml:space="preserve" resname="item_skin-mole-mouth-rb">
+          <source>mole lips below right</source>
+        </trans-unit>
+        <trans-unit id="37117033349122" xml:space="preserve" resname="item_skin-mole-mouth-rt">
+          <source>mole lips above right</source>
+        </trans-unit>
+        <trans-unit id="37117033349123" xml:space="preserve" resname="item_skin-breasts-scar1">
+          <source>implant scars</source>
+        </trans-unit>
+        <trans-unit id="37117033349124" xml:space="preserve" resname="item_sm-shibari3">
+          <source>rope wristbands</source>
+        </trans-unit>
+        <trans-unit id="37117037543424" xml:space="preserve" resname="item_sm-kneels2">
+          <source>belt leg bondage</source>
+        </trans-unit>
+        <trans-unit id="37117037543425" xml:space="preserve" resname="item_sm-wrists4">
+          <source>arms-to-neck bondage</source>
+        </trans-unit>
+        <trans-unit id="37117037543426" xml:space="preserve" resname="item_sm-legs3">
+          <source>frame legs bondage</source>
+        </trans-unit>
+        <trans-unit id="37117037543427" xml:space="preserve" resname="item_sm-tapegag1">
+          <source>tape gag</source>
+        </trans-unit>
+        <trans-unit id="37117041737728" xml:space="preserve" resname="item_sm-collar1">
+          <source>leather collar</source>
+        </trans-unit>
+        <trans-unit id="37117041737729" xml:space="preserve" resname="item_sm-wrists1">
+          <source>leather wristbands</source>
+        </trans-unit>
+        <trans-unit id="37117041737730" xml:space="preserve" resname="item_sm-wrists2">
+          <source>nylon wristbands</source>
+        </trans-unit>
+        <trans-unit id="37117041737731" xml:space="preserve" resname="item_restriction-wrists">
+          <source>wrist restraints</source>
+        </trans-unit>
+        <trans-unit id="37117058514944" xml:space="preserve" resname="item_sm-shibari2">
+          <source>shibari leg bondage</source>
+        </trans-unit>
+        <trans-unit id="37117058514945" xml:space="preserve" resname="item_restriction-kneels">
+          <source>leg restraints</source>
+        </trans-unit>
+        <trans-unit id="37117062709248" xml:space="preserve" resname="item_sm-wrists3">
+          <source>tape wrist bondage</source>
+        </trans-unit>
+        <trans-unit id="37117062709249" xml:space="preserve" resname="item_sm-corset1">
+          <source>corset with side lacing</source>
+        </trans-unit>
+        <trans-unit id="37117062709250" xml:space="preserve" resname="item_sm-eyemask1">
+          <source>leather eye mask</source>
+        </trans-unit>
+        <trans-unit id="37117066903552" xml:space="preserve" resname="item_sm-mask2">
+          <source>gas mask</source>
+        </trans-unit>
+        <trans-unit id="37117066903553" xml:space="preserve" resname="item_sm-headbag1">
+          <source>head bag</source>
+        </trans-unit>
+        <trans-unit id="37117066903554" xml:space="preserve" resname="item_sm-pasties1">
+          <source>cross stickers</source>
+        </trans-unit>
+        <trans-unit id="37117066903555" xml:space="preserve" resname="item_sm-strings1">
+          <source>G-strings with zipper</source>
+        </trans-unit>
+        <trans-unit id="37117071097856" xml:space="preserve" resname="item_sm-shibari1">
+          <source>shibari harness</source>
+        </trans-unit>
+        <trans-unit id="37117071097857" xml:space="preserve" resname="item_sm-straps1">
+          <source>leather harness</source>
+        </trans-unit>
+        <trans-unit id="37117071097858" xml:space="preserve" resname="item_sm-writings-set1">
+          <source>sex slave body writings</source>
+        </trans-unit>
+        <trans-unit id="37117071097859" xml:space="preserve" resname="item_pantyhose4-cut">
+          <source>crotchless pantyhose</source>
+        </trans-unit>
+        <trans-unit id="37117075292160" xml:space="preserve" resname="item_braset4-highsocks">
+          <source>striped high socks</source>
+        </trans-unit>
+        <trans-unit id="37117083680768" xml:space="preserve" resname="item_braset6-highsocks">
+          <source>gothic see-through set high socks</source>
+        </trans-unit>
+        <trans-unit id="37117087875072" xml:space="preserve" resname="item_braset6-gloves">
+          <source>gothic see-through set gloves</source>
+        </trans-unit>
+        <trans-unit id="37117087875073" xml:space="preserve" resname="item_pantyhose5">
+          <source>colorful pantyhose</source>
+        </trans-unit>
+        <trans-unit id="37117096263680" xml:space="preserve" resname="item_pantyhose5t">
+          <source>torn colorful pantyhose</source>
+        </trans-unit>
+        <trans-unit id="37117104652288" xml:space="preserve" resname="item_stockings5">
+          <source>striped stockings</source>
+        </trans-unit>
+        <trans-unit id="37117113040896" xml:space="preserve" resname="item_sleeves2-striped">
+          <source>striped sleeves</source>
+        </trans-unit>
+        <trans-unit id="37117113040897" xml:space="preserve" resname="item_pantyhose1">
+          <source>pantyhose (40 den)</source>
+        </trans-unit>
+        <trans-unit id="37117117235200" xml:space="preserve" resname="item_pantyhose1t">
+          <source>torn pantyhose (40 den)</source>
+        </trans-unit>
+        <trans-unit id="37117121429504" xml:space="preserve" resname="item_stockings1">
+          <source>stockings, 40den</source>
+        </trans-unit>
+        <trans-unit id="37117129818112" xml:space="preserve" resname="item_pantyhose2">
+          <source>net pantyhose</source>
+        </trans-unit>
+        <trans-unit id="37117134012416" xml:space="preserve" resname="item_pantyhose2t">
+          <source>torn net pantyhose</source>
+        </trans-unit>
+        <trans-unit id="37117138206720" xml:space="preserve" resname="item_stockings2">
+          <source>net stockings</source>
+        </trans-unit>
+        <trans-unit id="37117146595328" xml:space="preserve" resname="item_brows-plucked">
+          <source>plucked</source>
+        </trans-unit>
+        <trans-unit id="37117146595329" xml:space="preserve" resname="item_cheeks-rock1">
+          <source>Ace Frehley's makeup</source>
+        </trans-unit>
+        <trans-unit id="37117150789632" xml:space="preserve" resname="item_mk-eyeshadow4">
+          <source>shadows gothic</source>
+        </trans-unit>
+        <trans-unit id="37117150789633" xml:space="preserve" resname="item_cheeks-pris">
+          <source>replicant blush</source>
+        </trans-unit>
+        <trans-unit id="37117150789634" xml:space="preserve" resname="item_mk-eyeshadow-pris">
+          <source>replicant shadows</source>
+        </trans-unit>
+        <trans-unit id="37117150789635" xml:space="preserve" resname="item_mk-eyeshadow-lucy">
+          <source>Lucy's luminous gaze</source>
+        </trans-unit>
+        <trans-unit id="37117154983936" xml:space="preserve" resname="item_brows-default">
+          <source>thin</source>
+        </trans-unit>
+        <trans-unit id="37117154983937" xml:space="preserve" resname="item_brows-arrows">
+          <source>arrows</source>
+        </trans-unit>
+        <trans-unit id="37117154983938" xml:space="preserve" resname="item_brows-comas">
+          <source>comas</source>
+        </trans-unit>
+        <trans-unit id="37117154983939" xml:space="preserve" resname="item_brows-lines">
+          <source>lines</source>
+        </trans-unit>
+        <trans-unit id="37117159178240" xml:space="preserve" resname="item_brows-shorts">
+          <source>shorts</source>
+        </trans-unit>
+        <trans-unit id="37117159178241" xml:space="preserve" resname="item_brows-wedges">
+          <source>wedges</source>
+        </trans-unit>
+        <trans-unit id="37117159178242" xml:space="preserve" resname="item_brows-arcs">
+          <source>arcs</source>
+        </trans-unit>
+        <trans-unit id="37117159178243" xml:space="preserve" resname="item_brows-clouds">
+          <source>clouds</source>
+        </trans-unit>
+        <trans-unit id="37117159178244" xml:space="preserve" resname="item_brows-droplets">
+          <source>droplets</source>
+        </trans-unit>
+        <trans-unit id="37117163372544" xml:space="preserve" resname="item_mk-cheeks-tonal2">
+          <source>tone full</source>
+        </trans-unit>
+        <trans-unit id="37117163372545" xml:space="preserve" resname="item_mk-cheeks-shadows1">
+          <source>shadows A</source>
+        </trans-unit>
+        <trans-unit id="37117167566848" xml:space="preserve" resname="item_mk-cheeks-rouge2">
+          <source>rouge A</source>
+        </trans-unit>
+        <trans-unit id="37117167566849" xml:space="preserve" resname="item_mk-cheeks-rouge3">
+          <source>rouge B</source>
+        </trans-unit>
+        <trans-unit id="37117167566850" xml:space="preserve" resname="item_mk-eyeliner1">
+          <source>minimal</source>
+        </trans-unit>
+        <trans-unit id="37117171761152" xml:space="preserve" resname="item_mk-eyeliner2">
+          <source>egyptean</source>
+        </trans-unit>
+        <trans-unit id="37117171761153" xml:space="preserve" resname="item_mk-eyeliner3">
+          <source>cateyes</source>
+        </trans-unit>
+        <trans-unit id="37117171761154" xml:space="preserve" resname="item_mk-eyeliner10">
+          <source>ruined</source>
+        </trans-unit>
+        <trans-unit id="37117175955456" xml:space="preserve" resname="item_mk-eyeshadow1">
+          <source>shadows A</source>
+        </trans-unit>
+        <trans-unit id="37117175955457" xml:space="preserve" resname="item_mk-eyeshadow2">
+          <source>shadows B top</source>
+        </trans-unit>
+        <trans-unit id="37117175955458" xml:space="preserve" resname="item_mk-eyeshadow3">
+          <source>shadows B bottom</source>
+        </trans-unit>
+        <trans-unit id="37117175955459" xml:space="preserve" resname="item_mk-eyelashes1">
+          <source>densed</source>
+        </trans-unit>
+        <trans-unit id="37117180149760" xml:space="preserve" resname="item_mk-eyelashes2">
+          <source>extended</source>
+        </trans-unit>
+        <trans-unit id="37117180149761" xml:space="preserve" resname="item_mk-lipstick1">
+          <source>natural</source>
+        </trans-unit>
+        <trans-unit id="37117180149762" xml:space="preserve" resname="item_mk-lipstick2">
+          <source>natural highlighted</source>
+        </trans-unit>
+        <trans-unit id="37117180149763" xml:space="preserve" resname="item_mk-lipstick3">
+          <source>lipstick tiny</source>
+        </trans-unit>
+        <trans-unit id="37117184344064" xml:space="preserve" resname="item_mk-lipstick4">
+          <source>lipstick</source>
+        </trans-unit>
+        <trans-unit id="37117184344065" xml:space="preserve" resname="item_mk-lipstick5">
+          <source>scenic</source>
+        </trans-unit>
+        <trans-unit id="37117184344066" xml:space="preserve" resname="item_mk-manicure">
+          <source>manicure</source>
+        </trans-unit>
+        <trans-unit id="37117188538368" xml:space="preserve" resname="item_acc-earrings4">
+          <source>stars</source>
+        </trans-unit>
+        <trans-unit id="37117188538369" xml:space="preserve" resname="item_acc-earrings+rings">
+          <source>extra ear rings</source>
+        </trans-unit>
+        <trans-unit id="37117188538370" xml:space="preserve" resname="item_acc-earrings+studs">
+          <source>extra ear studs</source>
+        </trans-unit>
+        <trans-unit id="37117188538371" xml:space="preserve" resname="item_piercing-brow-beads-L">
+          <source>brow labrets (L)</source>
+        </trans-unit>
+        <trans-unit id="37117192732672" xml:space="preserve" resname="item_piercing-brow-beads-R">
+          <source>brow labrets (R)</source>
+        </trans-unit>
+        <trans-unit id="37117192732673" xml:space="preserve" resname="item_piercing-brow-rings-L">
+          <source>brow rings (L)</source>
+        </trans-unit>
+        <trans-unit id="37117192732674" xml:space="preserve" resname="item_piercing-brow-rings-R">
+          <source>brow rings (R)</source>
+        </trans-unit>
+        <trans-unit id="37117192732675" xml:space="preserve" resname="item_piercing-chin1">
+          <source>chin labret</source>
+        </trans-unit>
+        <trans-unit id="37117196926976" xml:space="preserve" resname="item_piercing-chin2">
+          <source>chin spike</source>
+        </trans-unit>
+        <trans-unit id="37117196926977" xml:space="preserve" resname="item_piercing-labia1L">
+          <source>labia rings (L)</source>
+        </trans-unit>
+        <trans-unit id="37117196926978" xml:space="preserve" resname="item_piercing-labia1R">
+          <source>labia rings (R)</source>
+        </trans-unit>
+        <trans-unit id="37117201121280" xml:space="preserve" resname="item_piercing-navel3">
+          <source>bead</source>
+        </trans-unit>
+        <trans-unit id="37117201121281" xml:space="preserve" resname="item_piercing-nose1">
+          <source>nose labret</source>
+        </trans-unit>
+        <trans-unit id="37117201121282" xml:space="preserve" resname="item_piercing-nose2">
+          <source>nose ring</source>
+        </trans-unit>
+        <trans-unit id="37117205315584" xml:space="preserve" resname="item_piercing-clit1">
+          <source>horizontal barbell</source>
+        </trans-unit>
+        <trans-unit id="37117205315585" xml:space="preserve" resname="item_piercing-clit2">
+          <source>vertical barbell</source>
+        </trans-unit>
+        <trans-unit id="37117205315586" xml:space="preserve" resname="item_piercing-clit3">
+          <source>ring</source>
+        </trans-unit>
+        <trans-unit id="37117205315587" xml:space="preserve" resname="item_piercing-navel1">
+          <source>heart on barbell</source>
+        </trans-unit>
+        <trans-unit id="37117205315588" xml:space="preserve" resname="item_piercing-navel2">
+          <source>moon pendant</source>
+        </trans-unit>
+        <trans-unit id="37117209509888" xml:space="preserve" resname="item_piercing-nipples2">
+          <source>barbell</source>
+        </trans-unit>
+        <trans-unit id="37117209509889" xml:space="preserve" resname="item_piercing-nipples1">
+          <source>2 barbells</source>
+        </trans-unit>
+        <trans-unit id="37117209509890" xml:space="preserve" resname="item_piercing-nipples3">
+          <source>small ring</source>
+        </trans-unit>
+        <trans-unit id="37117209509891" xml:space="preserve" resname="item_tattoo-face1">
+          <source>droplet - cheek</source>
+        </trans-unit>
+        <trans-unit id="37117213704192" xml:space="preserve" resname="item_tattoo-face3">
+          <source>heart - cheek</source>
+        </trans-unit>
+        <trans-unit id="37117213704193" xml:space="preserve" resname="item_tattoo-face2">
+          <source>star - cheek</source>
+        </trans-unit>
+        <trans-unit id="37117213704194" xml:space="preserve" resname="item_rockset">
+          <source>rock sleeves set</source>
+        </trans-unit>
+        <trans-unit id="37117213704195" xml:space="preserve" resname="item_rockset-roll">
+          <source>randomize set</source>
+        </trans-unit>
+        <trans-unit id="37117213704196" xml:space="preserve" resname="item_rockset-clear">
+          <source>clear whole set</source>
+        </trans-unit>
+        <trans-unit id="37117217898496" xml:space="preserve" resname="item_tattoo-neck3">
+          <source>roses - neck</source>
+        </trans-unit>
+        <trans-unit id="37117217898497" xml:space="preserve" resname="item_tattoo-shoulders3">
+          <source>suns - shoulders</source>
+        </trans-unit>
+        <trans-unit id="37117217898498" xml:space="preserve" resname="item_tattoo-forearms4">
+          <source>waves - forearms</source>
+        </trans-unit>
+        <trans-unit id="37117217898499" xml:space="preserve" resname="item_tattoo-biceps1">
+          <source>misc - biceps</source>
+        </trans-unit>
+        <trans-unit id="37117222092800" xml:space="preserve" resname="item_tattoo-triceps1">
+          <source>patches - triceps</source>
+        </trans-unit>
+        <trans-unit id="37117222092801" xml:space="preserve" resname="item_tattoo-elbow1">
+          <source>misc - elbows</source>
+        </trans-unit>
+        <trans-unit id="37117222092802" xml:space="preserve" resname="item_tattoo-radialis1">
+          <source>celtic knots - arm</source>
+        </trans-unit>
+        <trans-unit id="37117226287104" xml:space="preserve" resname="item_tattoo-flexor1">
+          <source>nordic runes - arm</source>
+        </trans-unit>
+        <trans-unit id="37117226287105" xml:space="preserve" resname="item_tattoo-armfillers1L">
+          <source>tiny ones - arms</source>
+        </trans-unit>
+        <trans-unit id="37117230481408" xml:space="preserve" resname="item_tattoo-armfillers1R">
+          <source>tiny ones - arms</source>
+        </trans-unit>
+        <trans-unit id="37117238870016" xml:space="preserve" resname="item_tattoo-wrist1">
+          <source>scaled wrists</source>
+        </trans-unit>
+        <trans-unit id="37117238870017" xml:space="preserve" resname="item_tattoo-hands1">
+          <source>rock-n-roll</source>
+        </trans-unit>
+        <trans-unit id="37117243064320" xml:space="preserve" resname="item_tantricset-roll">
+          <source>randomize set</source>
+        </trans-unit>
+        <trans-unit id="37117247258624" xml:space="preserve" resname="item_tantricset-clear">
+          <source>clear whole set</source>
+        </trans-unit>
+        <trans-unit id="37117247258625" xml:space="preserve" resname="item_tribalset-roll">
+          <source>randomize set</source>
+        </trans-unit>
+        <trans-unit id="37117247258626" xml:space="preserve" resname="item_tribalset-clear">
+          <source>clear whole set</source>
+        </trans-unit>
+        <trans-unit id="37117251452928" xml:space="preserve" resname="item_tattoo-hips4">
+          <source>pierced heart - pubic</source>
+        </trans-unit>
+        <trans-unit id="37117251452929" xml:space="preserve" resname="item_tattoo-shoulders1LR">
+          <source>butterflies - shoulders</source>
+        </trans-unit>
+        <trans-unit id="37117251452930" xml:space="preserve" resname="item_tattoo-forearms1LR">
+          <source>geometric ornament - forearms</source>
+        </trans-unit>
+        <trans-unit id="37117255647232" xml:space="preserve" resname="item_tattoo-chesttop1">
+          <source>butterfly - chest top</source>
+        </trans-unit>
+        <trans-unit id="37117255647233" xml:space="preserve" resname="item_tattoo-chesttop2">
+          <source>stars - below collarbones</source>
+        </trans-unit>
+        <trans-unit id="37117255647234" xml:space="preserve" resname="item_tattoo-chesttop3">
+          <source>wings - chest top</source>
+        </trans-unit>
+        <trans-unit id="37117255647235" xml:space="preserve" resname="item_tattoo-chestbottom1">
+          <source>writing - under breasts</source>
+        </trans-unit>
+        <trans-unit id="37117259841536" xml:space="preserve" resname="item_tattoo-hips1">
+          <source>butterfly - hips</source>
+        </trans-unit>
+        <trans-unit id="37117264035840" xml:space="preserve" resname="item_tattoo-shoulders2LR">
+          <source>lotuses - shoulders</source>
+        </trans-unit>
+        <trans-unit id="37117264035841" xml:space="preserve" resname="item_tattoo-forearms2LR">
+          <source>scale ornament - forearms</source>
+        </trans-unit>
+        <trans-unit id="37117268230144" xml:space="preserve" resname="item_tattoo-chesttop4">
+          <source>lotus - chest top</source>
+        </trans-unit>
+        <trans-unit id="37117268230145" xml:space="preserve" resname="item_tattoo-chestbottom2">
+          <source>side ornaments - chest bottom</source>
+        </trans-unit>
+        <trans-unit id="37117268230146" xml:space="preserve" resname="item_tattoo-chestbottom3">
+          <source>lotus with ornament - chest bottom</source>
+        </trans-unit>
+        <trans-unit id="37117268230147" xml:space="preserve" resname="item_tattoo-pubic1">
+          <source>triangle lotus - belly bottom</source>
+        </trans-unit>
+        <trans-unit id="37117272424448" xml:space="preserve" resname="item_tattoo-neck1">
+          <source>ornament - neck</source>
+        </trans-unit>
+        <trans-unit id="37117272424449" xml:space="preserve" resname="item_tattoo-forearms3LR">
+          <source>spiky chains - forearms</source>
+        </trans-unit>
+        <trans-unit id="37117272424450" xml:space="preserve" resname="item_tattoo-chesttop5">
+          <source>celtic-like ornament - chest top</source>
+        </trans-unit>
+        <trans-unit id="37117276618752" xml:space="preserve" resname="item_tattoo-chestbottom4">
+          <source>floral hearts - chest bottom</source>
+        </trans-unit>
+        <trans-unit id="37117276618753" xml:space="preserve" resname="item_tattoo-pubic2">
+          <source>fertility symbol - pubic area</source>
+        </trans-unit>
+        <trans-unit id="37117276618754" xml:space="preserve" resname="item_tattoo-pubic3">
+          <source>horned heart - pubic area</source>
+        </trans-unit>
+        <trans-unit id="37117276618755" xml:space="preserve" resname="item_artset1-top">
+          <source>painted top</source>
+        </trans-unit>
+        <trans-unit id="37117276618756" xml:space="preserve" resname="item_artset1-btm">
+          <source>painted bottom</source>
+        </trans-unit>
+        <trans-unit id="37117280813056" xml:space="preserve" resname="item_artset1-handprint">
+          <source>grabby hand print =)</source>
+        </trans-unit>
+        <trans-unit id="37117280813057" xml:space="preserve" resname="item_braset4-top">
+          <source>striped bra</source>
+        </trans-unit>
+        <trans-unit id="37117280813058" xml:space="preserve" resname="item_braset5-top">
+          <source>ladyboss set bra</source>
+        </trans-unit>
+        <trans-unit id="37117280813059" xml:space="preserve" resname="item_braset6-top">
+          <source>gothic see-through set bra</source>
+        </trans-unit>
+        <trans-unit id="37117285007360" xml:space="preserve" resname="item_braset4-btm">
+          <source>striped panties</source>
+        </trans-unit>
+        <trans-unit id="37117285007361" xml:space="preserve" resname="item_braset5-btm">
+          <source>ladyboss set panties</source>
+        </trans-unit>
+        <trans-unit id="37117285007362" xml:space="preserve" resname="item_braset6-btm">
+          <source>gothic see-through set panties</source>
+        </trans-unit>
+        <trans-unit id="37117285007363" xml:space="preserve" resname="item_panties2">
+          <source>fishnet panties</source>
+        </trans-unit>
+        <trans-unit id="37117285007364" xml:space="preserve" resname="item_panties3-kidding">
+          <source>goofy print panties</source>
+        </trans-unit>
+        <trans-unit id="37117289201664" xml:space="preserve" resname="item_bikini3-top">
+          <source>bikini bra</source>
+        </trans-unit>
+        <trans-unit id="37117289201665" xml:space="preserve" resname="item_bikini3-btm">
+          <source>bikini panties</source>
+        </trans-unit>
+        <trans-unit id="37117289201666" xml:space="preserve" resname="item_braset1-top">
+          <source>daisy set bra</source>
+        </trans-unit>
+        <trans-unit id="37117289201667" xml:space="preserve" resname="item_braset2-top">
+          <source>moonlight set bra</source>
+        </trans-unit>
+        <trans-unit id="37117293395968" xml:space="preserve" resname="item_braset3-top">
+          <source>sport bra</source>
+        </trans-unit>
+        <trans-unit id="37117293395969" xml:space="preserve" resname="item_braset1-btm">
+          <source>daisy set panties</source>
+        </trans-unit>
+        <trans-unit id="37117293395970" xml:space="preserve" resname="item_braset2-btm">
+          <source>moonlight set panties</source>
+        </trans-unit>
+        <trans-unit id="37117293395971" xml:space="preserve" resname="item_braset3-btm">
+          <source>sport panties</source>
+        </trans-unit>
+        <trans-unit id="37117293395972" xml:space="preserve" resname="item_bikini1-top">
+          <source>bikini bra</source>
+        </trans-unit>
+        <trans-unit id="37117297590272" xml:space="preserve" resname="item_bikini1-btm">
+          <source>bikini panties</source>
+        </trans-unit>
+        <trans-unit id="37117297590273" xml:space="preserve" resname="item_swimsuit1">
+          <source>competition swimsuit</source>
+        </trans-unit>
+        <trans-unit id="37117297590274" xml:space="preserve" resname="item_pubichair-s">
+          <source>small</source>
+        </trans-unit>
+        <trans-unit id="37117297590275" xml:space="preserve" resname="item_mk-cheeks-tonal1">
+          <source>tone cheeks</source>
+        </trans-unit>
+        <trans-unit id="37117297590276" xml:space="preserve" resname="item_mk-cheeks-shadows2">
+          <source>shadows B</source>
+        </trans-unit>
+        <trans-unit id="37117301784576" xml:space="preserve" resname="item_pantyhose3">
+          <source>pantyhose with net pattern</source>
+        </trans-unit>
+        <trans-unit id="37117301784577" xml:space="preserve" resname="item_pantyhose3t">
+          <source>pantyhose with net pattern</source>
+        </trans-unit>
+        <trans-unit id="37117301784578" xml:space="preserve" resname="item_sm-mask3">
+          <source>sub mask</source>
+        </trans-unit>
+        <trans-unit id="37117301784579" xml:space="preserve" resname="item_pubichair-line1m">
+          <source>line M</source>
+        </trans-unit>
+        <trans-unit id="37117305978880" xml:space="preserve" resname="item_pubichair-patch1">
+          <source>patch</source>
+        </trans-unit>
+        <trans-unit id="37117305978881" xml:space="preserve" resname="item_tattoo-pubic4">
+          <source>arrow - pubic area</source>
+        </trans-unit>
+        <trans-unit id="37117305978882" xml:space="preserve" resname="item_tattoo-neck2">
+          <source>ornament - neck</source>
+        </trans-unit>
+        <trans-unit id="37117305978883" xml:space="preserve" resname="item_tattoo-chesttop6">
+          <source>wide ornament - chest top</source>
+        </trans-unit>
+        <trans-unit id="37117310173184" xml:space="preserve" resname="item_tattoo-chestbottom5">
+          <source>wide ornament - chest bottom</source>
+        </trans-unit>
+        <trans-unit id="37117310173185" xml:space="preserve" resname="item_tattoo-chestbottom6">
+          <source>large mandala - chest bottom</source>
+        </trans-unit>
+        <trans-unit id="37117314367488" xml:space="preserve" resname="item_tattoo-pubic5">
+          <source>lotus - pubic area</source>
+        </trans-unit>
+        <trans-unit id="37117314367489" xml:space="preserve" resname="item_tattoo-chestbottom7">
+          <source>fertility symbol - chest bottom</source>
+        </trans-unit>
+        <trans-unit id="37117314367490" xml:space="preserve" resname="item_tattoo-pubic6">
+          <source>fertility fish - pubic area</source>
+        </trans-unit>
+        <trans-unit id="37117314367491" xml:space="preserve" resname="item_tattoo-pubic7">
+          <source>floral heart - pubic area</source>
+        </trans-unit>
+        <trans-unit id="37117314367492" xml:space="preserve" resname="item_tattoo-pubic8">
+          <source>ram heart - pubic area</source>
+        </trans-unit>
+        <trans-unit id="37117318561792" xml:space="preserve" resname="item_roll-bunnygirl">
+          <source>bunny girl set</source>
+        </trans-unit>
+        <trans-unit id="37117318561793" xml:space="preserve" resname="item_acc-ears-bunny">
+          <source>bunny ears</source>
+        </trans-unit>
+        <trans-unit id="37117318561795" xml:space="preserve" resname="item_bunnygirl-body">
+          <source>bunny suit</source>
+        </trans-unit>
+        <trans-unit id="37117322756096" xml:space="preserve" resname="item_bunnygirl-collar1">
+          <source>bunnygirl collar</source>
+        </trans-unit>
+        <trans-unit id="37117322756097" xml:space="preserve" resname="item_bunnygirl-collar2">
+          <source>bunnygirl collar with tie</source>
+        </trans-unit>
+        <trans-unit id="37117322756098" xml:space="preserve" resname="item_bunnygirl-cuffs">
+          <source>bunnygirl cuffs</source>
+        </trans-unit>
+        <trans-unit id="37117322756099" xml:space="preserve" resname="item_pantyhose4">
+          <source>retro-styled pantyhose</source>
+        </trans-unit>
+        <trans-unit id="37117326950400" xml:space="preserve" resname="item_pantyhose4t">
+          <source>retro-styled pantyhose</source>
+        </trans-unit>
+        <trans-unit id="37117331144704" xml:space="preserve" resname="item_stockings4">
+          <source>retro-styled stockings</source>
+        </trans-unit>
+        <trans-unit id="37117335339008" xml:space="preserve" resname="item_tattoo-chesttop7">
+          <source>playboy rabbit - chest top</source>
+        </trans-unit>
+        <trans-unit id="37117339533312" xml:space="preserve" resname="item_pd-set">
+          <source>Christmas dancer set</source>
+        </trans-unit>
+        <trans-unit id="37117356310528" xml:space="preserve" resname="item_polardancer-top">
+          <source>dancer top</source>
+        </trans-unit>
+        <trans-unit id="37117356310529" xml:space="preserve" resname="item_polardancer-bottom">
+          <source>dancer panties</source>
+        </trans-unit>
+        <trans-unit id="37117356310530" xml:space="preserve" resname="item_polardancer-hood">
+          <source>winter hood</source>
+        </trans-unit>
+        <trans-unit id="37117360504833" xml:space="preserve" resname="item_polardancer-leggins">
+          <source>dancer leggins</source>
+        </trans-unit>
+        <trans-unit id="37117360504834" xml:space="preserve" resname="item_polardancer-sleeves">
+          <source>dancer sleeves</source>
+        </trans-unit>
+        <trans-unit id="37117360504835" xml:space="preserve" resname="item_polardancer-boots">
+          <source>uggs</source>
+        </trans-unit>
+        <trans-unit id="37117364699136" xml:space="preserve" resname="item_polardancer-garters-L">
+          <source>festive garter (left)</source>
+        </trans-unit>
+        <trans-unit id="37117364699137" xml:space="preserve" resname="item_polardancer-garters-R">
+          <source>festive garter (right)</source>
+        </trans-unit>
+        <trans-unit id="37117368893440" xml:space="preserve" resname="item_sm-writings-xmas2024">
+          <source>merry X-mas!</source>
+        </trans-unit>
+        <trans-unit id="37117368893441" xml:space="preserve" resname="item_roll-zombie">
+          <source>zombie nurse set</source>
+        </trans-unit>
+        <trans-unit id="37117381476352" xml:space="preserve" resname="item_skincolor-fantasy-copy">
+          <source>skin color (fantasy palette)</source>
+        </trans-unit>
+        <trans-unit id="37117381476353" xml:space="preserve" resname="item_nurse-hat">
+          <source>nurse hat</source>
+        </trans-unit>
+        <trans-unit id="37117381476354" xml:space="preserve" resname="item_nurse-coat">
+          <source>nurse coat</source>
+        </trans-unit>
+        <trans-unit id="37117385670656" xml:space="preserve" resname="item_nurse-microskirt">
+          <source>micro nurse skirt</source>
+        </trans-unit>
+        <trans-unit id="37117398253568" xml:space="preserve" resname="item_stockings6">
+          <source>stockings with garter belt</source>
+        </trans-unit>
+        <trans-unit id="37117415030784" xml:space="preserve" resname="item_gloves3-med">
+          <source>medical gloves</source>
+        </trans-unit>
+        <trans-unit id="37117415030785" xml:space="preserve" resname="item_gloves3-blood">
+          <source>nasty hands</source>
+        </trans-unit>
+        <trans-unit id="37117415030786" xml:space="preserve" resname="item_zombie-seams-head">
+          <source>zombie seams (head &amp; neck)</source>
+        </trans-unit>
+        <trans-unit id="37117415030787" xml:space="preserve" resname="item_zombie-seams-body">
+          <source>zombie seams (body)</source>
+        </trans-unit>
+        <trans-unit id="37117419225088" xml:space="preserve" resname="item_zombie-seams-arms">
+          <source>zombie seams (arms)</source>
+        </trans-unit>
+        <trans-unit id="37117419225089" xml:space="preserve" resname="item_zombie-seams-legs">
+          <source>zombie seams (legs)</source>
+        </trans-unit>
+        <trans-unit id="37117431808000" xml:space="preserve" resname="item_braset-ribbon-btm">
+          <source>ribbon bottom</source>
+        </trans-unit>
+        <trans-unit id="37117431808001" xml:space="preserve" resname="item_braset-ribbon-top">
+          <source>ribbon top</source>
+        </trans-unit>
+        <trans-unit id="37117431808002" xml:space="preserve" resname="item_braset-ribbon-thighs">
+          <source>ribbon garters</source>
+        </trans-unit>
+        <trans-unit id="37117431808003" xml:space="preserve" resname="item_eyemask2-yesno">
+          <source>'yes/no' sleeping mask</source>
+        </trans-unit>
+        <trans-unit id="37117436002304" xml:space="preserve" resname="item_bikini2-top">
+          <source>bikini bra</source>
+        </trans-unit>
+        <trans-unit id="37117436002305" xml:space="preserve" resname="item_bikini2-btm">
+          <source>bikini panties</source>
+        </trans-unit>
+        <trans-unit id="37117436002306" xml:space="preserve" resname="item_bikini4-top">
+          <source>micro bikini bra</source>
+        </trans-unit>
+        <trans-unit id="37117436002307" xml:space="preserve" resname="item_bikini4-btm">
+          <source>micro bikini panties</source>
+        </trans-unit>
+        <trans-unit id="37117440196608" xml:space="preserve" resname="item_toy-bunnyplug">
+          <source>bunny tail</source>
+        </trans-unit>
+        <trans-unit id="37117440196612" xml:space="preserve" resname="item_toy-roseplug">
+          <source>rose</source>
+        </trans-unit>
+        <trans-unit id="37117456973824" xml:space="preserve" resname="item_skincolor-dark">
+          <source>deep skin palette</source>
+        </trans-unit>
+        <trans-unit id="37117456973825" xml:space="preserve" resname="item_tattoo-chestboobs1">
+          <source>spider net - breasts</source>
+        </trans-unit>
+        <trans-unit id="37117461168128" xml:space="preserve" resname="item_sm-writings-cockmeter1">
+          <source>cock meter</source>
+        </trans-unit>
+        <trans-unit id="37117461168129" xml:space="preserve" resname="item_sm-writings-tally-eu">
+          <source>tally marks (europian)</source>
+        </trans-unit>
+        <trans-unit id="37117465362432" xml:space="preserve" resname="item_sm-writings-tally-jp">
+          <source>tally marks (japanese)</source>
+        </trans-unit>
+        <trans-unit id="37117482139648" xml:space="preserve" resname="item_toy-bubbledildo">
+          <source>dildo with bumps</source>
+        </trans-unit>
+        <trans-unit id="37117486333953" xml:space="preserve" resname="item_toy-cake">
+          <source>birthday cake</source>
+        </trans-unit>
+        <trans-unit id="37117486333954" xml:space="preserve" resname="item_toy-carrot">
+          <source>carrot-shaped vibrator</source>
+        </trans-unit>
+        <trans-unit id="37117490528256" xml:space="preserve" resname="item_toy-clamps">
+          <source>clamps</source>
+        </trans-unit>
+        <trans-unit id="37117490528257" xml:space="preserve" resname="item_toy-egg">
+          <source>vibroegg</source>
+        </trans-unit>
+        <trans-unit id="37117490528258" xml:space="preserve" resname="item_toy-estim">
+          <source>estim device</source>
+        </trans-unit>
+        <trans-unit id="37117490528259" xml:space="preserve" resname="item_toy-extender">
+          <source>speculum</source>
+        </trans-unit>
+        <trans-unit id="37117494722560" xml:space="preserve" resname="item_toy-feather">
+          <source>feather</source>
+        </trans-unit>
+        <trans-unit id="37117494722563" xml:space="preserve" resname="item_toy-glassdildo">
+          <source>glass dildo</source>
+        </trans-unit>
+        <trans-unit id="37117498916864" xml:space="preserve" resname="item_ttoy-lollipop">
+          <source>lollipop</source>
+        </trans-unit>
+        <trans-unit id="37117498916865" xml:space="preserve" resname="item_toy-lube">
+          <source>lube</source>
+        </trans-unit>
+        <trans-unit id="37117498916866" xml:space="preserve" resname="item_toy-paddle">
+          <source>paddle</source>
+        </trans-unit>
+        <trans-unit id="37117503111170" xml:space="preserve" resname="item_toy-gemplug">
+          <source>gem</source>
+        </trans-unit>
+        <trans-unit id="37117511499776" xml:space="preserve" resname="item_toy-rabbit">
+          <source>rabbit vibrator</source>
+        </trans-unit>
+        <trans-unit id="37117515694082" xml:space="preserve" resname="item_machine1">
+          <source>sex machine</source>
+        </trans-unit>
+        <trans-unit id="37117515694083" xml:space="preserve" resname="item_toy-sponge">
+          <source>cleaning sponge</source>
+        </trans-unit>
+        <trans-unit id="37117519888384" xml:space="preserve" resname="item_toy-stack">
+          <source>stack</source>
+        </trans-unit>
+        <trans-unit id="37117519888385" xml:space="preserve" resname="item_toy-wand">
+          <source>magic wand</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

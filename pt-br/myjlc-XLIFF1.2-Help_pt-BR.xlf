@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="Assets/Localization/Loc Tables/Help_Strings_pt-BR.asset" source-language="en" datatype="plaintext" target-language="pt-BR">
+    <header>
+      <skl>
+        <external-file href="Assets/Localization/Loc Tables/Help_Strings_pt-BR.asset" uid="1da4096813df9764a8271b3c7c7870e7" />
+      </skl>
+    </header>
+    <body>
+      <group id="5dc696b14bae7874ba5e972adcb94080" resname="Help_Strings">
+        <trans-unit id="1477461520384" xml:space="preserve" resname="help_hello">
+          <source>Say 'Hi' to Lolly!
+She likes fancy clothes, cute stuff, spending time with friends, and discovering her sexuality.
+She's going to hang with you today... \vPlease, take care of her.</source>
+        </trans-unit>
+        <trans-unit id="1608755818496" xml:space="preserve" resname="help_talks">
+          <source>Pay attention to your partner.
+She'll tell you if she feels uncomfortable, or what she wants you to do.</source>
+        </trans-unit>
+        <trans-unit id="1737143463936" xml:space="preserve" resname="help_marousal">
+          <source>This is your arousal meter.
+You may come when aroused enough. \vOn 100% you won't hold yourself.</source>
+        </trans-unit>
+        <trans-unit id="1856534327296" xml:space="preserve" resname="help_farousal">
+          <source>This is your girl's arousal meter. \vShe will climax when it fills up.</source>
+        </trans-unit>
+        <trans-unit id="1953267560448" xml:space="preserve" resname="help_badmeter">
+          <source>She may not like some things you do.  \vTry to keep her annoyance low.</source>
+        </trans-unit>
+        <trans-unit id="2044812439552" xml:space="preserve" resname="help_controls">
+          <source>Use buttons and sliders to control the active toys.</source>
+        </trans-unit>
+        <trans-unit id="2187456524288" xml:space="preserve" resname="help_patreon">
+          <source>Support me on Patreon \vto make {name} feel even better :-)
+We'll decide on the new features, clothes and toys there.. \vAlso exclusive content will appear in the future.</source>
+        </trans-unit>
+        <trans-unit id="2370294624256" xml:space="preserve" resname="help_erozone">
+          <source>{name} has many erogenous zones. \vSome are more sensitive then others.
+Use the toys around to play with her.</source>
+        </trans-unit>
+        <trans-unit id="2694954725376" xml:space="preserve" resname="help_insertion">
+          <source>Control toys by your hand, sliders on the panel aside or both for better stimulation.</source>
+        </trans-unit>
+        <trans-unit id="2900177825792" xml:space="preserve" resname="help_cumming">
+          <source>This button will appear \vwhen you're ready to come.</source>
+        </trans-unit>
+        <trans-unit id="3778087596032" xml:space="preserve" resname="help_toys">
+          <source>Simply move toys to zones of your interest until they're highlighted and use to see what happens.</source>
+        </trans-unit>
+        <trans-unit id="3961466761216" xml:space="preserve" resname="help_wardrobe">
+          <source>Use the wardrobe to choose {name}'s look.
+She might be a princess \vor a bad girl for you today!
+And more options are coming soon.</source>
+        </trans-unit>
+        <trans-unit id="4137770135552" xml:space="preserve" resname="help_camera">
+          <source>Use right or middle mouse button to move around. \vScroll with mouse wheel to look closer.</source>
+        </trans-unit>
+        <trans-unit id="4295383691264" xml:space="preserve" resname="heelp_panicbutton">
+          <source>Press &lt;Esc&gt; to quickly minimize the game in case of emergency (Windows only).</source>
+        </trans-unit>
+        <trans-unit id="4695969083392" xml:space="preserve" resname="help_personality">
+          <source>Looking for a challenge? Get a unique personality on each date.</source>
+        </trans-unit>
+        <trans-unit id="38589405704192" xml:space="preserve" resname="welcome_hello">
+          <source>Say 'Hi' to Lolly!
+She likes fancy clothes, cute stuff, spending time with friends, and discovering her sexuality.
+She's going to hang with you today... \vPlease, take care of her.</source>
+        </trans-unit>
+        <trans-unit id="39431345123328" xml:space="preserve" resname="welcome_settings">
+          <source>fine tune the UI</source>
+        </trans-unit>
+        <trans-unit id="39744747712512" xml:space="preserve" resname="welcome_1_9_main">
+          <source>&lt;size=200%&gt;Jazz it!&lt;/size&gt;
+Challenge yourself
+in a completely reworked 
+roguelike relationship simulator mode</source>
+        </trans-unit>
+        <trans-unit id="40047769399296" xml:space="preserve" resname="welcome_1_9_jazz">
+          <source>jazz date the girls 
+from different corners 
+of the world</source>
+        </trans-unit>
+        <trans-unit id="40294105067520" xml:space="preserve" resname="welcome_1_9_trust">
+          <source>win her trust to unlock more possibilities</source>
+        </trans-unit>
+        <trans-unit id="40576083931136" xml:space="preserve" resname="welcome_1_9_traits">
+          <source>traits are not set in stone anymore — \vshape them with your actions</source>
+        </trans-unit>
+        <trans-unit id="40789532061696" xml:space="preserve" resname="welcome_1_9_slots">
+          <source>more slots 
+for more girlfriends,
+but make sure you 
+can satisfy them all!</source>
+        </trans-unit>
+        <trans-unit id="40956033347584" xml:space="preserve" resname="welcome_1_9_unlock">
+          <source>challenge yourself with the toys *she* chooses</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

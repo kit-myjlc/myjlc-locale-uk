@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="Assets/Localization/Loc Tables/TrustMod_Strings_pt-BR.asset" source-language="en" datatype="plaintext" target-language="pt-BR">
+    <header>
+      <skl>
+        <external-file href="Assets/Localization/Loc Tables/TrustMod_Strings_pt-BR.asset" uid="4c098ecdc361fcb4a98440cdfb91da65" />
+      </skl>
+    </header>
+    <body>
+      <group id="583784347b58da144be0b2a53b558445" resname="TrustMod_Strings">
+        <trans-unit id="8688520790016" xml:space="preserve" resname="trustmod__empty">
+          <source>Did you come just to play here?</source>
+        </trans-unit>
+        <trans-unit id="8688604676096" xml:space="preserve" resname="trustmod_climax-ahegao15">
+          <source>Lucy in the sky with diamonds
+Ahegao state achieved and maintained</source>
+        </trans-unit>
+        <trans-unit id="8688608870400" xml:space="preserve" resname="trustmod_climax-deep">
+          <source>Push me and then just touch me...
+Experienced a real deep climax</source>
+        </trans-unit>
+        <trans-unit id="8688613064704" xml:space="preserve" resname="trustmod_climax-f-only">
+          <source>All women are goddesses
+Worshipping her gratuitously</source>
+        </trans-unit>
+        <trans-unit id="8688617259008" xml:space="preserve" resname="trustmod_climax-f65">
+          <source>Ladies before gentlemen
+You put her needs above your own</source>
+        </trans-unit>
+        <trans-unit id="8688621453312" xml:space="preserve" resname="trustmod_climax-m65">
+          <source>She is not territory, she is temple
+You had noticeably more orgasms than her</source>
+        </trans-unit>
+        <trans-unit id="8688621453313" xml:space="preserve" resname="trustmod_climax-many12">
+          <source>Smells like teen spirit
+Got a full set of stars</source>
+        </trans-unit>
+        <trans-unit id="8688625647616" xml:space="preserve" resname="trustmod_climax-no">
+          <source>Is that all you got?
+No stars - no cookies!</source>
+        </trans-unit>
+        <trans-unit id="8688629841920" xml:space="preserve" resname="trustmod_left-climaxing">
+          <source>Guys literally only want one thing...
+You left the girl alone on her peak</source>
+        </trans-unit>
+        <trans-unit id="8688629841921" xml:space="preserve" resname="trustmod_left-restrained">
+          <source>Need a day off work tomorrow
+You left the girl restrained and went away</source>
+        </trans-unit>
+        <trans-unit id="8688634036224" xml:space="preserve" resname="trustmod_mood-bad25">
+          <source>Clouds suit my mood just fine
+You failed entertaining the girl</source>
+        </trans-unit>
+        <trans-unit id="8688634036225" xml:space="preserve" resname="trustmod_mood-bad50">
+          <source>Stop! Or my mom will shoot
+Your bad deeds outweigh the good ones</source>
+        </trans-unit>
+        <trans-unit id="8688638230528" xml:space="preserve" resname="trustmod_mood-bad75">
+          <source>The most loneliest day of her life
+Your bad deeds far outweigh the good ones</source>
+        </trans-unit>
+        <trans-unit id="8688642424832" xml:space="preserve" resname="trustmod_mood-fury">
+          <source>The heart was made to be broken
+Congrats, you drove her mad</source>
+        </trans-unit>
+        <trans-unit id="8688642424833" xml:space="preserve" resname="trustmod_mood-good95">
+          <source>Good vibes everyday, all day!
+The Lady is in perfect mood</source>
+        </trans-unit>
+        <trans-unit id="8688646619136" xml:space="preserve" resname="trustmod_mood-terminal">
+          <source>A girl doesn’t need anyone who doesn’t need her
+It was so bad that she dressed up and went away</source>
+        </trans-unit>
+        <trans-unit id="8688646619137" xml:space="preserve" resname="trustmod_session-gap3">
+          <source>Why didn't you call???
+Too long between the dates</source>
+        </trans-unit>
+        <trans-unit id="8688650813440" xml:space="preserve" resname="trustmod_session-gap7">
+          <source>Just somebody that I used to know
+You disappeared for a week</source>
+        </trans-unit>
+        <trans-unit id="8688655007744" xml:space="preserve" resname="trustmod_session-long1">
+          <source>Good Game
+You played 1 hour or more</source>
+        </trans-unit>
+        <trans-unit id="8688655007745" xml:space="preserve" resname="trustmod_session-long3">
+          <source>Speed is less important than stamina
+You played for 3 hours</source>
+        </trans-unit>
+        <trans-unit id="8688659202048" xml:space="preserve" resname="trustmod_stamina-low30">
+          <source>Am I a doll for you or something?
+Exhausted and was unable to recover</source>
+        </trans-unit>
+        <trans-unit id="8688663396352" xml:space="preserve" resname="trustmod_wm-bad50">
+          <source>I can't get no satisfaction
+You ignored most of her requests</source>
+        </trans-unit>
+        <trans-unit id="8688663396353" xml:space="preserve" resname="trustmod_wm-bad80">
+          <source>Were you listening at all?
+You barely did anything she asked"</source>
+        </trans-unit>
+        <trans-unit id="8688667590656" xml:space="preserve" resname="trustmod_wm-good75">
+          <source>Golden boy
+You were really responsive to her requests</source>
+        </trans-unit>
+        <trans-unit id="8688667590657" xml:space="preserve" resname="trustmod_wm-good95">
+          <source>Yes man
+You fulfilled all of her requests</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

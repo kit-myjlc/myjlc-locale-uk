@@ -1,0 +1,1160 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="Assets/Localization/Loc Tables/JazzTag_Strings_vi.asset" source-language="en" datatype="plaintext" target-language="vi">
+    <header>
+      <skl>
+        <external-file href="Assets/Localization/Loc Tables/JazzTag_Strings_vi.asset" uid="fed7f9fd83c080f47b9dfa7752e6fcbc" />
+      </skl>
+    </header>
+    <body>
+      <group id="1d169e3d5f6f6624799dc4af0acf5cd2" resname="JazzTag_Strings">
+        <trans-unit id="16823776051200" xml:space="preserve" resname="jazztag_vaginal-v1-virgin_shy but sweet">
+          <source>shy but sweet</source>
+        </trans-unit>
+        <trans-unit id="16823784439808" xml:space="preserve" resname="jazztag_vaginal-v1-virgin_hopeless romantic">
+          <source>hopeless romantic</source>
+        </trans-unit>
+        <trans-unit id="16823788634112" xml:space="preserve" resname="jazztag_vaginal-v1-virgin_first time here">
+          <source>first time here</source>
+        </trans-unit>
+        <trans-unit id="16823792828416" xml:space="preserve" resname="jazztag_vaginal-v1-virgin_new here">
+          <source>new here</source>
+        </trans-unit>
+        <trans-unit id="16823797022720" xml:space="preserve" resname="jazztag_vaginal-v1-virgin_cutie">
+          <source>cutie</source>
+        </trans-unit>
+        <trans-unit id="16823797022721" xml:space="preserve" resname="jazztag_vaginal-v1-virgin_holding hands enthusiast">
+          <source>holding hands enthusiast</source>
+        </trans-unit>
+        <trans-unit id="16823801217024" xml:space="preserve" resname="jazztag_vaginal-v1-virgin_not like other girls">
+          <source>not like other girls</source>
+        </trans-unit>
+        <trans-unit id="16823801217025" xml:space="preserve" resname="jazztag_vaginal-v1-virgin_curious">
+          <source>curious</source>
+        </trans-unit>
+        <trans-unit id="16823801217026" xml:space="preserve" resname="jazztag_vaginal-v1-virgin_gentle hands only">
+          <source>gentle hands only</source>
+        </trans-unit>
+        <trans-unit id="16823801217027" xml:space="preserve" resname="jazztag_vaginal-v1-virgin_handle with care">
+          <source>handle with care</source>
+        </trans-unit>
+        <trans-unit id="16823805411328" xml:space="preserve" resname="jazztag_vaginal-v1-virgin_lvl1 adventurer">
+          <source>lvl1 adventurer</source>
+        </trans-unit>
+        <trans-unit id="16823805411329" xml:space="preserve" resname="jazztag_vaginal-v1-virgin_new to this">
+          <source>new to this</source>
+        </trans-unit>
+        <trans-unit id="16823809605632" xml:space="preserve" resname="jazztag_vaginal-v1-virgin_blushing a lot">
+          <source>blushing a lot</source>
+        </trans-unit>
+        <trans-unit id="16823809605633" xml:space="preserve" resname="jazztag_vaginal-default_not my first rodeo">
+          <source>not my first rodeo</source>
+        </trans-unit>
+        <trans-unit id="16823809605634" xml:space="preserve" resname="jazztag_vaginal-default_I know the basics">
+          <source>I know the basics</source>
+        </trans-unit>
+        <trans-unit id="16823813799936" xml:space="preserve" resname="jazztag_vaginal-default_experienced enough">
+          <source>experienced enough</source>
+        </trans-unit>
+        <trans-unit id="16823813799937" xml:space="preserve" resname="jazztag_vaginal-default_not a beginner">
+          <source>not a beginner</source>
+        </trans-unit>
+        <trans-unit id="16823813799938" xml:space="preserve" resname="jazztag_vaginal-default_golden mean">
+          <source>golden mean</source>
+        </trans-unit>
+        <trans-unit id="16823817994240" xml:space="preserve" resname="jazztag_vaginal-default_open-minded">
+          <source>open-minded</source>
+        </trans-unit>
+        <trans-unit id="16823817994241" xml:space="preserve" resname="jazztag_vaginal-default_reliable">
+          <source>reliable</source>
+        </trans-unit>
+        <trans-unit id="16823817994242" xml:space="preserve" resname="jazztag_vaginal-default_meditative">
+          <source>meditative</source>
+        </trans-unit>
+        <trans-unit id="16823822188544" xml:space="preserve" resname="jazztag_vaginal-default_challenge accepted">
+          <source>challenge accepted</source>
+        </trans-unit>
+        <trans-unit id="16823822188545" xml:space="preserve" resname="jazztag_vd+3_been there done that">
+          <source>been there done that</source>
+        </trans-unit>
+        <trans-unit id="16823826382848" xml:space="preserve" resname="jazztag_vd+3_classy but nasty">
+          <source>classy but nasty</source>
+        </trans-unit>
+        <trans-unit id="16823826382849" xml:space="preserve" resname="jazztag_vd+3_good girl with bad habits">
+          <source>good girl with bad habits</source>
+        </trans-unit>
+        <trans-unit id="16823826382850" xml:space="preserve" resname="jazztag_vaginal-v3-exp_skip the small talk">
+          <source>skip the small talk</source>
+        </trans-unit>
+        <trans-unit id="16823830577152" xml:space="preserve" resname="jazztag_vaginal-v3-exp_low maintenance">
+          <source>low maintenance</source>
+        </trans-unit>
+        <trans-unit id="16823830577153" xml:space="preserve" resname="jazztag_vaginal-v3-exp_no drama just vibes">
+          <source>no drama just vibes</source>
+        </trans-unit>
+        <trans-unit id="16823830577154" xml:space="preserve" resname="jazztag_vaginal-v3-exp_easy going">
+          <source>easy going</source>
+        </trans-unit>
+        <trans-unit id="16823834771456" xml:space="preserve" resname="jazztag_vaginal-v3-exp_quality over quantity">
+          <source>quality over quantity</source>
+        </trans-unit>
+        <trans-unit id="16823834771457" xml:space="preserve" resname="jazztag_vaginal-v3-exp_LF a partner in crime">
+          <source>LF a partner in crime</source>
+        </trans-unit>
+        <trans-unit id="16823838965760" xml:space="preserve" resname="jazztag_vaginal-v3-exp_decent stamina">
+          <source>decent stamina</source>
+        </trans-unit>
+        <trans-unit id="16823838965761" xml:space="preserve" resname="jazztag_vaginal-v3-exp_sensory experience">
+          <source>sensory experience</source>
+        </trans-unit>
+        <trans-unit id="16823838965762" xml:space="preserve" resname="jazztag_vaginal-v3-exp_body language expert">
+          <source>body language expert</source>
+        </trans-unit>
+        <trans-unit id="16823838965763" xml:space="preserve" resname="jazztag_vaginal-v3-exp_grown up fun">
+          <source>grown up fun</source>
+        </trans-unit>
+        <trans-unit id="16823843160064" xml:space="preserve" resname="jazztag_vaginal-v3-exp_mature and mindful">
+          <source>mature and mindful</source>
+        </trans-unit>
+        <trans-unit id="16823843160065" xml:space="preserve" resname="jazztag_v3+4_advanced level">
+          <source>advanced level</source>
+        </trans-unit>
+        <trans-unit id="16823843160066" xml:space="preserve" resname="jazztag_v3+4_surprise me">
+          <source>surprise me</source>
+        </trans-unit>
+        <trans-unit id="16823847354368" xml:space="preserve" resname="jazztag_v3+4_quality guaranteed">
+          <source>quality guaranteed</source>
+        </trans-unit>
+        <trans-unit id="16823847354369" xml:space="preserve" resname="jazztag_v3+4_1-night adventure">
+          <source>1-night adventure</source>
+        </trans-unit>
+        <trans-unit id="16823847354370" xml:space="preserve" resname="jazztag_v3+4_I know what I want">
+          <source>I know what I want</source>
+        </trans-unit>
+        <trans-unit id="16823847354371" xml:space="preserve" resname="jazztag_v3+4_graduate in pleasure">
+          <source>graduate in pleasure</source>
+        </trans-unit>
+        <trans-unit id="16823851548672" xml:space="preserve" resname="jazztag_v3+4_grown up only">
+          <source>grown up only</source>
+        </trans-unit>
+        <trans-unit id="16823851548673" xml:space="preserve" resname="jazztag_vaginal-v4-lover_trust the process">
+          <source>trust the process</source>
+        </trans-unit>
+        <trans-unit id="16823851548674" xml:space="preserve" resname="jazztag_vaginal-v4-lover_kegel master">
+          <source>kegel master</source>
+        </trans-unit>
+        <trans-unit id="16823855742976" xml:space="preserve" resname="jazztag_vaginal-v4-lover_experienced only">
+          <source>experienced only</source>
+        </trans-unit>
+        <trans-unit id="16823855742977" xml:space="preserve" resname="jazztag_vaginal-v4-lover_no amateurs please">
+          <source>no amateurs please</source>
+        </trans-unit>
+        <trans-unit id="16823855742978" xml:space="preserve" resname="jazztag_vaginal-v4-lover_intimacy architect">
+          <source>intimacy architect</source>
+        </trans-unit>
+        <trans-unit id="16823859937280" xml:space="preserve" resname="jazztag_vaginal-v4-lover_high octane energy">
+          <source>high octane energy</source>
+        </trans-unit>
+        <trans-unit id="16823859937281" xml:space="preserve" resname="jazztag_vaginal-v4-lover_forget the basics">
+          <source>forget the basics</source>
+        </trans-unit>
+        <trans-unit id="16823859937282" xml:space="preserve" resname="jazztag_vaginal-v4-lover_don't be shy">
+          <source>don't be shy</source>
+        </trans-unit>
+        <trans-unit id="16823864131584" xml:space="preserve" resname="jazztag_vaginal-v4-lover_alphas only">
+          <source>alphas only</source>
+        </trans-unit>
+        <trans-unit id="16823864131585" xml:space="preserve" resname="jazztag_vaginal-never_alternative fun only">
+          <source>alternative fun only</source>
+        </trans-unit>
+        <trans-unit id="16823864131586" xml:space="preserve" resname="jazztag_vaginal-never_outercourse enthusiast">
+          <source>outercourse enthusiast</source>
+        </trans-unit>
+        <trans-unit id="16823868325888" xml:space="preserve" resname="jazztag_vaginal-never_keeping my flower">
+          <source>keeping my flower</source>
+        </trans-unit>
+        <trans-unit id="16823868325889" xml:space="preserve" resname="jazztag_vaginal-never_keeping it for the wedding">
+          <source>keeping it for the wedding</source>
+        </trans-unit>
+        <trans-unit id="16823872520192" xml:space="preserve" resname="jazztag_vaginal-never_saving it for marriage">
+          <source>saving it for marriage</source>
+        </trans-unit>
+        <trans-unit id="16823872520193" xml:space="preserve" resname="jazztag_vaginal-never_respect the no">
+          <source>respect the no</source>
+        </trans-unit>
+        <trans-unit id="16823872520194" xml:space="preserve" resname="jazztag_vaginal-never_hands and tongue only">
+          <source>hands and tongue only</source>
+        </trans-unit>
+        <trans-unit id="16823876714496" xml:space="preserve" resname="jazztag_vaginal-never_look but don't touch">
+          <source>look but don't touch</source>
+        </trans-unit>
+        <trans-unit id="16823876714497" xml:space="preserve" resname="jazztag_vaginal-never_strictly for the one">
+          <source>strictly for the one</source>
+        </trans-unit>
+        <trans-unit id="16823880908800" xml:space="preserve" resname="jazztag_vaginal-never_keeping it pristine">
+          <source>keeping it pristine</source>
+        </trans-unit>
+        <trans-unit id="16823880908801" xml:space="preserve" resname="jazztag_vaginal-never_technical virgin">
+          <source>technical virgin</source>
+        </trans-unit>
+        <trans-unit id="16823880908802" xml:space="preserve" resname="jazztag_vaginal-never_strictly traditional">
+          <source>strictly traditional</source>
+        </trans-unit>
+        <trans-unit id="16823885103104" xml:space="preserve" resname="jazztag_vaginal-never_no ring no string">
+          <source>no ring no string</source>
+        </trans-unit>
+        <trans-unit id="16823885103105" xml:space="preserve" resname="jazztag_vaginal-never_not that kind of girl">
+          <source>not that kind of girl</source>
+        </trans-unit>
+        <trans-unit id="16823885103106" xml:space="preserve" resname="jazztag_vaginal-never_keeping it for best">
+          <source>keeping it for best</source>
+        </trans-unit>
+        <trans-unit id="16823889297408" xml:space="preserve" resname="jazztag_vaginal-afraid_building trust">
+          <source>building trust</source>
+        </trans-unit>
+        <trans-unit id="16823889297409" xml:space="preserve" resname="jazztag_vaginal-afraid_not on the first date">
+          <source>not on the first date</source>
+        </trans-unit>
+        <trans-unit id="16823889297410" xml:space="preserve" resname="jazztag_vaginal-afraid_long term only">
+          <source>long term only</source>
+        </trans-unit>
+        <trans-unit id="16823893491712" xml:space="preserve" resname="jazztag_vaginal-afraid_earn my trust">
+          <source>earn my trust</source>
+        </trans-unit>
+        <trans-unit id="16823893491713" xml:space="preserve" resname="jazztag_vaginal-afraid_values over pleasure">
+          <source>values over pleasure</source>
+        </trans-unit>
+        <trans-unit id="16823893491714" xml:space="preserve" resname="jazztag_vaginal-afraid_high standards">
+          <source>high standards</source>
+        </trans-unit>
+        <trans-unit id="16823893491715" xml:space="preserve" resname="jazztag_vaginal-afraid_perfect match seeker">
+          <source>perfect match seeker</source>
+        </trans-unit>
+        <trans-unit id="16823897686016" xml:space="preserve" resname="jazztag_vaginal-ok_treat me like a lady">
+          <source>treat me like a lady</source>
+        </trans-unit>
+        <trans-unit id="16823897686017" xml:space="preserve" resname="jazztag_vaginal-ok_slow and steady">
+          <source>slow and steady</source>
+        </trans-unit>
+        <trans-unit id="16823897686018" xml:space="preserve" resname="jazztag_vaginal-ok_sex positive">
+          <source>sex positive</source>
+        </trans-unit>
+        <trans-unit id="16823901880320" xml:space="preserve" resname="jazztag_vaginal-ok_good vibes only">
+          <source>good vibes only</source>
+        </trans-unit>
+        <trans-unit id="16823901880321" xml:space="preserve" resname="jazztag_vaginal-ok_looking for a match">
+          <source>looking for a match</source>
+        </trans-unit>
+        <trans-unit id="16823901880322" xml:space="preserve" resname="jazztag_vaginal-ok_comfort first">
+          <source>comfort first</source>
+        </trans-unit>
+        <trans-unit id="16823906074624" xml:space="preserve" resname="jazztag_vaginal-ok_let's just see">
+          <source>let's just see</source>
+        </trans-unit>
+        <trans-unit id="16823906074625" xml:space="preserve" resname="jazztag_vaginal-ok_wild heart">
+          <source>wild heart</source>
+        </trans-unit>
+        <trans-unit id="16823906074626" xml:space="preserve" resname="jazztag_vaginal-ok_good girl">
+          <source>good girl</source>
+        </trans-unit>
+        <trans-unit id="16823910268928" xml:space="preserve" resname="jazztag_vaginal-interested_sex positive">
+          <source>sex positive</source>
+        </trans-unit>
+        <trans-unit id="16823910268929" xml:space="preserve" resname="jazztag_vaginal-interested_liberated and proud">
+          <source>liberated and proud</source>
+        </trans-unit>
+        <trans-unit id="16823910268930" xml:space="preserve" resname="jazztag_vaginal-interested_pleasure seeker">
+          <source>pleasure seeker</source>
+        </trans-unit>
+        <trans-unit id="16823910268931" xml:space="preserve" resname="jazztag_vaginal-interested_good vibes only">
+          <source>good vibes only</source>
+        </trans-unit>
+        <trans-unit id="16823914463232" xml:space="preserve" resname="jazztag_vaginal-interested_life is too short for bad sex">
+          <source>life is too short for bad sex</source>
+        </trans-unit>
+        <trans-unit id="16823914463233" xml:space="preserve" resname="jazztag_vaginal-interested_always down for fun">
+          <source>always down for fun</source>
+        </trans-unit>
+        <trans-unit id="16823914463234" xml:space="preserve" resname="jazztag_vaginal-interested_no shame in my game">
+          <source>no shame in my game</source>
+        </trans-unit>
+        <trans-unit id="16823918657536" xml:space="preserve" resname="jazztag_vaginal-interested_confident">
+          <source>confident</source>
+        </trans-unit>
+        <trans-unit id="16823918657537" xml:space="preserve" resname="jazztag_vaginal-interested_unapologetically me">
+          <source>unapologetically me</source>
+        </trans-unit>
+        <trans-unit id="16823927046144" xml:space="preserve" resname="jazztag_vaginal-interested_open minded">
+          <source>open minded</source>
+        </trans-unit>
+        <trans-unit id="16823927046145" xml:space="preserve" resname="jazztag_vaginal-interested_giving and taking">
+          <source>giving and taking</source>
+        </trans-unit>
+        <trans-unit id="16823931240448" xml:space="preserve" resname="jazztag_vaginal-excited_high libido">
+          <source>high libido</source>
+        </trans-unit>
+        <trans-unit id="16823931240449" xml:space="preserve" resname="jazztag_vaginal-excited_high libido energy">
+          <source>high libido energy</source>
+        </trans-unit>
+        <trans-unit id="16823935434752" xml:space="preserve" resname="jazztag_vaginal-excited_pure appetite">
+          <source>pure appetite</source>
+        </trans-unit>
+        <trans-unit id="16823935434753" xml:space="preserve" resname="jazztag_vaginal-excited_healthy obsession">
+          <source>healthy obsession</source>
+        </trans-unit>
+        <trans-unit id="16823939629056" xml:space="preserve" resname="jazztag_vaginal-excited_unapologetically me">
+          <source>unapologetically me</source>
+        </trans-unit>
+        <trans-unit id="16823943823360" xml:space="preserve" resname="jazztag_vaginal-excited_body positive and active">
+          <source>body positive and active</source>
+        </trans-unit>
+        <trans-unit id="16823943823361" xml:space="preserve" resname="jazztag_vaginal-excited_my body - my playground">
+          <source>my body - my playground</source>
+        </trans-unit>
+        <trans-unit id="16823943823362" xml:space="preserve" resname="jazztag_vaginal-excited_owning my sexuality">
+          <source>owning my sexuality</source>
+        </trans-unit>
+        <trans-unit id="16823948017664" xml:space="preserve" resname="jazztag_vaginal-excited_dopamine addicted">
+          <source>dopamine addicted</source>
+        </trans-unit>
+        <trans-unit id="16823948017665" xml:space="preserve" resname="jazztag_vaginal-excited_D hunter">
+          <source>D hunter</source>
+        </trans-unit>
+        <trans-unit id="16823952211968" xml:space="preserve" resname="jazztag_vaginal-excited_purely primal">
+          <source>purely primal</source>
+        </trans-unit>
+        <trans-unit id="16823952211969" xml:space="preserve" resname="jazztag_vaginal-excited_two to tango">
+          <source>two to tango</source>
+        </trans-unit>
+        <trans-unit id="16823952211970" xml:space="preserve" resname="jazztag_vaginal-only_nymphomaniac">
+          <source>nymphomaniac</source>
+        </trans-unit>
+        <trans-unit id="16823956406272" xml:space="preserve" resname="jazztag_vaginal-only_always hungry">
+          <source>always hungry</source>
+        </trans-unit>
+        <trans-unit id="16823956406273" xml:space="preserve" resname="jazztag_vaginal-only_volcano style">
+          <source>volcano style</source>
+        </trans-unit>
+        <trans-unit id="16823960600576" xml:space="preserve" resname="jazztag_vaginal--_no mommy's boys">
+          <source>no mommy's boys</source>
+        </trans-unit>
+        <trans-unit id="16823960600577" xml:space="preserve" resname="jazztag_vaginal--_tough nut">
+          <source>tough nut</source>
+        </trans-unit>
+        <trans-unit id="16823960600578" xml:space="preserve" resname="jazztag_vaginal--_dare you?">
+          <source>dare you?</source>
+        </trans-unit>
+        <trans-unit id="16823964794880" xml:space="preserve" resname="jazztag_vaginal--_skill wanted">
+          <source>skill wanted</source>
+        </trans-unit>
+        <trans-unit id="16823968989184" xml:space="preserve" resname="jazztag_vaginal--_ice queen">
+          <source>ice queen</source>
+        </trans-unit>
+        <trans-unit id="16823973183488" xml:space="preserve" resname="jazztag_vaginal--_size matters">
+          <source>size matters</source>
+        </trans-unit>
+        <trans-unit id="16823977377792" xml:space="preserve" resname="jazztag_vaginal--_bigger is better">
+          <source>bigger is better</source>
+        </trans-unit>
+        <trans-unit id="16823981572096" xml:space="preserve" resname="jazztag_vaginal--_size queen">
+          <source>size queen</source>
+        </trans-unit>
+        <trans-unit id="16823981572097" xml:space="preserve" resname="jazztag_vaginal--_heavy weight only">
+          <source>heavy weight only</source>
+        </trans-unit>
+        <trans-unit id="16823981572098" xml:space="preserve" resname="jazztag_vaginal--_thinking big">
+          <source>thinking big</source>
+        </trans-unit>
+        <trans-unit id="16823985766400" xml:space="preserve" resname="jazztag_vaginal--_looking for a hero">
+          <source>looking for a hero</source>
+        </trans-unit>
+        <trans-unit id="16823985766401" xml:space="preserve" resname="jazztag_vaginal--_mountain climber">
+          <source>mountain climber</source>
+        </trans-unit>
+        <trans-unit id="16823985766402" xml:space="preserve" resname="jazztag_vaginal--_go big or go home">
+          <source>go big or go home</source>
+        </trans-unit>
+        <trans-unit id="16823989960704" xml:space="preserve" resname="jazztag_vaginal--_ego crusher">
+          <source>ego crusher</source>
+        </trans-unit>
+        <trans-unit id="16823989960705" xml:space="preserve" resname="jazztag_vaginal--_xl only">
+          <source>xl only</source>
+        </trans-unit>
+        <trans-unit id="16823989960706" xml:space="preserve" resname="jazztag_vaginal++_handle with care">
+          <source>handle with care</source>
+        </trans-unit>
+        <trans-unit id="16823994155008" xml:space="preserve" resname="jazztag_vaginal++_small is beautiful">
+          <source>small is beautiful</source>
+        </trans-unit>
+        <trans-unit id="16823994155009" xml:space="preserve" resname="jazztag_vaginal++_compact edition">
+          <source>compact edition</source>
+        </trans-unit>
+        <trans-unit id="16823998349312" xml:space="preserve" resname="jazztag_vaginal++_less is more">
+          <source>less is more</source>
+        </trans-unit>
+        <trans-unit id="16823998349313" xml:space="preserve" resname="jazztag_vaginal++_safety first">
+          <source>safety first</source>
+        </trans-unit>
+        <trans-unit id="16823998349314" xml:space="preserve" resname="jazztag_vaginal++_low impact only">
+          <source>low impact only</source>
+        </trans-unit>
+        <trans-unit id="16824002543616" xml:space="preserve" resname="jazztag_vaginal++_no rough hands">
+          <source>no rough hands</source>
+        </trans-unit>
+        <trans-unit id="16824002543617" xml:space="preserve" resname="jazztag_vaginal++_rose reqs teddy touch">
+          <source>rose reqs teddy touch</source>
+        </trans-unit>
+        <trans-unit id="16824002543618" xml:space="preserve" resname="jazztag_vaginal++_no ego please">
+          <source>no ego please</source>
+        </trans-unit>
+        <trans-unit id="16824006737920" xml:space="preserve" resname="jazztag_vaginal++_no pressure">
+          <source>no pressure</source>
+        </trans-unit>
+        <trans-unit id="16824006737921" xml:space="preserve" resname="jazztag_vaginal++_focus on the feeling">
+          <source>focus on the feeling</source>
+        </trans-unit>
+        <trans-unit id="16824006737922" xml:space="preserve" resname="jazztag_vaginal++_fragile flower">
+          <source>fragile flower</source>
+        </trans-unit>
+        <trans-unit id="16824010932224" xml:space="preserve" resname="jazztag_vaginal++_slim and sensitive">
+          <source>slim and sensitive</source>
+        </trans-unit>
+        <trans-unit id="16824010932225" xml:space="preserve" resname="jazztag_vaginal++_tenderness appreciated">
+          <source>tenderness appreciated</source>
+        </trans-unit>
+        <trans-unit id="16824015126528" xml:space="preserve" resname="jazztag_vaginal++_fragile but fierce">
+          <source>fragile but fierce</source>
+        </trans-unit>
+        <trans-unit id="16824015126529" xml:space="preserve" resname="jazztag_vaginal++_treat gently">
+          <source>treat gently</source>
+        </trans-unit>
+        <trans-unit id="16824019320832" xml:space="preserve" resname="jazztag_vaginal++_looking for a soft landing">
+          <source>looking for a soft landing</source>
+        </trans-unit>
+        <trans-unit id="16824019320833" xml:space="preserve" resname="jazztag_anal-a3-exp_gym rat with a peach">
+          <source>gym rat with a peach</source>
+        </trans-unit>
+        <trans-unit id="16824019320834" xml:space="preserve" resname="jazztag_anal-a3-exp_cute plug lover">
+          <source>cute plug lover</source>
+        </trans-unit>
+        <trans-unit id="16824023515136" xml:space="preserve" resname="jazztag_anal-a3-exp_eyes on the tail">
+          <source>eyes on the tail</source>
+        </trans-unit>
+        <trans-unit id="16824023515137" xml:space="preserve" resname="jazztag_anal-a3-exp_flexible in every way">
+          <source>flexible in every way</source>
+        </trans-unit>
+        <trans-unit id="16824023515138" xml:space="preserve" resname="jazztag_anal-a3-exp_gymnastic booty">
+          <source>gymnastic booty</source>
+        </trans-unit>
+        <trans-unit id="16824027709440" xml:space="preserve" resname="jazztag_anal-a3-exp_squat proof">
+          <source>squat proof</source>
+        </trans-unit>
+        <trans-unit id="16824027709441" xml:space="preserve" resname="jazztag_anal-a3-exp_zen for the rear">
+          <source>zen for the rear</source>
+        </trans-unit>
+        <trans-unit id="16824027709442" xml:space="preserve" resname="jazztag_anal-a3-exp_booty workout">
+          <source>booty workout</source>
+        </trans-unit>
+        <trans-unit id="16824031903744" xml:space="preserve" resname="jazztag_anal-a3-exp_yoga pants fan">
+          <source>yoga pants fan</source>
+        </trans-unit>
+        <trans-unit id="16824031903745" xml:space="preserve" resname="jazztag_anal-a3-exp_nutcracker mode available">
+          <source>nutcracker mode available</source>
+        </trans-unit>
+        <trans-unit id="16824031903746" xml:space="preserve" resname="jazztag_anal-a3-exp_crushing walnuts">
+          <source>crushing walnuts</source>
+        </trans-unit>
+        <trans-unit id="16824036098048" xml:space="preserve" resname="jazztag_anal-a3-exp_trap for the unwary">
+          <source>trap for the unwary</source>
+        </trans-unit>
+        <trans-unit id="16824036098049" xml:space="preserve" resname="jazztag_anal-a3-exp_trained for the deep">
+          <source>trained for the deep</source>
+        </trans-unit>
+        <trans-unit id="16824036098050" xml:space="preserve" resname="jazztag_anal-a3-exp_highly flexible">
+          <source>highly flexible</source>
+        </trans-unit>
+        <trans-unit id="16824040292352" xml:space="preserve" resname="jazztag_anal-never_back door closed">
+          <source>back door closed</source>
+        </trans-unit>
+        <trans-unit id="16824040292353" xml:space="preserve" resname="jazztag_anal-never_no wrong hole">
+          <source>no wrong hole</source>
+        </trans-unit>
+        <trans-unit id="16824044486656" xml:space="preserve" resname="jazztag_anal-never_no backdoor play">
+          <source>no backdoor play</source>
+        </trans-unit>
+        <trans-unit id="16824044486657" xml:space="preserve" resname="jazztag_anal-never_A is out of menu">
+          <source>A is out of menu</source>
+        </trans-unit>
+        <trans-unit id="16824044486658" xml:space="preserve" resname="jazztag_anal-never_hard no to A">
+          <source>hard no to A</source>
+        </trans-unit>
+        <trans-unit id="16824048680960" xml:space="preserve" resname="jazztag_anal-never_no A in 'sex'">
+          <source>no A in 'sex'</source>
+        </trans-unit>
+        <trans-unit id="16824048680961" xml:space="preserve" resname="jazztag_anal-never_A-">
+          <source>A-</source>
+        </trans-unit>
+        <trans-unit id="16824052875264" xml:space="preserve" resname="jazztag_anal-never_keeping it classic">
+          <source>keeping it classic</source>
+        </trans-unit>
+        <trans-unit id="16824052875265" xml:space="preserve" resname="jazztag_anal-never_don't cross the line">
+          <source>don't cross the line</source>
+        </trans-unit>
+        <trans-unit id="16824052875266" xml:space="preserve" resname="jazztag_anal-never_one way street only">
+          <source>one way street only</source>
+        </trans-unit>
+        <trans-unit id="16824057069568" xml:space="preserve" resname="jazztag_anal-never_no grave digging">
+          <source>no grave digging</source>
+        </trans-unit>
+        <trans-unit id="16824057069569" xml:space="preserve" resname="jazztag_anal-never_cleanliness freak">
+          <source>cleanliness freak</source>
+        </trans-unit>
+        <trans-unit id="16824061263872" xml:space="preserve" resname="jazztag_anal-never_purity lover">
+          <source>purity lover</source>
+        </trans-unit>
+        <trans-unit id="16824061263873" xml:space="preserve" resname="jazztag_a-ok+int_dark side adept">
+          <source>dark side adept</source>
+        </trans-unit>
+        <trans-unit id="16824061263874" xml:space="preserve" resname="jazztag_a-ok+int_look at my booty!">
+          <source>look at my booty!</source>
+        </trans-unit>
+        <trans-unit id="16824065458176" xml:space="preserve" resname="jazztag_a-ok+int_enjoying butt jokes">
+          <source>enjoying butt jokes</source>
+        </trans-unit>
+        <trans-unit id="16824065458177" xml:space="preserve" resname="jazztag_a-ok+int_booty adventurer">
+          <source>booty adventurer</source>
+        </trans-unit>
+        <trans-unit id="16824065458178" xml:space="preserve" resname="jazztag_a-ok+int_cave digger">
+          <source>cave digger</source>
+        </trans-unit>
+        <trans-unit id="16824065458179" xml:space="preserve" resname="jazztag_a-ok+int_drum baby">
+          <source>drum baby</source>
+        </trans-unit>
+        <trans-unit id="16824069652480" xml:space="preserve" resname="jazztag_a-ok+int_rip my yoga pants">
+          <source>rip my yoga pants</source>
+        </trans-unit>
+        <trans-unit id="16824069652481" xml:space="preserve" resname="jazztag_a-ok+int_testing the waters behind">
+          <source>testing the waters behind</source>
+        </trans-unit>
+        <trans-unit id="16824069652482" xml:space="preserve" resname="jazztag_a-ok+int_fit and thick">
+          <source>fit and thick</source>
+        </trans-unit>
+        <trans-unit id="16824073846784" xml:space="preserve" resname="jazztag_a-ok+int_deep space worker">
+          <source>deep space worker</source>
+        </trans-unit>
+        <trans-unit id="16824073846785" xml:space="preserve" resname="jazztag_a-ok+int_round and bound">
+          <source>round and bound</source>
+        </trans-unit>
+        <trans-unit id="16824073846786" xml:space="preserve" resname="jazztag_a-lover_lube burner">
+          <source>lube burner</source>
+        </trans-unit>
+        <trans-unit id="16824078041088" xml:space="preserve" resname="jazztag_a-lover_premium lube lover">
+          <source>premium lube lover</source>
+        </trans-unit>
+        <trans-unit id="16824078041089" xml:space="preserve" resname="jazztag_a-lover_could clap with no hands">
+          <source>could clap with no hands</source>
+        </trans-unit>
+        <trans-unit id="16824078041090" xml:space="preserve" resname="jazztag_a-lover_twerking star">
+          <source>twerking star</source>
+        </trans-unit>
+        <trans-unit id="16824078041091" xml:space="preserve" resname="jazztag_a-lover_black hole energy">
+          <source>black hole energy</source>
+        </trans-unit>
+        <trans-unit id="16824082235392" xml:space="preserve" resname="jazztag_a-lover_twerk queen">
+          <source>twerk queen</source>
+        </trans-unit>
+        <trans-unit id="16824082235393" xml:space="preserve" resname="jazztag_a-lover_at least three sets of pleasure">
+          <source>at least three sets of pleasure</source>
+        </trans-unit>
+        <trans-unit id="16824082235394" xml:space="preserve" resname="jazztag_pain-default_born to try">
+          <source>born to try</source>
+        </trans-unit>
+        <trans-unit id="16824086429696" xml:space="preserve" resname="jazztag_pain-default_tame me">
+          <source>tame me</source>
+        </trans-unit>
+        <trans-unit id="16824086429697" xml:space="preserve" resname="jazztag_pain-default_50 shades of grey">
+          <source>50 shades of grey</source>
+        </trans-unit>
+        <trans-unit id="16824086429698" xml:space="preserve" resname="jazztag_pain-default_looking for a king">
+          <source>looking for a king</source>
+        </trans-unit>
+        <trans-unit id="16824090624000" xml:space="preserve" resname="jazztag_pain-default_spank bank elite">
+          <source>spank bank elite</source>
+        </trans-unit>
+        <trans-unit id="16824090624001" xml:space="preserve" resname="jazztag_pain-default_pretend play expert">
+          <source>pretend play expert</source>
+        </trans-unit>
+        <trans-unit id="16824090624002" xml:space="preserve" resname="jazztag_pain-default_looking for more">
+          <source>looking for more</source>
+        </trans-unit>
+        <trans-unit id="16824094818304" xml:space="preserve" resname="jazztag_pain-default_teach me manners">
+          <source>teach me manners</source>
+        </trans-unit>
+        <trans-unit id="16824094818305" xml:space="preserve" resname="jazztag_pain-default_bad girl">
+          <source>bad girl</source>
+        </trans-unit>
+        <trans-unit id="16824099012608" xml:space="preserve" resname="jazztag_pain-default_bring your toys">
+          <source>bring your toys</source>
+        </trans-unit>
+        <trans-unit id="16824099012609" xml:space="preserve" resname="jazztag_pain-sm2-novice_expanding horizons">
+          <source>expanding horizons</source>
+        </trans-unit>
+        <trans-unit id="16824099012610" xml:space="preserve" resname="jazztag_pain-sm2-novice_pushing the boundaries">
+          <source>pushing the boundaries</source>
+        </trans-unit>
+        <trans-unit id="16824103206912" xml:space="preserve" resname="jazztag_pain-sm2-novice_ready for training">
+          <source>ready for training</source>
+        </trans-unit>
+        <trans-unit id="16824103206913" xml:space="preserve" resname="jazztag_pain-sm2-novice_looking for an alpha">
+          <source>looking for an alpha</source>
+        </trans-unit>
+        <trans-unit id="16824103206914" xml:space="preserve" resname="jazztag_pain-sm2-novice_no taboo">
+          <source>no taboo</source>
+        </trans-unit>
+        <trans-unit id="16824107401216" xml:space="preserve" resname="jazztag_pain-sm2-novice_up for anything">
+          <source>up for anything</source>
+        </trans-unit>
+        <trans-unit id="16824107401217" xml:space="preserve" resname="jazztag_pain-sm2-novice_owned by the best">
+          <source>owned by the best</source>
+        </trans-unit>
+        <trans-unit id="16824111595520" xml:space="preserve" resname="jazztag_pain-sm2-novice_adventurous soul">
+          <source>adventurous soul</source>
+        </trans-unit>
+        <trans-unit id="16824111595521" xml:space="preserve" resname="jazztag_pain-sm2-novice_restraints enthusiast">
+          <source>restraints enthusiast</source>
+        </trans-unit>
+        <trans-unit id="16824111595522" xml:space="preserve" resname="jazztag_pain-sm2-novice_testing my limits">
+          <source>testing my limits</source>
+        </trans-unit>
+        <trans-unit id="16824115789824" xml:space="preserve" resname="jazztag_pain-sm3-exp_waiting for a master">
+          <source>waiting for a master</source>
+        </trans-unit>
+        <trans-unit id="16824115789825" xml:space="preserve" resname="jazztag_pain-sm3-exp_submissive">
+          <source>submissive</source>
+        </trans-unit>
+        <trans-unit id="16824115789826" xml:space="preserve" resname="jazztag_pain-sm3-exp_obeying">
+          <source>obeying</source>
+        </trans-unit>
+        <trans-unit id="16824119984128" xml:space="preserve" resname="jazztag_pain-sm3-exp_experienced sub">
+          <source>experienced sub</source>
+        </trans-unit>
+        <trans-unit id="16824119984129" xml:space="preserve" resname="jazztag_pain-sm3-exp_be what you make me">
+          <source>be what you make me</source>
+        </trans-unit>
+        <trans-unit id="16824119984130" xml:space="preserve" resname="jazztag_pain-sm3-exp_your rules my pleasure">
+          <source>your rules my pleasure</source>
+        </trans-unit>
+        <trans-unit id="16824124178432" xml:space="preserve" resname="jazztag_pain-sm3-exp_discipline">
+          <source>discipline</source>
+        </trans-unit>
+        <trans-unit id="16824124178433" xml:space="preserve" resname="jazztag_pain-sm3-exp_well-trained">
+          <source>well-trained</source>
+        </trans-unit>
+        <trans-unit id="16824124178434" xml:space="preserve" resname="jazztag_pain-sm3-exp_obedient">
+          <source>obedient</source>
+        </trans-unit>
+        <trans-unit id="16824128372736" xml:space="preserve" resname="jazztag_pain-sm3-exp_LF good Dom">
+          <source>LF good Dom</source>
+        </trans-unit>
+        <trans-unit id="16824128372737" xml:space="preserve" resname="jazztag_pain-never_zero pain policy">
+          <source>zero pain policy</source>
+        </trans-unit>
+        <trans-unit id="16824128372738" xml:space="preserve" resname="jazztag_pain-never_vanilla princess">
+          <source>vanilla princess</source>
+        </trans-unit>
+        <trans-unit id="16824132567040" xml:space="preserve" resname="jazztag_pain-never_strictly fun">
+          <source>strictly fun</source>
+        </trans-unit>
+        <trans-unit id="16824132567041" xml:space="preserve" resname="jazztag_pain-never_vanilla only">
+          <source>vanilla only</source>
+        </trans-unit>
+        <trans-unit id="16824132567042" xml:space="preserve" resname="jazztag_pain-never_no pervs">
+          <source>no pervs</source>
+        </trans-unit>
+        <trans-unit id="16824136761344" xml:space="preserve" resname="jazztag_pain-never_warning: fragile">
+          <source>warning: fragile</source>
+        </trans-unit>
+        <trans-unit id="16824136761345" xml:space="preserve" resname="jazztag_pain-never_assets for worshipping">
+          <source>assets for worshipping</source>
+        </trans-unit>
+        <trans-unit id="16824136761346" xml:space="preserve" resname="jazztag_pain-excited_shame free zone">
+          <source>shame free zone</source>
+        </trans-unit>
+        <trans-unit id="16824136761347" xml:space="preserve" resname="jazztag_pain-excited_rough play only">
+          <source>rough play only</source>
+        </trans-unit>
+        <trans-unit id="16824140955648" xml:space="preserve" resname="jazztag_pain-excited_break me as I like it">
+          <source>break me as I like it</source>
+        </trans-unit>
+        <trans-unit id="16824140955649" xml:space="preserve" resname="jazztag_pain-excited_pain is my pleasure">
+          <source>pain is my pleasure</source>
+        </trans-unit>
+        <trans-unit id="16824140955650" xml:space="preserve" resname="jazztag_pain-excited_zero fluffs">
+          <source>zero fluffs</source>
+        </trans-unit>
+        <trans-unit id="16824145149952" xml:space="preserve" resname="jazztag_pain-excited_toys over boys">
+          <source>toys over boys</source>
+        </trans-unit>
+        <trans-unit id="16824145149953" xml:space="preserve" resname="jazztag_pain-excited_make me beg for mercy">
+          <source>make me beg for mercy</source>
+        </trans-unit>
+        <trans-unit id="16824149344256" xml:space="preserve" resname="jazztag_pain-excited_leather and lace">
+          <source>leather and lace</source>
+        </trans-unit>
+        <trans-unit id="16824149344257" xml:space="preserve" resname="jazztag_pain-excited_latex lover">
+          <source>latex lover</source>
+        </trans-unit>
+        <trans-unit id="16824149344258" xml:space="preserve" resname="jazztag_pain-excited_red is my color">
+          <source>red is my color</source>
+        </trans-unit>
+        <trans-unit id="16824153538560" xml:space="preserve" resname="jazztag_pain-excited_heavy metal queen">
+          <source>heavy metal queen</source>
+        </trans-unit>
+        <trans-unit id="16824153538561" xml:space="preserve" resname="jazztag_pain-excited_cold steel warms skin">
+          <source>cold steel warms skin</source>
+        </trans-unit>
+        <trans-unit id="16824153538562" xml:space="preserve" resname="jazztag_pain-excited_black and red">
+          <source>black and red</source>
+        </trans-unit>
+        <trans-unit id="16824157732864" xml:space="preserve" resname="jazztag_pain-excited_sore but happy">
+          <source>sore but happy</source>
+        </trans-unit>
+        <trans-unit id="16824157732865" xml:space="preserve" resname="jazztag_pain-only_no pain no gain">
+          <source>no pain no gain</source>
+        </trans-unit>
+        <trans-unit id="16824157732866" xml:space="preserve" resname="jazztag_climax-lover_make me lose my head">
+          <source>make me lose my head</source>
+        </trans-unit>
+        <trans-unit id="16824161927168" xml:space="preserve" resname="jazztag_climax-lover_drown in pleasure">
+          <source>drown in pleasure</source>
+        </trans-unit>
+        <trans-unit id="16824161927169" xml:space="preserve" resname="jazztag_climax-lover_lost in the moment">
+          <source>lost in the moment</source>
+        </trans-unit>
+        <trans-unit id="16824161927170" xml:space="preserve" resname="jazztag_climax-lover_mindless bliss">
+          <source>mindless bliss</source>
+        </trans-unit>
+        <trans-unit id="16824161927171" xml:space="preserve" resname="jazztag_climax-lover_pure instinct">
+          <source>pure instinct</source>
+        </trans-unit>
+        <trans-unit id="16824166121472" xml:space="preserve" resname="jazztag_climax-lover_take my breath away">
+          <source>take my breath away</source>
+        </trans-unit>
+        <trans-unit id="16824166121473" xml:space="preserve" resname="jazztag_climax-lover_no thoughts just feelings">
+          <source>no thoughts just feelings</source>
+        </trans-unit>
+        <trans-unit id="16824166121474" xml:space="preserve" resname="jazztag_climax-lover_drifting away">
+          <source>drifting away</source>
+        </trans-unit>
+        <trans-unit id="16824170315776" xml:space="preserve" resname="jazztag_climax-lover_ocean lover">
+          <source>ocean lover</source>
+        </trans-unit>
+        <trans-unit id="16824170315777" xml:space="preserve" resname="jazztag_climax-lover_let the tide take us">
+          <source>let the tide take us</source>
+        </trans-unit>
+        <trans-unit id="16824170315778" xml:space="preserve" resname="jazztag_cum-lover_overwhelm me">
+          <source>overwhelm me</source>
+        </trans-unit>
+        <trans-unit id="16824174510080" xml:space="preserve" resname="jazztag_cum-lover_creampie obsessed">
+          <source>creampie obsessed</source>
+        </trans-unit>
+        <trans-unit id="16824174510081" xml:space="preserve" resname="jazztag_cum-lover_I like cream">
+          <source>I like cream</source>
+        </trans-unit>
+        <trans-unit id="16824174510082" xml:space="preserve" resname="jazztag_cum-lover_more suggar!">
+          <source>more suggar!</source>
+        </trans-unit>
+        <trans-unit id="16824178704384" xml:space="preserve" resname="jazztag_cum-lover_make it taste sweet">
+          <source>make it taste sweet</source>
+        </trans-unit>
+        <trans-unit id="16824178704385" xml:space="preserve" resname="jazztag_hyperactive_be my storm">
+          <source>be my storm</source>
+        </trans-unit>
+        <trans-unit id="16824182898688" xml:space="preserve" resname="jazztag_hyperactive_I want a puppy">
+          <source>I want a puppy</source>
+        </trans-unit>
+        <trans-unit id="16824182898689" xml:space="preserve" resname="jazztag_hyperactive_travelling is my life">
+          <source>travelling is my life</source>
+        </trans-unit>
+        <trans-unit id="16824182898690" xml:space="preserve" resname="jazztag_hyperactive_taking yo-yo classes">
+          <source>taking yo-yo classes</source>
+        </trans-unit>
+        <trans-unit id="16824187092992" xml:space="preserve" resname="jazztag_hyperactive_breaking not building">
+          <source>breaking not building</source>
+        </trans-unit>
+        <trans-unit id="16824187092993" xml:space="preserve" resname="jazztag_hyperactive_hiding from exes">
+          <source>hiding from exes</source>
+        </trans-unit>
+        <trans-unit id="16824187092994" xml:space="preserve" resname="jazztag_hyperactive_33 babies!">
+          <source>33 babies!</source>
+        </trans-unit>
+        <trans-unit id="16824187092995" xml:space="preserve" resname="jazztag_hyperactive_ADHD babe">
+          <source>ADHD babe</source>
+        </trans-unit>
+        <trans-unit id="16824191287296" xml:space="preserve" resname="jazztag_hyperactive_unicorn princess">
+          <source>unicorn princess</source>
+        </trans-unit>
+        <trans-unit id="16824191287297" xml:space="preserve" resname="jazztag_hyperactive_beauty and the beast">
+          <source>beauty and the beast</source>
+        </trans-unit>
+        <trans-unit id="16824191287298" xml:space="preserve" resname="jazztag_mentally-weak_I'm all yours">
+          <source>I'm all yours</source>
+        </trans-unit>
+        <trans-unit id="16824195481600" xml:space="preserve" resname="jazztag_mentally-weak_be my wolf">
+          <source>be my wolf</source>
+        </trans-unit>
+        <trans-unit id="16824195481601" xml:space="preserve" resname="jazztag_mentally-weak_eat me">
+          <source>eat me</source>
+        </trans-unit>
+        <trans-unit id="16824195481602" xml:space="preserve" resname="jazztag_mentally-weak_swept away">
+          <source>swept away</source>
+        </trans-unit>
+        <trans-unit id="16824199675904" xml:space="preserve" resname="jazztag_mentally-weak_together into the abyss">
+          <source>together into the abyss</source>
+        </trans-unit>
+        <trans-unit id="16824199675905" xml:space="preserve" resname="jazztag_mentally-weak_don't feed birds with bread!">
+          <source>don't feed birds with bread!</source>
+        </trans-unit>
+        <trans-unit id="16824199675906" xml:space="preserve" resname="jazztag_mentally-weak_building the ant farm">
+          <source>building the ant farm</source>
+        </trans-unit>
+        <trans-unit id="16824203870208" xml:space="preserve" resname="jazztag_mentally-weak_say no to TV">
+          <source>say no to TV</source>
+        </trans-unit>
+        <trans-unit id="16824203870209" xml:space="preserve" resname="jazztag_mentally-weak_government rules you">
+          <source>government rules you</source>
+        </trans-unit>
+        <trans-unit id="16824203870210" xml:space="preserve" resname="jazztag_mentally-weak_follow the white rabbit">
+          <source>follow the white rabbit</source>
+        </trans-unit>
+        <trans-unit id="16824208064512" xml:space="preserve" resname="jazztag_patient_safe harbor">
+          <source>safe harbor</source>
+        </trans-unit>
+        <trans-unit id="16824208064513" xml:space="preserve" resname="jazztag_patient_calm and steady">
+          <source>calm and steady</source>
+        </trans-unit>
+        <trans-unit id="16824208064514" xml:space="preserve" resname="jazztag_patient_understanding heart">
+          <source>understanding heart</source>
+        </trans-unit>
+        <trans-unit id="16824212258816" xml:space="preserve" resname="jazztag_patient_mistakes are welcome">
+          <source>mistakes are welcome</source>
+        </trans-unit>
+        <trans-unit id="16824212258817" xml:space="preserve" resname="jazztag_patient_all happens to the best">
+          <source>all happens to the best</source>
+        </trans-unit>
+        <trans-unit id="16824216453120" xml:space="preserve" resname="jazztag_patient_practice makes perfect">
+          <source>practice makes perfect</source>
+        </trans-unit>
+        <trans-unit id="16824216453121" xml:space="preserve" resname="jazztag_patient_process over result">
+          <source>process over result</source>
+        </trans-unit>
+        <trans-unit id="16824220647424" xml:space="preserve" resname="jazztag_patient_comfort is everything">
+          <source>comfort is everything</source>
+        </trans-unit>
+        <trans-unit id="16824220647425" xml:space="preserve" resname="jazztag_patient_just be yourself">
+          <source>just be yourself</source>
+        </trans-unit>
+        <trans-unit id="16824220647426" xml:space="preserve" resname="jazztag_patient_experienced angler">
+          <source>experienced angler</source>
+        </trans-unit>
+        <trans-unit id="16824224841728" xml:space="preserve" resname="jazztag_patient_DIY expert">
+          <source>DIY expert</source>
+        </trans-unit>
+        <trans-unit id="16824224841729" xml:space="preserve" resname="jazztag_slutty_born to be wild">
+          <source>born to be wild</source>
+        </trans-unit>
+        <trans-unit id="16824224841730" xml:space="preserve" resname="jazztag_slutty_enjoy the ride">
+          <source>enjoy the ride</source>
+        </trans-unit>
+        <trans-unit id="16824224841731" xml:space="preserve" resname="jazztag_slutty_clubbing babe">
+          <source>clubbing babe</source>
+        </trans-unit>
+        <trans-unit id="16824229036032" xml:space="preserve" resname="jazztag_slutty_on the hunt">
+          <source>on the hunt</source>
+        </trans-unit>
+        <trans-unit id="16824229036033" xml:space="preserve" resname="jazztag_slutty_rave the night">
+          <source>rave the night</source>
+        </trans-unit>
+        <trans-unit id="16824229036034" xml:space="preserve" resname="jazztag_slutty_sex drugs rock-n-roll">
+          <source>sex drugs rock-n-roll</source>
+        </trans-unit>
+        <trans-unit id="16824233230336" xml:space="preserve" resname="jazztag_slutty_no more than 3 cocktails">
+          <source>no more than 3 cocktails</source>
+        </trans-unit>
+        <trans-unit id="16824233230337" xml:space="preserve" resname="jazztag_slutty_boys expert">
+          <source>boys expert</source>
+        </trans-unit>
+        <trans-unit id="16824233230338" xml:space="preserve" resname="jazztag_slutty_out of your league">
+          <source>out of your league</source>
+        </trans-unit>
+        <trans-unit id="16824237424640" xml:space="preserve" resname="jazztag_slutty_never say never">
+          <source>never say never</source>
+        </trans-unit>
+        <trans-unit id="16824237424641" xml:space="preserve" resname="jazztag_slutty_kinky">
+          <source>kinky</source>
+        </trans-unit>
+        <trans-unit id="16824237424642" xml:space="preserve" resname="jazztag_slutty_eye of storm">
+          <source>eye of storm</source>
+        </trans-unit>
+        <trans-unit id="16824237424643" xml:space="preserve" resname="jazztag_simulant_caring lover">
+          <source>caring lover</source>
+        </trans-unit>
+        <trans-unit id="16824241618944" xml:space="preserve" resname="jazztag_simulant_sweet and supportive">
+          <source>sweet and supportive</source>
+        </trans-unit>
+        <trans-unit id="16824241618945" xml:space="preserve" resname="jazztag_simulant_I'll do my best">
+          <source>I'll do my best</source>
+        </trans-unit>
+        <trans-unit id="16824241618946" xml:space="preserve" resname="jazztag_simulant_your seet pillow">
+          <source>your seet pillow</source>
+        </trans-unit>
+        <trans-unit id="16824245813248" xml:space="preserve" resname="jazztag_simulant_feminine power">
+          <source>feminine power</source>
+        </trans-unit>
+        <trans-unit id="16824245813249" xml:space="preserve" resname="jazztag_simulant_3 years on stage">
+          <source>3 years on stage</source>
+        </trans-unit>
+        <trans-unit id="16824245813250" xml:space="preserve" resname="jazztag_simulant_promising actress">
+          <source>promising actress</source>
+        </trans-unit>
+        <trans-unit id="16824250007552" xml:space="preserve" resname="jazztag_pornstar_familiar face">
+          <source>familiar face</source>
+        </trans-unit>
+        <trans-unit id="16824250007553" xml:space="preserve" resname="jazztag_pornstar_the girl next door">
+          <source>the girl next door</source>
+        </trans-unit>
+        <trans-unit id="16824250007554" xml:space="preserve" resname="jazztag_pornstar_has seen some sh*t">
+          <source>has seen some sh*t</source>
+        </trans-unit>
+        <trans-unit id="16824254201856" xml:space="preserve" resname="jazztag_pornstar_quite experienced">
+          <source>quite experienced</source>
+        </trans-unit>
+        <trans-unit id="16824254201857" xml:space="preserve" resname="jazztag_pornstar_subscribe to my OF">
+          <source>subscribe to my OF</source>
+        </trans-unit>
+        <trans-unit id="16824254201858" xml:space="preserve" resname="jazztag_pornstar_1st date is free">
+          <source>1st date is free</source>
+        </trans-unit>
+        <trans-unit id="16824254201859" xml:space="preserve" resname="jazztag_pornstar_try to surprise me">
+          <source>try to surprise me</source>
+        </trans-unit>
+        <trans-unit id="16824258396160" xml:space="preserve" resname="jazztag_pornstar_all men want the same">
+          <source>all men want the same</source>
+        </trans-unit>
+        <trans-unit id="16824258396161" xml:space="preserve" resname="jazztag_pornstar_skip the foreplay">
+          <source>skip the foreplay</source>
+        </trans-unit>
+        <trans-unit id="16824258396162" xml:space="preserve" resname="jazztag_pornstar_bath water 50% off">
+          <source>bath water 50% off</source>
+        </trans-unit>
+        <trans-unit id="16824262590464" xml:space="preserve" resname="jazztag_pornstar_selling panties">
+          <source>selling panties</source>
+        </trans-unit>
+        <trans-unit id="16824262590465" xml:space="preserve" resname="jazztag_lolly1_oldschool cool">
+          <source>oldschool cool</source>
+        </trans-unit>
+        <trans-unit id="16824262590466" xml:space="preserve" resname="jazztag_lolly1_never aging">
+          <source>never aging</source>
+        </trans-unit>
+        <trans-unit id="16824266784768" xml:space="preserve" resname="jazztag_lolly1_classical taste">
+          <source>classical taste</source>
+        </trans-unit>
+        <trans-unit id="16824266784769" xml:space="preserve" resname="jazztag_lolly1_you will come back">
+          <source>you will come back</source>
+        </trans-unit>
+        <trans-unit id="16824266784770" xml:space="preserve" resname="jazztag_lolly1_jazzy vibes">
+          <source>jazzy vibes</source>
+        </trans-unit>
+        <trans-unit id="16824270979072" xml:space="preserve" resname="jazztag_lolly1_old is good">
+          <source>old is good</source>
+        </trans-unit>
+        <trans-unit id="16824270979073" xml:space="preserve" resname="jazztag_quickie_matching energies">
+          <source>matching energies</source>
+        </trans-unit>
+        <trans-unit id="16824275173376" xml:space="preserve" resname="jazztag_quickie_like it, share it!">
+          <source>like it, share it!</source>
+        </trans-unit>
+        <trans-unit id="16824275173377" xml:space="preserve" resname="jazztag_quickie_subscribe on Twitch">
+          <source>subscribe on Twitch</source>
+        </trans-unit>
+        <trans-unit id="16824275173378" xml:space="preserve" resname="jazztag_quickie_no Snap until 3rd date">
+          <source>no Snap until 3rd date</source>
+        </trans-unit>
+        <trans-unit id="16824279367680" xml:space="preserve" resname="jazztag_quickie_short of shorts">
+          <source>short of shorts</source>
+        </trans-unit>
+        <trans-unit id="16824279367681" xml:space="preserve" resname="jazztag_quickie_owning a silver YT button">
+          <source>owning a silver YT button</source>
+        </trans-unit>
+        <trans-unit id="16824279367682" xml:space="preserve" resname="jazztag_quickie_100 000 fans">
+          <source>100 000 fans</source>
+        </trans-unit>
+        <trans-unit id="16824283561984" xml:space="preserve" resname="jazztag_quickie_Insta expert">
+          <source>Insta expert</source>
+        </trans-unit>
+        <trans-unit id="16824283561985" xml:space="preserve" resname="jazztag_quickie_pro gamer">
+          <source>pro gamer</source>
+        </trans-unit>
+        <trans-unit id="16824287756288" xml:space="preserve" resname="jazztag_quickie_Tik &amp; Tok">
+          <source>Tik &amp; Tok</source>
+        </trans-unit>
+        <trans-unit id="16824287756289" xml:space="preserve" resname="jazztag_quickie_rilly reels">
+          <source>rilly reels</source>
+        </trans-unit>
+        <trans-unit id="16824287756290" xml:space="preserve" resname="jazztag_quickie_UwU">
+          <source>UwU</source>
+        </trans-unit>
+        <trans-unit id="16824291950592" xml:space="preserve" resname="jazztag_quickie_ping me!">
+          <source>ping me!</source>
+        </trans-unit>
+        <trans-unit id="16824291950593" xml:space="preserve" resname="jazztag_quickie_influencer">
+          <source>influencer</source>
+        </trans-unit>
+        <trans-unit id="16824296144896" xml:space="preserve" resname="jazztag_straight_girls power">
+          <source>girls power</source>
+        </trans-unit>
+        <trans-unit id="16824296144897" xml:space="preserve" resname="jazztag_straight_girls rules">
+          <source>girls rules</source>
+        </trans-unit>
+        <trans-unit id="16824300339200" xml:space="preserve" resname="jazztag_straight_let's explore together">
+          <source>let's explore together</source>
+        </trans-unit>
+        <trans-unit id="16824300339201" xml:space="preserve" resname="jazztag_straight_playing football">
+          <source>playing football</source>
+        </trans-unit>
+        <trans-unit id="16824300339202" xml:space="preserve" resname="jazztag_straight_mountainbiking fan">
+          <source>mountainbiking fan</source>
+        </trans-unit>
+        <trans-unit id="16824304533504" xml:space="preserve" resname="jazztag_straight_dual bungee jumping">
+          <source>dual bungee jumping</source>
+        </trans-unit>
+        <trans-unit id="16824304533505" xml:space="preserve" resname="jazztag_straight_LF a companion">
+          <source>LF a companion</source>
+        </trans-unit>
+        <trans-unit id="16824304533506" xml:space="preserve" resname="jazztag_straight_navigator required">
+          <source>navigator required</source>
+        </trans-unit>
+        <trans-unit id="16824304533507" xml:space="preserve" resname="jazztag_straight_wanna ride with me">
+          <source>wanna ride with me</source>
+        </trans-unit>
+        <trans-unit id="16824308727808" xml:space="preserve" resname="jazztag_straight_girls can box">
+          <source>girls can box</source>
+        </trans-unit>
+        <trans-unit id="16824308727809" xml:space="preserve" resname="jazztag_straight_moderate feminist">
+          <source>moderate feminist</source>
+        </trans-unit>
+        <trans-unit id="16824308727810" xml:space="preserve" resname="jazztag_straight_gender equality">
+          <source>gender equality</source>
+        </trans-unit>
+        <trans-unit id="16824312922112" xml:space="preserve" resname="jazztag_straight_angel of hell">
+          <source>angel of hell</source>
+        </trans-unit>
+        <trans-unit id="16824312922113" xml:space="preserve" resname="jazztag_straight_1%er">
+          <source>1%er</source>
+        </trans-unit>
+        <trans-unit id="16824312922114" xml:space="preserve" resname="jazztag_straight_princess on the white horse">
+          <source>princess on the white horse</source>
+        </trans-unit>
+        <trans-unit id="16824317116416" xml:space="preserve" resname="jazztag_yandere_eternal lover">
+          <source>eternal lover</source>
+        </trans-unit>
+        <trans-unit id="16824317116417" xml:space="preserve" resname="jazztag_yandere_synchronized heartbeats">
+          <source>synchronized heartbeats</source>
+        </trans-unit>
+        <trans-unit id="16824317116418" xml:space="preserve" resname="jazztag_yandere_I want someone to rely on">
+          <source>I want someone to rely on</source>
+        </trans-unit>
+        <trans-unit id="16824321310720" xml:space="preserve" resname="jazztag_yandere_loking for the one and only">
+          <source>loking for the one and only</source>
+        </trans-unit>
+        <trans-unit id="16824321310721" xml:space="preserve" resname="jazztag_yandere_it's mine if I say so">
+          <source>it's mine if I say so</source>
+        </trans-unit>
+        <trans-unit id="16824321310722" xml:space="preserve" resname="jazztag_yandere_in the name of love!">
+          <source>in the name of love!</source>
+        </trans-unit>
+        <trans-unit id="16824321310723" xml:space="preserve" resname="jazztag_yandere_true love believer">
+          <source>true love believer</source>
+        </trans-unit>
+        <trans-unit id="16824325505024" xml:space="preserve" resname="jazztag_yandere_mastering lock picking">
+          <source>mastering lock picking</source>
+        </trans-unit>
+        <trans-unit id="16824325505025" xml:space="preserve" resname="jazztag_yandere_stalking expert">
+          <source>stalking expert</source>
+        </trans-unit>
+        <trans-unit id="16824325505026" xml:space="preserve" resname="jazztag_yandere_lovecraftian princess">
+          <source>lovecraftian princess</source>
+        </trans-unit>
+        <trans-unit id="16824329699328" xml:space="preserve" resname="jazztag_yandere_a clockwork beauty">
+          <source>a clockwork beauty</source>
+        </trans-unit>
+        <trans-unit id="16824329699329" xml:space="preserve" resname="jazztag_yandere_butterfly collector">
+          <source>butterfly collector</source>
+        </trans-unit>
+        <trans-unit id="16824333893632" xml:space="preserve" resname="jazztag_silentgirl_a bookworm">
+          <source>a bookworm</source>
+        </trans-unit>
+        <trans-unit id="16824333893633" xml:space="preserve" resname="jazztag_silentgirl_invisible girl">
+          <source>invisible girl</source>
+        </trans-unit>
+        <trans-unit id="16824333893634" xml:space="preserve" resname="jazztag_silentgirl_working in a library">
+          <source>working in a library</source>
+        </trans-unit>
+        <trans-unit id="16824338087936" xml:space="preserve" resname="jazztag_silentgirl_trad wife">
+          <source>trad wife</source>
+        </trans-unit>
+        <trans-unit id="16824338087937" xml:space="preserve" resname="jazztag_silentgirl_nobody cares">
+          <source>nobody cares</source>
+        </trans-unit>
+        <trans-unit id="16824342282240" xml:space="preserve" resname="jazztag_radiogirl_karaoke girl">
+          <source>karaoke girl</source>
+        </trans-unit>
+        <trans-unit id="16824342282241" xml:space="preserve" resname="jazztag_radiogirl_don't ignore me">
+          <source>don't ignore me</source>
+        </trans-unit>
+        <trans-unit id="16824342282242" xml:space="preserve" resname="jazztag_radiogirl_shining like a diamond">
+          <source>shining like a diamond</source>
+        </trans-unit>
+        <trans-unit id="16824346476544" xml:space="preserve" resname="jazztag_radiogirl_small talker">
+          <source>small talker</source>
+        </trans-unit>
+        <trans-unit id="16824346476545" xml:space="preserve" resname="jazztag_radiogirl_chatting">
+          <source>chatting</source>
+        </trans-unit>
+        <trans-unit id="16824346476546" xml:space="preserve" resname="jazztag_general_fragile and wild">
+          <source>fragile and wild</source>
+        </trans-unit>
+        <trans-unit id="16824350670848" xml:space="preserve" resname="jazztag_general_go with the flow">
+          <source>go with the flow</source>
+        </trans-unit>
+        <trans-unit id="16824350670849" xml:space="preserve" resname="jazztag_general_cuddles first">
+          <source>cuddles first</source>
+        </trans-unit>
+        <trans-unit id="16824350670850" xml:space="preserve" resname="jazztag_general_to be or not to be">
+          <source>to be or not to be</source>
+        </trans-unit>
+        <trans-unit id="16824354865152" xml:space="preserve" resname="jazztag_general_wild cat">
+          <source>wild cat</source>
+        </trans-unit>
+        <trans-unit id="16824354865153" xml:space="preserve" resname="jazztag_general_difficult to find">
+          <source>difficult to find</source>
+        </trans-unit>
+        <trans-unit id="16824354865154" xml:space="preserve" resname="jazztag_general_pet person">
+          <source>pet person</source>
+        </trans-unit>
+        <trans-unit id="16824359059456" xml:space="preserve" resname="jazztag_general_cosplay fan">
+          <source>cosplay fan</source>
+        </trans-unit>
+        <trans-unit id="16824359059457" xml:space="preserve" resname="jazztag_general_fond of baking">
+          <source>fond of baking</source>
+        </trans-unit>
+        <trans-unit id="16824359059458" xml:space="preserve" resname="jazztag_general_see you space cowboy">
+          <source>see you space cowboy</source>
+        </trans-unit>
+        <trans-unit id="16824363253760" xml:space="preserve" resname="jazztag_general_MMORPG addicted">
+          <source>MMORPG addicted</source>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
