@@ -76,7 +76,7 @@ Also it has some minimal quality control checks. In my case it shows warnings ab
 
 ![screenshot of xliff.ai](readme-pics/xliff-qa.png)
 
-After you're done save the result with either 'save' or 'export' button. This will download the updated file to your computer. Now you can upload the updated file back to github, it will replace the original one. The same as in 'Make changes directly' add a 'commit message' describing the update.
+After you're done save the result with either 'save' or 'export' button. This will download the updated file to your computer. Now you can upload the updated file back to github, it will replace the original one (don't forget to navigate to the wanted folder first, as I did when testing this flow). Add a 'commit message' describing the update, the same as in 'Make changes directly'.
 
 ![upload file button](readme-pics/git-upload.png)
 
