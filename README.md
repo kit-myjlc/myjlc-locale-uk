@@ -11,7 +11,7 @@ The best editor I tested is [xliff.ai](https://xliff.ai/editor/), which is an on
 
 ## A bit more details for non-IT people
 
-If you'd like to make changes in a text editor, the 'scary codee-like framing' should be left as it is. Each text chunk has the next format:
+If you'd like to make changes in a text editor, the 'scary code-like framing' should be left as it is. Each text chunk has the next format:
 
 ```
 <trans-unit id="12443138293760" xml:space="preserve" resname="trait_name_anal-a2-inexp">
@@ -24,7 +24,7 @@ Field `resname="XXX"` represents the key I mentioned earlier. It contains the im
 `<source>YYY</source>` is the original English text for the reference. 
 `<target>ZZZ</target>` is the translation. You should change only what's in between the 'target' tags.
 
-When opening a file in the xliff editor, the whole structure will be shown as a table. Most of editors show only 'source' and 'target' parts, but the xliff.ai I recommended has the nice 'details' button showing the key.
+When opening a file in the xliff editor, the whole structure will be shown as a table. Most editors show only 'source' and 'target' parts, but the xliff.ai I recommended has the nice 'details' button showing the key.
 
 ![screenshot of xliff.ai](readme-pics/xliff-editor.png)
 
@@ -59,4 +59,6 @@ You can name your copy as you wish. Check 'copy main branch only' if it's unchec
 
 
 ## Make a pull request
+
+
 
