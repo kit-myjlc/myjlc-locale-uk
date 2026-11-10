@@ -84,10 +84,21 @@ After you're done save the result with either 'save' or 'export' button. This wi
 
 After all your changes are ready you should create a 'pull request' to transfer them to the main repository. Then someone responsible will get a notification, so they could re-check your changes and approve it. Or deny the update and add some comments explaining what's wrong (for example, the structure is broken or someone else translated this part in parallel and we need to choose the best option now).
 
-![create pull request button](readme-pics/git-pullrequest-button.png)
+![press contribute to create a PR](readme-pics/git-contribute.png)
 ![create pull request form](readme-pics/git-pullrequest-form.png)
 
-It is advised to synchronize your changes periodically. Update your copy of the repository before starting the work (TODO), create pull rerequests after the work is done. Don't keep your updates hidden from the community for long. Otherwise if there are multiple translators for your language there might occur some conflicts. It's not a big deal actually, as git is designed to resolve issues like this, but it means I should extend this guide a lot with much more screenshots and explanations :-D.
+## Best practices
 
+To keep your copy up-to-date with everyone it's a good idea to sync it with the main repository before starting a work session, so you can get all the changes made by other translators and not duplicate their work.
 
+![press sync to update your copy](readme-pics/git-syncfork.png)
 
+Make 'commits' at the end of each work session to save your work, e.g. once a day. Once a meaningful amount of changes is collected, make pull requests to push them to the main repository as it was described above. 
+
+You're not required to push your changes every day (I'm afraid to spend all my time reviewing your changes, honestly), though don't keep your updates private for too long as well. Otherwise if there are multiple translators for your language there might occur conflicts. It's not a big deal actually, as git is designed to resolve issues like this, but it means I should extend this guide a lot with much more screenshots and explanations :-D.
+
+# Outro
+
+It feels weird writing a guide like this for people who never used git and github earlier. Though I tried to explain things in detail and with screenshots -- I hope it will help. This guide will be extended if necessary. Feel free to ask questions in our discord if something's not clear.
+
+Thank you for your help!
