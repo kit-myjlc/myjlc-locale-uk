@@ -14,13 +14,13 @@ The best editor I tested is [xliff.ai](https://xliff.ai/editor/), which is an on
 
 Each folder contains the lines for a certain language. The files inside represent different scopes:
 
-- myjlc-XLIFF1.2-Help_xx.xlf -- for the 'bubble' tooltips are shown in the game help and welcome screen.
-- myjlc-XLIFF1.2-JazzTag_xx.xlf -- for the 'tags' generated in the girl's Jazz profile, representing the traits. That's where original keys come in handy -- those contain the actual trait ids (not UI names, but ids) providing more context for translation.
-- myjlc-XLIFF1.2-NamePool_xx.xlf -- potential names for girls. This is the largest subset and it doesn't need an actual translation (I'd like to keep the original cultural context for most of the names), only transliteration into your language. Keys here contain the culture where the name belongs to.
-- myjlc-XLIFF1.2-Trait_xx.xlf -- girl traits: names and descriptive tooltips. Keys contain the in-game trait ids, so this can be used to match JazzTags with the familiar trait names.
-- myjlc-XLIFF1.2-TrustMod_xx.xlf -- trust modifiers for Jazz mode.
-- myjlc-XLIFF1.2-UI_xx.xlf -- for static UI labels. This is the largest actually translatable subset. Keys contain the game area where the label is used: like 'main' for main UI you see all the time while playing, 'settings' for settings window, 'wizard' for sandbox constructor window etc. 'btn' code is used for button tooltips, 'hint' for large labels' tooltips. It's difficult to explain the whole key structure here, but I tried to make it as verbose as possible.
-- myjlc-XLIFF1.2-Wardrobe_xx.xlf -- wardrobe item names (this includes toys). 'group_xx" for clothes categories, 'unlock_xx' for the groups unlockable in Jazz mode (these are shown in log and confirmation dialog).
+- `myjlc-XLIFF1.2-Help_xx.xlf` -- for the 'bubble' tooltips are shown in the game help and welcome screen.
+- `myjlc-XLIFF1.2-JazzTag_xx.xlf` -- for the 'tags' generated in the girl's Jazz profile, representing the traits. That's where original keys come in handy -- those contain the actual trait ids (not UI names, but ids) providing more context for translation.
+- `myjlc-XLIFF1.2-NamePool_xx.xlf` -- potential names for girls. This is the largest subset and it doesn't need an actual translation (I'd like to keep the original cultural context for most of the names), only transliteration into your language. Keys here contain the culture where the name belongs to.
+- `myjlc-XLIFF1.2-Trait_xx.xlf` -- girl traits: names and descriptive tooltips. Keys contain the in-game trait ids, so this can be used to match JazzTags with the familiar trait names.
+- `myjlc-XLIFF1.2-TrustMod_xx.xlf` -- trust modifiers for Jazz mode.
+- `myjlc-XLIFF1.2-UI_xx.xlf` -- for static UI labels. This is the largest actually translatable subset. Keys contain the game area where the label is used: like 'main' for main UI you see all the time while playing, 'settings' for settings window, 'wizard' for sandbox constructor window etc. 'btn' code is used for button tooltips, 'hint' for large labels' tooltips. It's difficult to explain the whole key structure here, but I tried to make it as verbose as possible.
+- `myjlc-XLIFF1.2-Wardrobe_xx.xlf` -- wardrobe item names (this includes toys). 'group_xx" for clothes categories, 'unlock_xx' for the groups unlockable in Jazz mode (these are shown in log and confirmation dialog).
 
 
 # Workflow
